@@ -5,8 +5,8 @@ lang: de
 ref: main
 ---
 
-* [Über die Stiftung](/en/about)
-* [Nachrichten / Blog](/de/news)
+* [Über die Stiftung](/racovita/en/about)
+* [Nachrichten / Blog](/racovita/de/news)
 * Veranstaltungen
 * Stipendien
 * Unterstützer
@@ -14,4 +14,4 @@ ref: main
 * Historisch
      * Das Leben von Emil Racoviță
      * Stiftung
-* [Kontakt](/contact)
+* [Kontakt](/racovita/contact)

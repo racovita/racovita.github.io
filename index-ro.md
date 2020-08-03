@@ -6,8 +6,8 @@ ref: main
 ---
 
 
-* [Despre Fundație](/ro/about/)
-* [Știri/Blog](/ro/news/)
+* [Despre Fundație](/racovita/ro/about/)
+* [Știri/Blog](/racovita/ro/news/)
 * Evenimente
 * Burse
 * Susținători
@@ -15,4 +15,4 @@ ref: main
 * Istoric
     * Viața lui Emil Racoviță
     * Fundația
-* [Contacte](/contact)
+* [Contacte](/racovita/contact)
