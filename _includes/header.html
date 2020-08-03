@@ -26,7 +26,10 @@
           {%- endfor -%}
 
           {%- for lang in site.languages -%}
-          <a href="/{{ lang[1].home.url | relative_url }}"> {{ lang[0] | escape }}</a>
+          <!--
+          <a href='{{ "/racovita" | append: lang[1].home.url }}'> {{ lang[0] | escape }}</a>
+            -->
+            <a href='{{ lang[1].home.url | absolute_url }}'> {{ lang[0] | escape }}</a>
           {%- endfor -%}
         </div>
       </nav>
