@@ -29,7 +29,11 @@
           <!--
           <a href='{{ "/racovita" | append: lang[1].home.url }}'> {{ lang[0] | escape }}</a>
             -->
+            {%- if lang[0] == site.default_lang -%}
+            <a href='{{ "/index.html" | absolute_url }}'> {{ lang[0] | escape }}</a>
+            {%- else -%}
             <a href='{{ lang[0] | append: "/index.html" | absolute_url }}'> {{ lang[0] | escape }}</a>
+            {%- endif -%}
           {%- endfor -%}
         </div>
       </nav>

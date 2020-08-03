@@ -94,7 +94,7 @@ header h2 {
 }
 
 .inner {
-  width: 620px;
+  width: 900px;
   margin: 0 auto;
 }
 
@@ -301,7 +301,8 @@ blockquote {
 ul li {
   list-style-position: inside;
   list-style: disc;
-  padding-left: 20px;
+  padding-left: 3px;
+  margin-left: 40px;
 }
 
 ol li {

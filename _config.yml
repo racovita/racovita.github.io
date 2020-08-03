@@ -31,7 +31,7 @@ baseurl: "/racovita" # the subpath of your site, e.g. /blog
 # github_username:  cc10512
 show_downloads: false
 
-t: "english"
+default_lang: en
 languages:
   en:
     title: "Emil G. Racovita Foundation"
