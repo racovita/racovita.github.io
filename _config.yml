@@ -26,8 +26,8 @@ email: calin@cascaval.us
 description: The Emil G. Racovita Foundation for Science and Extreme
              Environments
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://racoviță-foundation.ro" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/racovita" # the subpath of your site, e.g. /blog
+# url: "https://racoviță-foundation.ro" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  cc10512
 show_downloads: false
 
