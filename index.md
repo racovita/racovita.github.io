@@ -5,8 +5,8 @@ ref: main
 ---
 
 
-* [About](/en/about)
-* [News/Blog](/en/news)
+* [About](/racovita/en/about)
+* [News/Blog](/racovita/en/news)
 * Events
 * Sponsorship & grants
 * Sponsors/support
@@ -14,4 +14,4 @@ ref: main
 * History
     * Racovita's life
     * Foundation
-* [Contact](/contact)
+* [Contact](/racovita/contact)
