@@ -6,6 +6,7 @@ lang: de
 ref: news
 ---
 
+<h2>{{ site.languages[page.lang].news }}</h2>
 
 {% assign posts=site.posts | where:"lang", page.lang %}
 <ul>

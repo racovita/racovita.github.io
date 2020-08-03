@@ -29,7 +29,7 @@
           <!--
           <a href='{{ "/racovita" | append: lang[1].home.url }}'> {{ lang[0] | escape }}</a>
             -->
-            <a href='{{ lang[1].home.url | absolute_url }}'> {{ lang[0] | escape }}</a>
+            <a href='{{ lang[0] | append: "/index.html" | absolute_url }}'> {{ lang[0] | escape }}</a>
           {%- endfor -%}
         </div>
       </nav>

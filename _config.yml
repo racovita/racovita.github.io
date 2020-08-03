@@ -35,24 +35,24 @@ t: "english"
 languages:
   en:
     title: "Emil G. Racovita Foundation"
-    home:
-      name: "Home"
-      url: "index.html"
+    home: "Home"
+    about: "About"
+    news: "News"
   ro:
     title: "Fundația Emil G. Racoviță"
-    home:
-      name: "Acasa"
-      url: "ro/index.html"
+    home: "Acasa"
+    about: "Despre Fundatie"
+    news: "Știri"
   fr:
     title: "La Fondation Emil G. Racovita"
-    home:
-      name: "Accueil"
-      url: "fr/index.html"
+    home: "Accueil"
+    about: "À propos"
+    news: "Nouvelles"
   de:
     title: "Emil G. Racoviţă-Stiftung"
-    home:
-      name: "Zuhause"
-      url: "de/index.html"
+    home: "Zuhause"
+    about: "Über"
+    news: "Nachrichten"
 
 # Build settings
 # theme: minima
