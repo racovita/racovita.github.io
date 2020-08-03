@@ -4,7 +4,7 @@
     {%- assign pages = site.pages | where:"lang", page.lang -%}
     {%- assign default_paths = pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <h1>{{ site.languages[page.lang].title | escape }}</h1>
 
     {%- if page_paths -%}
       <nav class="site-nav">
@@ -26,7 +26,7 @@
           {%- endfor -%}
 
           {%- for lang in site.languages -%}
-          <a href="{{ lang[1].home.url }}"> {{ lang[0] | escape }}</a>
+          <a href="/{{ lang[1].home.url }}"> {{ lang[0] | escape }}</a>
           {%- endfor -%}
         </div>
       </nav>

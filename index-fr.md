@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /fr/index.html
-lang: ro
+lang: fr
 ref: main
 ---
 
@@ -9,8 +9,8 @@ ref: main
 * [Actualités / Blog](/fr/news)
 * Événements
 * Bourses d'études
-* Partisans
-* Leadership de la fondation
+* Patrons
+* Direction de la fondation
 * Historique
      * La vie d'Emil Racoviță
      * Fondation
