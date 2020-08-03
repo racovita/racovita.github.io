@@ -1,7 +1,9 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /en/about/
+lang: en
+ref: about
 ---
 
 The Emil G. Racovita Foundation for Science and

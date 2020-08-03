@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nouvelles
-permalink: /nouvelles/
+permalink: /fr/news/
 lang: fr
 ref: news
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Știri
-permalink: /stiri/
+permalink: /ro/news/
 lang: ro
 ref: news
 ---

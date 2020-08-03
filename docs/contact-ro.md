@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Contact
-permalink: /contact/
-lang: en
+title: Contacte
+permalink: /contact-ro/
+lang: ro
 ref: contacts
 ---
 

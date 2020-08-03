@@ -20,31 +20,49 @@
 
 title: Fundatia Emil G. Racoviță
 email: calin@cascaval.us
-description: The Emil G. Racovita Foundation for Science and Extreme
-             Environments
-
-# this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
+description: The Emil G. Racovita Foundation for Science and Extreme
+             Environments
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://racoviță-foundation.ro" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  cc10512
+# github_username:  cc10512
 show_downloads: false
 
+t: "english"
+languages:
+  en:
+    home:
+      name: "Home"
+      url: "/"
+  ro:
+    home:
+      name: "Acasa"
+      url: "ro/index.html"
+  fr:
+    home:
+      name: "Accueil"
+      url: "/fr/index.html"
+  de:
+    home:
+      name: "Zuhause"
+      url: "/de/index.html"
+
 # Build settings
-# theme: minima
-theme: jekyll-theme-tactile
+theme: minima
+# theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
-  - jekyll-polyglot
+  # - jekyll-polyglot
 
 
 # Polyglot configuration
-languages: ['ro', 'en', 'de', 'fr']
-default_lang: 'ro'
-exclude_from_localization: ['javascript', 'images', 'css']
-parallel_localization: true
+#languages: ['ro', 'en', 'de', 'fr']
+#default_lang: 'ro'
+#exclude_from_localization: ['javascript', 'images', 'css']
+#parallel_localization: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

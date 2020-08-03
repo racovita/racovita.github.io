@@ -1,7 +1,7 @@
 ---
 layout: default
 title: News
-permalink: /news/
+permalink: /en/news/
 lang: en
 ref: news
 ---

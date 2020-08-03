@@ -1,15 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
+permalink: /ro/index.html
 lang: ro
 ref: main
 ---
 
 
-* [Despre Fundație](/about)
-* [Știri/Blog](/stiri)
+* [Despre Fundație](/ro/about/)
+* [Știri/Blog](/ro/news/)
 * Evenimente
 * Burse
 * Susținători
