@@ -35,24 +35,12 @@ default_lang: en
 languages:
   en:
     title: "Emil G. Racovita Foundation"
-    home: "Home"
-    about: "About"
-    news: "News"
   ro:
     title: "Fundația Emil G. Racoviță"
-    home: "Acasa"
-    about: "Despre Fundatie"
-    news: "Știri"
   fr:
     title: "La Fondation Emil G. Racovita"
-    home: "Accueil"
-    about: "À propos"
-    news: "Nouvelles"
   de:
     title: "Emil G. Racoviţă-Stiftung"
-    home: "Zuhause"
-    about: "Über"
-    news: "Nachrichten"
 
 # Build settings
 # theme: minima
@@ -60,7 +48,6 @@ theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-  # - jekyll-sitemap
   # - jekyll-polyglot
 
 

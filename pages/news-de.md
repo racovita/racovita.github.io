@@ -1,12 +1,12 @@
 ---
 layout: default
-title: News
-permalink: /en/news/
-lang: en
+title: Nachrichten
+permalink: /de/news.html
+lang: de
 ref: news
 ---
 
-<h2>{{ site.languages[page.lang].news }}</h2>
+<h2>{{ site.data.menu[page.lang].news }}</h2>
 
 {% assign posts=site.posts | where:"lang", page.lang %}
 <ul>

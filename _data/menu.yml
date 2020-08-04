@@ -1,0 +1,64 @@
+- title: Home
+  en: Home
+  ro: Acasa
+  fr: Accueil
+  de: Zuhause
+  link: index.html
+
+- title: Mission
+  en: Mission
+  ro: Misiunea
+  fr: Mission
+  de: Mission
+  link: about.html
+
+- title: News
+  en: News
+  ro: Știri
+  fr: Nouvelles
+  de: Nachrichten
+  link: news.html
+
+- title: Events
+  en: Events
+  ro: Evenimente
+  de: Veranstaltungen
+  link: events.html
+
+- title: Grants
+  en: Grants
+  ro: Burse
+  fr: Bourses d’études
+  de: Stipendien
+  link: grants.html
+
+- title: Sponsors
+  en: Sponsors
+  ro: Susținător
+  fr: Patrons
+  de: Unterstützer
+  link: sponsors.html
+
+- title: Leads
+  en: Leadership
+  ro: Conducerea fundației
+  fr: Direction de la fondation
+  de: Führung der Stiftung
+  link: leads.html
+
+- title: History
+  en: History
+  ro: Istoria
+  fr: Historique
+  de: Historisch
+  link: history.html
+
+- title: Contact
+  en: Contact
+  ro: Contacte
+  fr: Contact
+  de: Kontakt
+  link: contact.html
+
+
+
