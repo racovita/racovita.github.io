@@ -5,8 +5,8 @@ lang: fr
 ref: main
 ---
 
-* [À propos de la Fondation](/racovita/en/about)
-* [Actualités / Blog](/racovita/fr/news)
+* [À propos de la Fondation]({{ "/en/about" | relative_url }})
+* [Actualités / Blog]( {{ "/fr/news" | relative_url }})
 * Événements
 * Bourses d'études
 * Patrons
@@ -14,4 +14,4 @@ ref: main
 * Historique
      * La vie d'Emil Racoviță
      * Fondation
-* [Contact](/racovita/contact)
+* [Contact]( {{ "/contact" | relative_url }})
