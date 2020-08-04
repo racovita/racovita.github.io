@@ -1,7 +1,11 @@
 ---
 layout: default
 title: Contact
-permalink: /contact/
+permalink: /en/contact.html
+redirect_from:
+  - /fr/contact.html
+  - /de/contact.html
+  - /ro/contact.html
 lang: en
 ref: contacts
 ---

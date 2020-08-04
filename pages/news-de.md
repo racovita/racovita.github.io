@@ -6,7 +6,8 @@ lang: de
 ref: news
 ---
 
-<h2>{{ site.data.menu[page.lang].news }}</h2>
+{% assign heading = site.data.menu | where: "title", "News" | first %}
+<h2>{{ heading[page.lang] }}</h2>
 
 {% assign posts=site.posts | where:"lang", page.lang %}
 <ul>

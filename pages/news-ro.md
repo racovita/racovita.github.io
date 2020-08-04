@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Știri
-permalink: /ro/news/
+permalink: /ro/news.html
 lang: ro
 ref: news
 ---
 
-<h2>{{ site.languages[page.lang].news }}</h2>
+{% assign heading = site.data.menu | where: "title", "News" | first %}
+<h2>{{ heading[page.lang] }}</h2>
 
 {% assign posts=site.posts | where:"lang", page.lang %}
 <ul>

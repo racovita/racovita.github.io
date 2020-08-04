@@ -3,9 +3,16 @@
     {% for section in site.data.menu -%}
       {%- assign link = "/" | append: page.lang | append: "/" | append: section.link %}
       {%- assign p = site.pages | where: "url", link | first %}
-      <p {% if page.url == p.url %} class="current"{%- endif -%}>
+      <p>
+      {% if page.url == p.url %}
+        {{- section[page.lang] | default: section.title -}}
+      {%- elsif p.url -%}
         <a href="{{ link | relative_url }}">{{- section[page.lang] | default: section.title -}}
-        </a></p>
+        </a>
+      {%- else -%}
+        {{- section[page.lang] | default: section.title -}}
+      {%- endif -%}
+    </p>
     {% endfor -%}
   </aside>
 </div>
