@@ -12,21 +12,34 @@
 {% seo %}
   </head>
 
-  <body>
-
+  <body> 
     <div id="container">
       <div class="inner">
-      <div class="wrapper">
-      {%- include header.html -%}
-      {%- include nav_menu.html -%}
-      </div>
-
-        
+        <div class="wrapper">
+          {%- include header.html -%}
+        </div>
         <hr>
-        <section id="main_content">
-          {{ content }}
-        </section>
-
+        <div class="wrapper" id="main-nav-content-wrapper">
+          {%- include nav_menu.html -%}
+          <section id="main_content" class="unit one-fifth">
+            {{ content }}
+           
+          </section>
+          <nav class="site-nav unit one-fifth">
+            <div class="btn-group-sm btn-translate-group dropdown">
+              <div class="dropdown-menu" >
+                <select onchange="location = this.value;">
+                  <!-- Link on click (full page re-render), but keep the currently selected page as the active option on the menu. -->
+                   <option  {% if page.lang == "en" %} selected {% endif %} value="/racovita/en/index.html">English</option>
+                   <option  {% if page.lang == "ro" %} selected {% endif %} value="/racovita/ro/index.html">Română</option>
+                   <option  {% if page.lang == "fr" %} selected {% endif %} value="/racovita/fr/index.html">Français</option>
+                   <option  {% if page.lang == "de" %} selected {% endif %} value="/racovita/de/index.html">Deutsche</option>
+                </select>
+              </div>
+              <img src='{{"/assets/images/racovita1.jpeg" | relative_url }}'/>
+            </div>
+          </nav>  
+        </div>     
         <footer>
         {% if site.github.is_project_page %}
           {{ site.languages[page.lang].title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
