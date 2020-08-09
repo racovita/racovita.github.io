@@ -2,10 +2,39 @@
 
   <div class="wrapper">
     <nav class="site-nav">
+      <!--
+      <div class="btn-group-sm btn-translate-group dropdown">
+        <button class="btn btn-default dropdown-toggle" type="button"
+                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                aria-label="change language button">
+          <i class="fa fa-language" aria-hidden="true">
+            ::before
+          </i>
+          ::after
+        </button>
+        <div class="dropdown-menu" >
+          <select>
+             <option value="0">en</option>
+             <option value="1">ro</option>
+             <option value="2">fr</option>
+             <option value="3">de</option>
+           </select>
+        </div>
+      </div>
+        -->
       <div class="trigger">
         {%- for lang in site.languages -%}
-        <a href='{{ lang[0] | append: "/index.html" | absolute_url }}'> {{ lang[0] | escape }}</a>
-        {%- endfor -%}
+        {%- assign country_code = lang[0] | replace: "en", "gb" -%}
+        <a href='{{ lang[0] | append: "/index.html" | absolute_url }}'>
+          {{ lang[0] | escape }}
+        <img
+          src="https://flagcdn.com/h20/{{ country_code }}.png"
+          srcset="https://flagcdn.com/h40/{{ country_code }}.png 2x"
+          height="20"
+          alt="{{ lang[0] | escape }}"></a>
+          {%- endfor -%}
+        <br/>
+        <img src='{{"/assets/images/racovita1.jpeg" | relative_url }}'/>
       </div>
     </nav>
 <!--
