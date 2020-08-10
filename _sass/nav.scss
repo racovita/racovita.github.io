@@ -4,6 +4,10 @@ $base-line-height: 1.5 !default;
 $base-font-size:   14px !default;
 $text-color:       #111 !default;
 
+.portrait {
+  min-width: 200px;
+}
+
 .site-nav {
   min-width: 200px;
   line-height: $base-line-height * $base-font-size * 2.25;
@@ -41,11 +45,21 @@ $text-color:       #111 !default;
   }
 }
 
+.site-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;;
+  }
+}
+
 
 .dropdown {
   display:flex;
-  flex-direction: column;
-  align-items: center;
 
   .dropdown-menu {
     width: 90%;
