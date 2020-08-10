@@ -5,7 +5,10 @@ $base-font-size:   14px !default;
 $text-color:       #111 !default;
 
 .portrait {
+  display: flex;
+  flex-direction: row-reverse;
   min-width: 200px;
+  align-items: flex-start;
 }
 
 .site-nav {
