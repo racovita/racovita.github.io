@@ -4,8 +4,12 @@ $base-line-height: 1.5 !default;
 $base-font-size:   14px !default;
 $text-color:       #111 !default;
 
+.portrait {
+  min-width: 200px;
+}
+
 .site-nav {
-  float: right;
+  min-width: 200px;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
@@ -23,6 +27,68 @@ $text-color:       #111 !default;
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
+    }
+  }
+}
+
+.inner {
+  display:flex;
+  flex-direction: column;
+  height: 100vh;
+
+  .above-content {
+    flex: 1 0 auto;
+  }
+
+  .footer {
+    flex-shrink: 0;
+  }
+}
+
+.site-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;;
+  }
+}
+
+
+.dropdown {
+  display:flex;
+
+  .dropdown-menu {
+    width: 90%;
+  }
+
+  select {
+    background-color: unset;
+    width: 100%;
+    margin: 0 auto;
+    height: 32px;
+    font-size: 16px;
+    text-indent: 10px;
+  }
+}
+
+.wrapper {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#main-nav-content-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+section {
+  &#main_content {
+    >p {
+      padding: 0px 20px;
     }
   }
 }
