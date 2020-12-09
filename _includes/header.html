@@ -5,10 +5,10 @@
         <div class="dropdown-menu" >
           <select onchange="location = this.value;">
             <!-- Link on click (full page re-render), but keep the currently selected page as the active option on the menu. -->
-             <option  {% if page.lang == "en" %} selected {% endif %} value="/racovita/en/index.html">English</option>
-             <option  {% if page.lang == "ro" %} selected {% endif %} value="/racovita/ro/index.html">Română</option>
-             <option  {% if page.lang == "fr" %} selected {% endif %} value="/racovita/fr/index.html">Français</option>
-             <option  {% if page.lang == "de" %} selected {% endif %} value="/racovita/de/index.html">Deutsche</option>
+             <option  {% if page.lang == "en" %} selected {% endif %} value="/en/index.html">English</option>
+             <option  {% if page.lang == "ro" %} selected {% endif %} value="/ro/index.html">Română</option>
+             <option  {% if page.lang == "fr" %} selected {% endif %} value="/fr/index.html">Français</option>
+             <option  {% if page.lang == "de" %} selected {% endif %} value="/de/index.html">Deutsche</option>
           </select>
         </div>
       </div>
