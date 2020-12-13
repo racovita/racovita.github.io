@@ -19,10 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Fundatia Emil G. Racoviță
-email: calin@cascaval.us
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
+email: racovita@cascaval.us
 description: The Emil G. Racovita Foundation for Science and Extreme
              Environments
 
@@ -31,14 +28,14 @@ url: "https://www.racoviță-foundation.ro" # the base hostname & protocol for y
 # github_username:  cc10512
 show_downloads: false
 
-default_lang: en
+default_lang: ro
 languages:
   en:
-    title: "Emil G. Racovita Foundation"
+    title: "Emil G. Racoviță Foundation"
   ro:
     title: "Fundația Emil G. Racoviță"
   fr:
-    title: "La Fondation Emil G. Racovita"
+    title: "La Fondation Emil G. Racoviță"
   de:
     title: "Emil G. Racoviţă-Stiftung"
 

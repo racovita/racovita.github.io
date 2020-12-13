@@ -1,50 +1,18 @@
 - title: Home
-  en: Home
-  ro: Acasa
+  en: About the Foundation
+  ro: Despre Fundatie
   fr: Accueil
   de: Zuhause
   link: index.html
+  level: 1
 
 - title: Mission
   en: Mission
-  ro: Misiunea
+  ro: Misiune
   fr: Mission
   de: Mission
   link: about.html
-
-- title: News
-  en: News
-  ro: Știri
-  fr: Nouvelles
-  de: Nachrichten
-  link: news.html
-
-- title: Events
-  en: Events
-  ro: Evenimente
-  de: Veranstaltungen
-  link: events.html
-
-- title: Grants
-  en: Grants
-  ro: Burse
-  fr: Bourses d’études
-  de: Stipendien
-  link: grants.html
-
-- title: Sponsors
-  en: Sponsors
-  ro: Susținător
-  fr: Patrons
-  de: Unterstützer
-  link: sponsors.html
-
-- title: Leads
-  en: Leadership
-  ro: Conducerea fundației
-  fr: Direction de la fondation
-  de: Führung der Stiftung
-  link: leads.html
+  level: 2
 
 - title: History
   en: History
@@ -52,6 +20,65 @@
   fr: Historique
   de: Historisch
   link: history.html
+  level: 2
+
+- title: EGR
+  en: Personality
+  ro: Cine a fost EGR
+  fr: Historique
+  de: Historisch
+  link: personality.html
+  level: 2
+
+- title: Ambasadors
+  en: Ambasadors
+  ro: Ambasadori
+  link: promoters.html
+  level: 2
+
+- title: Ambasadors
+  en: Ambasadors
+  ro: Ambasadori
+  link: promoters.html
+  level: 2
+
+- title: Sponsors
+  en: Sponsors
+  ro: Parteneri și Susținător
+  fr: Patrons
+  de: Unterstützer
+  link: sponsors.html
+  level: 2
+
+- title: Statute
+  en: Statute
+  ro: Statut
+  link: statute.html
+  level: 2
+
+- title: Grants
+  en: Grants
+  ro: Burse
+  fr: Bourses d’études
+  de: Stipendien
+  link: grants.html
+  level: 1
+
+- title: Structure
+  en: About the Foundation
+  ro: Organizare
+  fr: Accueil
+  de: Zuhause
+  link: structure.html
+  level: 1
+
+- title: Leads
+  en: Leadership
+  ro: Conducere
+  fr: Direction de la fondation
+  de: Führung der Stiftung
+  link: leads.html
+  level: 2
 
 - title: Contact
   en: Contact
@@ -59,6 +86,45 @@
   fr: Contact
   de: Kontakt
   link: contact.html
+  level: 2
 
+- title: Privacy
+  en: Privacy
+  ro: Protejarea datelor
+  fr: Protection des donnes
+  de: Privacy
+  link: privacy.html
+  level: 2
 
+- title: Projects
+  en: Projects
+  ro: Programe
+  fr: Projets
+  de: Projects
+  link: projects.html
+  level: 1
 
+- title: Donations
+  en: Donations
+  ro: Donează
+  link: donations.html
+  level: 1
+
+- title: Events
+  en: Events
+  ro: Știri/Evenimente
+  de: Veranstaltungen
+  link: news.html
+  level: 1
+
+- title: Trace
+  en: Follow Racoviță's explorations
+  ro: Pe urmele lui Racoviță
+  link: trace.html
+  level: 1
+
+- title: Photos
+  en: Photo galery
+  ro: Galeria foto
+  link: photos.html
+  level: 1
