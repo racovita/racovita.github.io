@@ -1,5 +1,4 @@
 ---
-permalink: /en/about.html
 lang: en
 ref: about
 ---

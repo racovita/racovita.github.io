@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Despre Fundatie
-permalink: /ro/about.html
 lang: ro
 ref: about
 ---

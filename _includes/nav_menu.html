@@ -1,4 +1,4 @@
-<div class="unit one-fifth">
+<div class="unit one-fourth">
   <aside>
     {% for section in site.data.menu -%}
       {%- assign link = "/" | append: page.lang | append: "/" | append: section.link %}
@@ -12,6 +12,14 @@
       {%- else -%}
         {{- section[page.lang] | default: section.title -}}
       {%- endif -%}
+      {% if section.subnav[0] %}
+      <ul>
+        {% for entry in section.subnav %}
+          {%- assign link = "/" | append: page.lang | append: "/" | append: entry.link %}
+          <li><a href="{{ link | relative_url }}">{{ entry[page.lang] | default: entry.title }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
     </p>
     {% endfor -%}
   </aside>

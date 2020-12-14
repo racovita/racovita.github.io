@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Cronologia
-permalink: /ro/about.html
 lang: ro
 ref: history
 ---

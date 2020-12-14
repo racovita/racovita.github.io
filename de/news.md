@@ -1,8 +1,6 @@
 ---
-permalink: /ro/news.html
-lang: ro
+lang: de
 ref: news
 ---
 
 {%- include news.html -%}
-

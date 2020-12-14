@@ -5,10 +5,10 @@ $base-font-size:   14px !default;
 $text-color:       #111 !default;
 
 .portrait {
-  display: flex;
-  flex-direction: row-reverse;
-  min-width: 200px;
-  align-items: flex-start;
+    display: flex;
+    justify-content: flex-end;
+    min-width: 200px;
+    align-items: flex-start;
 }
 
 .site-nav {
@@ -86,12 +86,14 @@ $text-color:       #111 !default;
 #main-nav-content-wrapper {
   display: flex;
   flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
 }
 
 section {
   &#main_content {
     >p {
-      padding: 0px 20px;
+        padding: 0px 20px;
     }
   }
 }
