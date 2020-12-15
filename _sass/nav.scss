@@ -1,14 +1,14 @@
 @import "gridism";
 
 $base-line-height: 1.5 !default;
-$base-font-size:   14px !default;
-$text-color:       #111 !default;
+$base-font-size: 14px !default;
+$text-color: #111 !default;
 
 .portrait {
-    display: flex;
-    justify-content: flex-end;
-    min-width: 200px;
-    align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 200px;
+  align-items: flex-start;
 }
 
 .site-nav {
@@ -16,7 +16,7 @@ $text-color:       #111 !default;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
-      display: none;
+    display: none;
   }
 
   .menu-icon {
@@ -35,7 +35,7 @@ $text-color:       #111 !default;
 }
 
 .inner {
-  display:flex;
+  display: flex;
   flex-direction: column;
   height: 100vh;
 
@@ -56,13 +56,12 @@ $text-color:       #111 !default;
   nav {
     display: flex;
     flex-direction: column;
-    justify-content: center;;
+    justify-content: center;
   }
 }
 
-
 .dropdown {
-  display:flex;
+  display: flex;
 
   .dropdown-menu {
     width: 90%;
@@ -92,8 +91,9 @@ $text-color:       #111 !default;
 
 section {
   &#main_content {
-    >p {
-        padding: 0px 20px;
+    width: 100%;
+    > p {
+      padding: 0px 20px;
     }
   }
 }
