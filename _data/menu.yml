@@ -38,11 +38,6 @@
       de: Unterstützer
       link: sponsors.html
 
-    - title: Statute
-      en: Statute
-      ro: Statut
-      link: statute.html
-
 - title: Structure
   en: Organization
   ro: Organizare
@@ -55,18 +50,10 @@
       de: Führung der Stiftung
       link: leads.html
 
-    - title: Contact
-      en: Contact
-      ro: Contacte
-      fr: Contact
-      de: Kontakt
-      link: contact.html
-
-    - title: Privacy
-      en: Privacy
-      ro: Protejarea datelor
-      fr: Protection des donnes
-      link: privacy.html
+    - title: Statute
+      en: Statute
+      ro: Statut
+      link: statute.html
 
 - title: Projects
   en: Projects

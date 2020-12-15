@@ -3,27 +3,24 @@
     {% for section in site.data.menu -%}
       {%- assign link = "/" | append: page.lang | append: "/" | append: section.link %}
       {%- assign p = site.pages | where: "url", link | first %}
-      <p>
-      {% if page.url == p.url %}
-        {{- section[page.lang] | default: section.title -}}
-      {%- elsif p.url -%}
-        <a href="{{ link | relative_url }}">{{- section[page.lang] | default: section.title -}}
-        </a>
+      {%- if section.link -%}
+        {%- if page.url == p.url -%}
+          {{- section[page.lang] | default: section.title -}}<br/>
+        {%- elsif p.url -%}
+          <a href="{{ link | relative_url }}">{{- section[page.lang] | default: section.title -}}
+          </a><br/>
+        {%- endif -%}
       {%- else -%}
-        {{- section[page.lang] | default: section.title -}}
+        {{- section[page.lang] | default: section.title -}}<br/>
       {%- endif -%}
-      {% if section.subnav[0] %}
-      <ul>
-        {% for entry in section.subnav %}
+      {%- if section.subnav[0] -%}
+        <ul>
+        {%- for entry in section.subnav -%}
           {%- assign link = "/" | append: page.lang | append: "/" | append: entry.link %}
           <li><a href="{{ link | relative_url }}">{{ entry[page.lang] | default: entry.title }}</a></li>
-        {% endfor %}
-      </ul>
-      {% endif %}
-    </p>
+        {%- endfor -%}
+        </ul>
+      {%- endif -%}
     {% endfor -%}
   </aside>
 </div>
-
-
-
