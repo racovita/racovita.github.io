@@ -32,12 +32,16 @@ default_lang: ro
 languages:
   en:
     title: "Emil G. Racoviță Foundation"
+    subtitle: "For Science and Exploration in Extreme Environments"
   ro:
     title: "Fundația Emil G. Racoviță"
+    subtitle: "Pentru Stiinta si Exploarea Mediilor Extreme"
   fr:
     title: "La Fondation Emil G. Racoviță"
+    subtitle: "Pour la Science et l'Exploration dans des Environnements Extrêmes"
   de:
     title: "Emil G. Racoviţă-Stiftung"
+    subtitle: "für Wissenschaft und Erforschung extremer Umgebungen"
 
 # Build settings
 # theme: minima

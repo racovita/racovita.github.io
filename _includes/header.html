@@ -1,6 +1,9 @@
 <header class="site-header" role="banner">
-    <img src='{{"/assets/images/sigla_ro.png"  | relative_url }}' height="100"/>
+  <div class="site-nav unit four-fifths title">
+    <img src='{{"/assets/images/sigla_ro_notext.png"  | relative_url }}' width="150"/>
     <h1>{{ site.languages[page.lang].title | escape }}</h1>
+    <h2>{{ site.languages[page.lang].subtitle | escape }}</h2>
+  </div>
     <nav class="site-nav unit one-fifth">
       <div class="btn-group-sm btn-translate-group dropdown">
         <div class="dropdown-menu" >
@@ -12,6 +15,9 @@
              <option  {% if page.lang == "de" %} selected {% endif %} value="/de/index.html">Deutsche</option>
           </select>
         </div>
+      </div>
+      <div class="portrait unit one-fifth">
+        <img src='{{"/assets/images/racovita1.jpeg" | relative_url }}' />
       </div>
     </nav>
 </header>
