@@ -16,7 +16,7 @@ Misiunea Fundației este să dezvolte o _rețea de colaborare de
 excelență pe domeniile cercetării de frontieră și mediilor naturale
 extreme_ - denumită Rețeaua Racoviță care să conecteze tinerii
 cercetători, exploratorii în spiritul conceptelor promovate de
-savantul Emil G. Racoviță.  Rolul Rețelei Racoviță este să contribiue
+savantul Emil G. Racoviță.  Rolul Rețelei Racoviță este să contribuie
 la creșterea rolului social și economic al cercetării, la
 internaționalizarea mediului academic și la conectarea cercetării
 românești cu mediile performante internaționale.
