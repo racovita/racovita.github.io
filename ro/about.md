@@ -5,7 +5,7 @@ lang: ro
 ref: about
 ---
 
-Fundația pentru Știință și Explorare Medii Extreme - Emil G. Racoviță
+Fundația pentru Știință și Explorarea Mediilor Extreme - Emil G. Racoviță
 are ca scop susținerea activităților de explorare, promovarea și
 dezvoltarea științei și cercetării, protecția și conservarea naturii
 și a mediului, susținerea colaborării și înțelegerii interculturale,
