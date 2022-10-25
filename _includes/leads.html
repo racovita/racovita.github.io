@@ -1,0 +1,26 @@
+<h2> {{ site.data.board[page.lang] }} </h2>
+
+{% for pos in site.data.board['positions'] %}
+  <p><strong>{{ pos[page.lang] }}</strong>:
+    {% if pos['name'] %}
+      {{ pos['name'] }}
+    {% endif %}
+    {% if pos['names'] %}
+    <ul>
+      {% for member in pos['names'] %}
+      <li>{{ member }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    </p>
+{% endfor %}
+
+
+<h2> {{ site.data.founders[page.lang] }} </h2>
+<ul>
+  {% for member in site.data.founders['names'] %}
+  <li>{{ member }}</li>
+  {% endfor %}
+</ul>
+
+

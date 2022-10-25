@@ -20,7 +20,7 @@
 
 title: Fundatia Emil G. Racoviță
 email: racovita@cascaval.us
-description: The Emil G. Racovita Foundation for Science and Extreme
+description: The Emil G. Racoviță Foundation for Science and Extreme
              Environments
 
 # baseurl: "/" # the subpath of your site, e.g. /blog
@@ -35,13 +35,13 @@ languages:
     subtitle: "For Science and Exploration in Extreme Environments"
   ro:
     title: "Fundația Emil G. Racoviță"
-    subtitle: "Pentru Stiinta si Explorarea Mediilor Extreme"
+    subtitle: "Pentru Știință și Explorarea Mediilor Extreme"
   fr:
     title: "La Fondation Emil G. Racoviță"
     subtitle: "Pour la Science et l'Exploration dans des Environnements Extrêmes"
   de:
     title: "Emil G. Racoviţă-Stiftung"
-    subtitle: "für Wissenschaft und Erforschung extremer Umgebungen"
+    subtitle: "für Wissenschaft und Erforschung Extremer Umgebungen"
 
 # Build settings
 # theme: minima

@@ -1,0 +1,29 @@
+de: Vorstand
+en: Board of directors
+fr: Conseil d'administration
+ro: Consiliul director
+positions:
+  - president:
+    name: Octavian Popescu
+    de: Präsident
+    en: President
+    fr: Président
+    ro: Președinte
+
+  - vice-president:
+    name: Viorel Lascu
+    de: Vizepräsident
+    en: Vice-president
+    fr: Vice-président
+    ro: Vice-președinte
+
+  - members:
+    names:
+      - Călin Cașcaval
+      - Dan Hazparu
+      - Simion Simon
+    de: Mitglieder
+    en: Members
+    fr: Membres
+    ro: Membri
+
