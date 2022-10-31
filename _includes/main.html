@@ -1,3 +1,5 @@
 {% assign url = "/about.html" | prepend: page.lang | prepend: "/" %}
 {% assign about = site.pages | where: "url", url | first %}
 {{ about.content }}
+
+{% include egida.html %}
