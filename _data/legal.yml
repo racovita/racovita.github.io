@@ -1,9 +1,11 @@
 - title: Contact
   de: Kontakt
+  ro: Contacte
   link: contact.html
 
 - title: Privacy
+  de: Privatleben
   en: Privacy
-  ro: Protejarea datelor
   fr: Protection des donnes
+  ro: Protejarea datelor
   link: privacy.html
