@@ -33,7 +33,7 @@
           <footer>
             <div>
               {%- if site.github.is_project_page -%}
-              {{ site.languages[page.lang].title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
+              {{ site.languages[page.lang].title | default: site.github.repository_name }} {{ site.languages[page.lang].maintenance }} by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
               {%- endif -%}
             </div>
             <div class="legal">
