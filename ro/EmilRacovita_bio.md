@@ -5,7 +5,7 @@ lang: ro
 ref: bio
 ---
 
-**Emil Gheorghe Racoviţă** (n. 15 noiembrie 1868 la Iaşi, m. 19 noiembrie 1947 la Cluj), biolog român de renume mondial, explorator polar, fondator al biospeologiei şi al primului institut de speologie din lume.
+**Emil Gheorghe Racoviţă** (n. 15 noiembrie 1868 la Iaşi, m. 17 noiembrie 1947 la Cluj), biolog român de renume mondial, explorator polar, fondator al biospeologiei şi al primului institut de speologie din lume.
 
 ## Copilaria
 
@@ -58,7 +58,7 @@ Oricât de important s-a dovedit a fi pentru viitorul biospeologiei, „Eseul”
 
 ## Reîntoarcerea in România
 
-Dup ce pacea a fost reinstaurată, în viaţa lui Emil Racoviţă a survenit o a doua cotitură, nu mai puţin importantă decât cea dintâi. În vara lui 1919, el a fost solicitat, tot printr-o scrisoare, să vină la Cluj pentru a sprijini cu competenţa şi prestigiul său organizarea celei dintâi universităţi româneşti din Transilvania, proaspăt integrată în frontierele României. În 1896 fusese vorba de posibilitatea de a studia vieţuitoarele din ţinuturile antarctice. De data aceasta, era chemat să-şi slujească patria şi a dat din nou acordul, dar numai dacă ar fi putut crea în cadrul noii universităţi un institut de cercetări ştiinţifice. Şi cum condiţia i-a fost acceptată fără rezerve, la 26 aprilie 1920 era promulgată legea care consfinţea naşterea Institutului de Speologie din Cluj, primul de acest gen din întreaga lume şi avându-l ca director pe însuşi ctitorul său.
+După ce pacea a fost reinstaurată, în viaţa lui Emil Racoviţă a survenit o a doua cotitură, nu mai puţin importantă decât cea dintâi. În vara lui 1919, el a fost solicitat, tot printr-o scrisoare, să vină la Cluj pentru a sprijini cu competenţa şi prestigiul său organizarea celei dintâi universităţi româneşti din Transilvania, proaspăt integrată în frontierele României. În 1896 fusese vorba de posibilitatea de a studia vieţuitoarele din ţinuturile antarctice. De data aceasta, era chemat să-şi slujească patria şi a dat din nou acordul, dar numai dacă ar fi putut crea în cadrul noii universităţi un institut de cercetări ştiinţifice. Şi cum condiţia i-a fost acceptată fără rezerve, la 26 aprilie 1920 era promulgată legea care consfinţea naşterea Institutului de Speologie din Cluj, primul de acest gen din întreaga lume şi avându-l ca director pe însuşi ctitorul său.
 
 ![Institutul de Speologie Cluj]({{"/assets/images/Institutul-de-speologie-Cluj.jpg"}}){:class="img-responsive"}<br>
 *Institutul de Speologie Cluj.*
@@ -109,4 +109,4 @@ Ultimii ani ai vieţii sale au fost şi cei mai duri. În septembrie 1940, Româ
 - Motaş, C. şi Ghica, C. A., Emil Racoviţă. Fondatorul biospeologiei. Edit. Ştiinţifică, Bucureşti, 1969.
 - Racoviţă, Gh., A şti sau a nu şti. Adevărurile vieţii lui Emil Racoviţă. Edit. Academiei Române, Bucureşti, 1999, ISBN 973-27-0631-7
 
-Text: Gheorghe Racoviţă (nepotul savantului, 1940-2015).
+Text bazat pe originalul scris de Gheorghe Racoviţă (nepotul savantului, 1940-2015).

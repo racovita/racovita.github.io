@@ -3,6 +3,10 @@ lang: ro
 ref: grants
 ---
 
+# Cereri
+
+În construcție.
+
 # Burse acordate
 
-# Donații
+În construcție.

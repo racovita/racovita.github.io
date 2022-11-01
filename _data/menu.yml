@@ -1,9 +1,15 @@
 - title: Home
   en: About the Foundation
   ro: Despre Fundație
-  fr: Accueil
-  de: Zuhause
+  fr: La Fondation
+  de: Über die Stiftung
   subnav:
+
+    - title: Home
+      fr: Accueil
+      de: Zuhause
+      ro: Acasă
+      link: index.html
 
     - title: Mission
       en: Mission
@@ -47,11 +53,6 @@
       fr: Direction de la fondation
       de: Führung der Stiftung
       link: leads.html
-
-    - title: Statute
-      en: Statute
-      ro: Statut
-      link: statute.html
 
 - title: Projects
   en: Projects

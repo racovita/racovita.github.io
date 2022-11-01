@@ -4,4 +4,4 @@ lang: ro
 ref: statute
 ---
 
-[Statutul fundației](assets/docs/statute.pdf)
+[Statutul fundației](assets/docs/statut_ro.pdf)

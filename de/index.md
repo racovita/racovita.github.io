@@ -1,6 +1,6 @@
 ---
 lang: de
-ref: main
+ref: index
 ---
 
 {% include main.html %}
