@@ -27,6 +27,7 @@ description: The Emil G. Racoviță Foundation for Science and Extreme
 url: "https://www.racoviță-foundation.ro" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  cc10512
 show_downloads: false
+future: true # show posts with future dates
 
 default_lang: ro
 languages:
@@ -34,18 +35,23 @@ languages:
     title: "Emil G. Racoviță Foundation"
     subtitle: "For Science and Exploration in Extreme Environments"
     maintenance: is maintained
+    date_format: "%b %d, %Y" # customize how date is formatted
   ro:
     title: "Fundația Emil G. Racoviță"
     subtitle: "Pentru Știință și Explorarea Mediilor Extreme"
     maintenance: este menținut
+    date_format: "%e %B %Y" # customize how date is formatted
   fr:
     title: "La Fondation Emil G. Racoviță"
-    subtitle: "Pour la Science et l'Exploration dans des Environnements Extrêmes"
+    subtitle: "Pour la Science et l'Exploration dans des Environnements
+Extrêmes"
     maintenance: est maintenue
+    date_format: "%d %b %Y" # customize how date is formatted
   de:
     title: "Emil G. Racoviţă-Stiftung"
     subtitle: "für Wissenschaft und Erforschung Extremer Umgebungen"
     maintenance: ist gewartet
+    date_format: "%d %b %Y" # customize how date is formatted
 
 # Build settings
 # theme: minima
