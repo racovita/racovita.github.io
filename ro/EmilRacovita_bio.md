@@ -5,7 +5,7 @@ lang: ro
 ref: bio
 ---
 
-**Emil Gheorghe Racoviţă** (n. 15 noiembrie 1868 la Iaşi, m. 17 noiembrie 1947 la Cluj), biolog român de renume mondial, explorator polar, fondator al biospeologiei şi al primului institut de speologie din lume.
+**Emil Gheorghe Racoviţă** (n. 15 noiembrie 1868 la Iaşi, m. 19 noiembrie 1947 la Cluj), biolog român de renume mondial, explorator polar, fondator al biospeologiei şi al primului institut de speologie din lume.
 
 ## Copilaria
 
