@@ -12,10 +12,10 @@ positions:
 
   - vice-president:
     name: Viorel Lascu
-    de: Vizepräsident
-    en: Vice-president
-    fr: Vice-président
-    ro: Vice-președinte
+    de: Geschäftsführender Präsident
+    en: Executive President
+    fr: Président Exécutif
+    ro: Președinte Executiv
 
   - members:
     names:
