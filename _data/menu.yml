@@ -1,16 +1,16 @@
 - title: Home
+  en: Home
+  fr: Accueil
+  de: Zuhause
+  ro: Acasă
+  link: index.html
+
+- title: About
   en: About the Foundation
   ro: Despre Fundație
   fr: La Fondation
   de: Über die Stiftung
   subnav:
-
-    - title: Home
-      fr: Accueil
-      de: Zuhause
-      ro: Acasă
-      link: index.html
-
     - title: Mission
       en: Mission
       ro: Misiune

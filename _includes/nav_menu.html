@@ -2,7 +2,10 @@
   <aside>
     {% for section in site.data.menu -%}
       {%- assign link = "/" | append: page.lang | append: "/" | append: section.link %}
-      {%- assign p = site.pages | where: "url", link | first %}
+      {%- assign p = site.pages | where: "url", link | page.lang %}
+      {%- if section.title == "Home" -%}
+          <a href="{{ link | relative_url }}">{{- section[page.lang] | default: section.title -}}</a><br/>
+      {%- endif -%}
       {%- if section.link -%}
         {%- if page.url == p.url -%}
           {{- section[page.lang] | default: section.title -}}<br/>
