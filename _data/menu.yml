@@ -18,20 +18,15 @@
       de: Mission
       link: about.html
 
-    - title: History
-      en: History
-      ro: Istoria
-      fr: Historique
-      de: Historisch
-      link: history.html
+    - title: Leads
+      en: Leadership
+      ro: Conducere
+      fr: Direction de la fondation
+      de: Führung der Stiftung
+      link: leads.html
 
-    - title: EGR
-      en: Personality
-      ro: Cine a fost EGR
-      link: EmilRacovita_bio.html
-
-    - title: Ambasadors
-      en: Ambasadors
+    - title: Ambassadors
+      en: Ambassadors
       ro: Ambasadori
       link: promoters.html
 
@@ -42,17 +37,31 @@
       de: Unterstützer
       link: sponsors.html
 
-- title: Structure
-  en: Organization
-  ro: Organizare
-  fr: Organisation
+- title: Emil G. Racoviță
   subnav:
-    - title: Leads
-      en: Leadership
-      ro: Conducere
-      fr: Direction de la fondation
-      de: Führung der Stiftung
-      link: leads.html
+    - title: EGR
+      en: Personality
+      ro: Biografie
+      link: EmilRacovita_bio.html
+
+    - title: History
+      en: History
+      ro: Istoria
+      fr: Historique
+      de: Historisch
+      link: history.html
+
+    - title: Trace
+      en: Follow in his footsteps
+      ro: Pe urmele savantului
+      de: Treten Sie in seine Fußstapfen
+      fr: Suivez ses traces
+      link: trace.html
+
+    - title: Photos
+      en: Photo galery
+      ro: Galeria foto
+      link: photos.html
 
 - title: Projects
   en: Projects
@@ -78,12 +87,3 @@
   de: Veranstaltungen
   link: news.html
 
-- title: Trace
-  en: Follow Racoviță's explorations
-  ro: Pe urmele lui Racoviță
-  link: trace.html
-
-- title: Photos
-  en: Photo galery
-  ro: Galeria foto
-  link: photos.html
