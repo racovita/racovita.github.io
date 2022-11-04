@@ -22,6 +22,18 @@ Fundația are următoarele scopuri principale, fără a fi limitative în acest 
 
 Obiectivele specifice ale fundației, fara a fi limitative in acest domeniu specific, sunt următoarele:
 
+1. Inițierea de evenimente dedicate realizărilor savantului Emil G. Racoviță, expediției Belgica, cercetării și explorării peșterilor, biospeologiei și evoluționismului.
+1. Onorarea moștenirii savantului Emil G. Racoviță și prin susținerea organizării în România, cu o periodicitate stabilită de factorii implicați a unei manifestării științifice internaționale dedicată cercetării de frontieră a mediilor extreme
+1. Susținerea și promovarea cercetării în mediilor extreme oceanice, subterane, polare, spațiale, a evoluționismului, pentru protecția și conservarea naturii în general – a ariilor naturale protejate și speciilor periclitate în special.
+1. Susținerea dezvoltării tehnologice, care să facă posibile explorarea mediilor extreme terestre, identificarea de modalități și abilități inclusiv în domenii ce țin de medii naturale și antropice necercetate sau puțin cercetate.
+1. Crearea unei rețele de colaborare de excelență care să conecteze cercetarea românească din domeniul cercetării în mediilor extreme oceanice, subterane, polare, spațiale, conservarea naturii, cu elitele la nivel mondial.
+1. Realizarea de expediții și cercetări în zona arctică prin participarea la programele Comunității Europene, de exemplu SIOS (Svalbard Integrated Arctic Earth Observing System), EPOS (European Union Plate Observing System) sau la programe bilaterale cu diferite țări din Europa și de pe glob.
+1. Susținerea evenimentelor științifice dedicate cercetării în medii extreme.
+1. Susținerea și promovarea relaționării interinstituționale, inter și pluridisciplinare între cercetare, industrie și alți factori de interes pentru realizarea de proiecte cu țintă pe studierea, explorarea, cercetarea și valorizarea mediilor extreme.
+1. Susținerea dezvoltării inițiativelor privind biodiversitatea, a serviciilor ecosistemice pe care le oferă capitalul natural, astfel încât să se asigure că acestea sunt protejate, evaluate și restaurate corespunzător pentru valoarea lor intrinsecă și contribuția esențială la bunăstarea și prosperitatea umană, evitând modificările catastrofale cauzate de pierderea biodiversității.
+
+Forme de activitate orientate pe Misiune, Scop, Obiective:
+
 <ol>
 <li class="roman"> Atragerea de resurse pentru susținerea și promovarea cercetării în mediilor extreme oceanice, subterane, polare, spațiale, a evoluționismului, pentru protecția și conservarea naturii în general – a ariilor naturale protejate și speciilor periclitate în special, de a crea o rețea de colaborare de excelență care să conecteze cercetarea românească în domeniu cu elitele la nivel mondial.</li>
 <li class="roman"> Finanțarea printr-un sistem de burse a proiectelor de cercetare interdisciplinare dedicate mediilor extreme, mediilor speologice și cercetărilor de frontieră și premierea proiectelor care susțin cercetarea și explorarea acestor medii, încurajarea tinerilor cercetători și studenți performanți.</li>
