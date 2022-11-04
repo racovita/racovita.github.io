@@ -50,7 +50,7 @@ The link for the event will be made available here.
 - Prof. David Culver (American Univ., Washington, USA)<br>
 *E.G. Racoviță, the father of biospeleology*
 
-- Prof. Bogdan Onac (Univ. South Florida and E.G. Racoviță Institute)<br>
+- Prof. Bogdan P. Onac (Univ. South Florida and E.G. Racoviță Institute)<br>
 *100 Years of Biospeleology -  Early and Modern Approaches*
 
 - Penelope Boston (NASA Astrobiology Institute, USA)<br>
