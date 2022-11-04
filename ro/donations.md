@@ -31,10 +31,10 @@ Cum poți trimite:
 
 ### Întrebări Frecvente
 
-**Până când mai pot trimite formularul?**<br>
+**Până când mai pot trimite formularul?**<br />
 Până pe data de **25 mai​ a anului în curs** pentru anul precedent.
 
-**L-am descărcat, ce trebuie să completez?**<br>
+**L-am descărcat, ce trebuie să completez?**<br />
 E nevoie să completezi de mână, cu majuscule, secțiunea I care conține datele tale de identificare și să semnezi la *Semnătura contribuabilului*. Daca folosești formularul precompletat, vei vedea că anul și datele Fundației pentru Știință și Explorare Medii Extreme - Emil G. Racoviță sunt introduse.
 
 <div class="indented">
@@ -44,16 +44,16 @@ Cod de identificare fiscală: <strong>45438842</strong><br/>
 Cont bancar (IBAN): <strong>RO28BTRLRONCRT0611631101</strong><br/>
 </div>
 
-**Care este Administrația Financiară de care aparțin?**<br>
+**Care este Administrația Financiară de care aparțin?**<br />
 Administrația Financiară de care aparții este cea din localitatea de domiciliu trecută în cartea de identitate.
 
-**Am nevoie de vreun document de la locul de muncă?**<br>
+**Am nevoie de vreun document de la locul de muncă?**<br />
 Nu. Nu este nevoie să atașezi Fișa Fiscală, iar suma redirecționată va fi calculată și completată de către inspectorul fiscal.
 
-**Aceasta este o donație?​**<br>
+**Aceasta este o donație?​**<br />
 Este alegerea ta despre cum să fie folosiți o parte din banii pe care i-ai virat deja statului, ca impozit pe veniturile obținute în anul fiscal precedent (până la 25 mai 2023 pentru 2022) În cazul în care nu alegi să susții o cauză anume, întreaga sumă va rămâne la bugetul de stat.
 
-**De ce 3,5%?**<br>
+**De ce 3,5%?**<br />
 Organizațiile nonprofit pot primi până la 3,5% din impozitul pe venit.
 
 ## Donații directe
