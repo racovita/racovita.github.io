@@ -2,4 +2,6 @@
 {% assign main = site.pages | where: "url", url | first %}
 {{ main.content }}
 
+{% include upcoming.html %}
+
 {% include egida.html %}

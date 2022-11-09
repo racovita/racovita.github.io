@@ -9,7 +9,11 @@ ref: ubb75years
 
 This public event will take place virtually at the Babes-Bolyai University,  Cluj-Napoca, Romania, on November 17, 2022.
 
-The link for the event will be made available here.
+Please click on this [Zoom link]( https://us06web.zoom.us/j/82189839179?pwd=WG1ObG9lMVhkaCtLZG8zM2ttSnI1QT09) to attend the event. Zoom event information:
+<div class="indented">
+Meeting ID: 821 8983 9179<br/>
+Passcode: 940526
+</div>
 
 ### Opening Remarks
 

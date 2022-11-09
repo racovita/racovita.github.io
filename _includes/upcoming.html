@@ -1,0 +1,17 @@
+
+{% assign heading = site.data.menu | where: "title", "News" | first %}
+<h2>{{ heading[page.lang] }}</h2>
+
+{% assign posts=site.posts | where:"lang", page.lang %}
+
+<ul>
+{% for post in posts %}
+  {% assign currentDate = "now" | date: "%Y-%m-%d" %}
+  date {{ post.date | date: "%Y-%m-%d"}}, now {{ currentDate }}
+  {% if (post.date | date: "%Y-%m-%d") > currentDate %}
+    <li>
+        {{ post.date | date: site.languages[page.lang].date_format }} » <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
