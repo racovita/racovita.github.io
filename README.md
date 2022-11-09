@@ -6,32 +6,6 @@ publishing.  Each language has a top level directory, e.g., 'en',
 form the URL for the descendent page. There are two choices in adding
 contents to one of these files:
 
-1. Add the contents verbatim in the page language. This works well for
-pages that are mainly text and do not share elements with the pages in
-other languages.
+1. Add the contents verbatim in the page language. This works well for pages that are mainly text and do not share elements with the pages in other languages, for example the biography.
 
-1. Add the contents in the _include directory and simply include it in
-the page. This relies on the ability to programmatically add text in
-the specific language. This works well when the page
-elements/variables are translated, either in the front matter for the
-page, or as part of a different structured file. See for example
-`_data/menu.yml` and how it is used in `_includes/nav_menu.html`.
-
-
-# TODO
-
-## Layout
-
-- language menu positioning
-- nav menu on the left, contents in the middle
-
-## Navigation
-
-- language translation to go to same page rather than index
-
-## Contents
-
-- Racovita's life with a focus on scientific accomplishments
-  - list of accomplishments
-
-- Leadership list
+1. Add the contents in the _include directory using translations in _data/xlate.yml and then include that file in page.md in the language directory.
