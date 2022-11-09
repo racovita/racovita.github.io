@@ -1,0 +1,35 @@
+lang_name:
+  en: English
+  ro: Română
+  fr: Français
+  de: Deutsche
+
+foundation_title:
+  en: "Emil G. Racoviță Foundation"
+  ro: "Fundația Emil G. Racoviță"
+  fr: "La Fondation Emil G. Racoviță"
+  de: "Emil G. Racoviţă-Stiftung"
+
+foundation_subtitle:
+  en: "For Science and Exploration in Extreme Environments"
+  ro: "Pentru Știință și Explorarea Mediilor Extreme"
+  fr: "Pour la Science et l'Exploration dans des Environnements Extrêmes"
+  de: "für Wissenschaft und Erforschung Extremer Umgebungen"
+
+aegis:
+  de: Die Emil G. Racoviţă-Stiftung für Wissenschaft und Erforschung Extremer Umgebungen arbeitet unter der ägide von
+  en: The Emil G. Racoviţă Foundation for Science and Extreme Environments functions under the aegis of
+  fr: La Fondation Emil G. Racoviţă pour la science et les environnements extrêmes fonctionne sous le égide de
+  ro: Fundația pentru Știință și Explorarea Mediilor Extreme - Emil G. Racoviță beneficează de urmatoarele egide instituționale
+
+upcoming:
+  en: Upcoming Events
+  de: Kommende Veranstaltungen
+  ro: Evenimente Viitoare
+  fr: Évènements à Venir
+
+maintenance:
+  en: is maintained
+  ro: este menținut
+  fr: est maintenue
+  de: ist gewartet

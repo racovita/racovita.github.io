@@ -1,8 +1,8 @@
 <header class="site-header" role="banner">
   <div class="site-nav unit four-fifths title">
     <img src='{{"/assets/images/sigla_ro_notext.png"  | relative_url }}' width="150"/>
-    <h1>{{ site.languages[page.lang].title | escape }}</h1>
-    <h2>{{ site.languages[page.lang].subtitle | escape }}</h2>
+    <h1>{{ site.data.xlate.foundation_title[page.lang] | escape }}</h1>
+    <h2>{{ site.data.xlate.foundation_subtitle[page.lang] | escape }}</h2>
   </div>
     <nav class="site-nav unit one-fifth">
       <div class="btn-group-sm btn-translate-group dropdown">
@@ -12,7 +12,9 @@
              <option  {% if page.lang == "en" %} selected {% endif %} value="/en/index.html">English</option>
              <option  {% if page.lang == "ro" %} selected {% endif %} value="/ro/index.html">Română</option>
              <option  {% if page.lang == "fr" %} selected {% endif %} value="/fr/index.html">Français</option>
+			 <!-- remove German for the time being, there isn't enoug content
              <option  {% if page.lang == "de" %} selected {% endif %} value="/de/index.html">Deutsche</option>
+			 -->
           </select>
         </div>
       </div>

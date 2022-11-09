@@ -1,3 +1,27 @@
 fancier github templates (cards, collections, inline images, etc.):
 - https://mmistakes.github.io/minimal-mistakes/
 - https://mmistakes.github.io/minimal-mistakes/docs/collections/
+
+Corina's proposal
+de la envato
+  1. http://abcgomel.ru/haswell/intro.html?storefront=envato-elements
+  2. https://elements.envato.com/polygon-multipurpose-html5-website-template-4J8VEA
+		
+de la webflow
+  3. ttps://ronie.webflow.io/
+  4.  https://phoenix-template.webflow.io
+  
+
+translations:
+[x] move everything into a xlate.yml
+- land on the same page
+
+images:
+- flow images
+- add all photos
+
+links:
+- open in separate windows
+
+subscription:
+- add info on frequency

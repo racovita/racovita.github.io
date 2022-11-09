@@ -1,9 +1,17 @@
 
-<h2>{{ site.data.upcoming[page.lang] }}</h2>
-
 {% assign currentDate = "now" | date: "%Y-%m-%d" %}
-
 {% assign posts = site.posts | where:"lang", page.lang %}
+
+{% assign hasUpcoming = false %}
+{% for post in posts %}
+  {% assign postDate = post.date | date: "%Y-%m-%d" %}
+  {% if postDate >= currentDate %}
+    {% assign hasUpcoming = true %}
+  {% endif %}
+{% endfor %}
+
+{% if hasUpcoming %}
+<h2>{{ site.data.xlate.upcoming[page.lang] }}</h2>
 
 <ul>
 {% for post in posts %}
@@ -15,3 +23,5 @@
   {% endif %}
 {% endfor %}
 </ul>
+
+{% endif %}
