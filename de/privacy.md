@@ -4,4 +4,4 @@ lang: de
 ref: privacy
 ---
 
-Derzeit erheben oder speichern wir keine personenbezogenen Daten.
+Wir geben keine personenbezogenen Daten weiter.

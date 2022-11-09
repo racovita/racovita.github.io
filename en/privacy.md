@@ -4,4 +4,4 @@ lang: en
 ref: privacy
 ---
 
-Currently we do not collect or store personal information.
+We do not share personal information.

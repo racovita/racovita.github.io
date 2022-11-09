@@ -17,6 +17,11 @@
           <a href="{{ link | relative_url }}">{{- section[page.lang] | default: section.title -}}
           </a><br/>
         {%- endif -%}
+		<!-- absolute links -->
+		{% if section.link contains "https://" %}
+          <a href="{{ section.link | absolute_url }}">{{- section[page.lang] | default: section.title -}}
+          </a><br/>
+		{% endif %}
       {%- else -%}
         {{- section[page.lang] | default: section.title -}}<br/>
       {%- endif -%}
