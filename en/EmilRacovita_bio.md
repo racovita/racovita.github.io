@@ -60,7 +60,7 @@ In spite of the importance of the "essay" for the future of biospeleology, for R
 
 The summer of 1919 brought a new turning point in Emil Racoviţă's life. After the peace was established and the Treaty of Trianon brought Transylvania back to Romania, Racoviţă received a letter soliciting his help in organizing what became the first Romanian university in Transylvania. His birth country was calling on him to serve with his international recognition and prestige and Racoviţă accepted with the condition that the new university create for him a new institute for scientific research in speleology. Consequently, the law establishing the Speleological Institute in Cluj was passed on April 26 1920, the first research institute of its kind in the world, with Emil Racoviţă at its helm.
 
-![Speleological Institute in Cluj]({{"/assets/images/Institutul-de-speologie-Cluj.jpg"}}){:class="img-responsive"}<br />
+![Speleological Institute in Cluj]({{"/assets/images/Institutul-de-Speologie-Cluj.jpg"}}){:class="img-responsive"}<br />
 *Speleological Institute in Cluj.*
 
 Racoviţă's vision for the institute was to provide an official framework for the "Biospeleologica" forum, and therefore, making Cluj (the spiritual capital of Transylvania) the global epicenter of biospeleology. He continued to lead the endeavor, and convinced René Jeannel to come to Cluj as vice-director of the Speleological Institute and Biology professor at the Faculty of Sciences. In 1922, they were joined by the Swiss zoologist Pierre Alfred Chappuis, as assistant director. The rest of the scientific personnel included the assistants Valeriu Puşcariu, Radu Codreanu and Letiţia Chevereşanu.
