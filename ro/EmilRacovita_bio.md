@@ -62,6 +62,7 @@ După ce pacea a fost reinstaurată, în viaţa lui Emil Racoviţă a survenit o
 
 ![Institutul de Speologie Cluj]({{"/assets/images/Institutul-de-Speologie-Cluj.jpg"}}){:class="img-responsive"}<br />
 *Institutul de Speologie Cluj.*
+{: .text-center}
 
 În viziunea lui Racoviţă, acest institut nu a însemnat ceva cu totul nou, ci cadrul oficial în care avea să funcţioneze de acum încolo vechea întreprindere „Biospeologica”, ceea ce însemna totodată şi transferarea în capitala spirituală a Transilvaniei a epicentrului biospeologiei mondiale. A fost, deci, firesc ca el să conserve rolul de coordonare pe care singulara întreprindere privată îl avusese de la bun început. Şi tot atât de firesc a fost faptul că Racoviţă a venit la Cluj însoţit de René Jeannel, în calitate de subdirector al Institutului de Speologie şi de profesor de biologie la Facultatea de Ştiinţe. În 1922, celor doi pionieri ai biospeologiei li se va alătura zoologul elveţian Pierre Alfred Chappuis, căruia îi va reveni funcţia de director adjunct. Din personalul ştiinţific au mai făcut parte asistenţii Valeriu Puşcariu, Radu Codreanu şi Letiţia Chevereşanu, dar contribuţia lor la cercetările speologice va fi incomparabil mai redusă.
 
