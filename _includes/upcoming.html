@@ -17,8 +17,11 @@
 {% for post in posts %}
   {% assign postDate = post.date | date: "%Y-%m-%d" %}
   {% if postDate >= currentDate %}
-    <li>
-        {{ post.date | date: site.languages[page.lang].date_format }} » <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+    <li>        {{ post.date | date: site.languages[page.lang].date_format }} » <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+		{% if post.banner %}
+		<br/>
+		<img src="{{ post.banner }}">
+		{% endif %}
     </li>
   {% endif %}
 {% endfor %}
