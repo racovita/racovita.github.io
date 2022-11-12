@@ -9,12 +9,15 @@
         <div class="dropdown-menu" >
           <select onchange="location = this.value;">
             <!-- Link on click (full page re-render), but keep the currently selected page as the active option on the menu. -->
-             <option  {% if page.lang == "en" %} selected {% endif %} value="/en/index.html">English</option>
-             <option  {% if page.lang == "ro" %} selected {% endif %} value="/ro/index.html">Română</option>
-             <option  {% if page.lang == "fr" %} selected {% endif %} value="/fr/index.html">Français</option>
-			 <!-- remove German for the time being, there isn't enoug content
-             <option  {% if page.lang == "de" %} selected {% endif %} value="/de/index.html">Deutsche</option>
-			 -->
+			{% assign languages = "en, ro, fr" | split: ", " %}
+			{% for lang in languages %}
+			{% assign url = page.url | replace_first: page.lang, lang %}
+			{% assign exists = site.html_pages | where_exp:"item", "item.url == url" %}
+			{% unless exists.size > 0 %}
+			{% assign url = "/" | append: lang | append: "/index.html" %}
+			{% endunless %}
+             <option  {% if page.lang == lang %} selected {% endif %} value="{{ url | replace_first: page.lang, lang }}">{{ site.data.xlate.lang_name[lang] }}</option>
+  		    {% endfor %}
           </select>
         </div>
       </div>
