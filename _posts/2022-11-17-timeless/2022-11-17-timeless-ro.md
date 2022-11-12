@@ -1,5 +1,5 @@
 ---
-title: Moștenirea nemuritoare a științei și explorărilor lui Emil G. Racoviță
+title: Actualitatea patrimoniului științific și de explorare a lui Emil G. Racoviță
 layout: 'post'
 lang: ro
 ref: ubb75years
@@ -7,7 +7,7 @@ banner: /assets/images/Nov22/web_banner.png
 ---
 
 
-## Moștenirea nemuritoare a științei și explorărilor lui Emil G. Racoviță
+## {{ page.title }}
 {: .text-center}
 
 ![](/assets/images/Nov22/web_banner.png){: .align-center}

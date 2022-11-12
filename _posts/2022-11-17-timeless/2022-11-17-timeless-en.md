@@ -6,7 +6,7 @@ ref: ubb75years
 banner: /assets/images/Nov22/web_banner.png
 ---
 
-## The Timeless Science and Exploration Legacy of Emil G. Racoviță
+## {{ page.title }}
 {: .text-center}
 
 ![](/assets/images/Nov22/web_banner.png){: .align-center}

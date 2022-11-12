@@ -1,12 +1,12 @@
 ---
-title: L'héritage immortel de la science et de l'exploration d'Emil G. Racoviță
+title: L'actualité de l'héritage scientifique et d'exploration d'Emil G. Racoviță
 layout: 'post'
 lang: fr
 ref: ubb75years
 banner: /assets/images/Nov22/web_banner.png
 ---
 
-## L'héritage immortel de la science et de l'exploration d'Emil G. Racoviță
+## {{ page.title }}
 {: .text-center}
 
 ![](/assets/images/Nov22/web_banner.png){: .align-center}
