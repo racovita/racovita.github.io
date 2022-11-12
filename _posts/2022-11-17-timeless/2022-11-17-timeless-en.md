@@ -11,7 +11,7 @@ banner: /assets/images/Nov22/web_banner.png
 
 ![](/assets/images/Nov22/web_banner.png){: .align-center}
 
-This public event will take place virtually at the Babes-Bolyai University,  Cluj-Napoca, Romania, on November 17, 2022.
+This public event will take place virtually at the Babes-Bolyai University,  Cluj-Napoca, Romania, on November 17, 2022, at 15:00 EEST (GMT+2).
 
 The event is being streamed online on the following [YouTube channel](https://www.youtube.com/channel/UCQlrz7oSFbyjj3f6C_5Vngg).
 
