@@ -1,5 +1,5 @@
 ---
-title: L'actualité de l'héritage scientifique et d'exploration d'Emil G. Racoviță
+title: L'héritage éternel de la science et de l'exploration du Emil Racovitza
 layout: 'post'
 lang: fr
 ref: ubb75years
