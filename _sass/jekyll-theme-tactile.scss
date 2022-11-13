@@ -1,6 +1,7 @@
 @import "utilities";
 @import "nav";
 @import "rouge-base16-dark";
+@import "carousel";
 @import url('https://fonts.googleapis.com/css?family=Chivo:900');
 
 /* http://meyerweb.com/eric/tools/css/reset/
@@ -366,6 +367,16 @@ footer a:hover {
   clear: both;
   visibility: hidden;
   content: '.';
+}
+
+.album {
+  width: 95%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.shrunk {
+  width: 90%;
 }
 
 .clearfix {display: inline-block;}

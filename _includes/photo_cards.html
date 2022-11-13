@@ -1,0 +1,19 @@
+<h1>{{ page.title }}</h1>
+
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+{% for category in site.data.photos %}
+{% assign title = category.title[page.lang] %}
+
+<div class="col">
+  <div class="card shadow-sm">
+    <img class="img-circle" src="{{ category.path }}/{{ category.card }}">
+    <div class="card-body">
+      <h2>{{ title }}</h2>
+      <p class="card-text">{{ category.description[page.lang] }}</p>
+    </div>
+  </div>
+</div><!-- class="col-md-3" -->
+
+{% endfor %}
+</div> <!-- class="row" -->

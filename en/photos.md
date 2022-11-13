@@ -1,7 +1,7 @@
 ---
-title: Galeria de fotografii
+title: Photo gallery
 layout: collection
-lang: ro
+lang: en
 ref: photos
 use_bootstrap: true
 ---

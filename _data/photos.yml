@@ -1,0 +1,74 @@
+
+- name: antarctica
+  title:
+    en: Antarctica
+    ro: Antarctica
+    fr: Antarctica
+  card: Antarctica_23.jpg
+  path: "/assets/images/photo_archive/Antarctica/"
+  photos:
+    - an01:
+      ro: "Sania doctorului Cook (Foto F. Cook)."
+      en: "Dr. Cook's sled (Photo by F. Cook)."
+      file: "Antarctica_01.jpg"
+    - an02:
+      ro: Pregătirea apei de băut la bordul corăbiei.
+      en: Making potable water aboard the ship.
+      file: /assets/images/photo_archive/Antarctica/Antarctica_02.jpg
+    - an03:
+      ro: Fisură deschisă în banchiză de curenţii oceanici.
+      en: Ice sheet opening
+      file: /assets/images/photo_archive/Antarctica/Antarctica_03.jpg
+
+- name: speologie
+  title:
+    en: Speleology
+    ro: Speologie
+    fr: Speologie
+  card: Cueva-del-Drach-2.jpg
+  path: "/assets/images/photo_archive/Speleology/"
+  photos:
+    - one
+    - two
+
+- name: family
+  title: 
+    en: Family Photos
+    ro: Portrete familiale
+    fr: Portraits de famille
+  card: Racovita-pe-Belgica.jpg
+  path: "/assets/images/photo_archive/Family/"
+  photos:
+    - one
+    - two
+
+- name: france
+  title:
+    en: Group photos in France
+    ro: Fotografii de grup in Franta
+  card: Racovita-pe-Belgica.jpg
+  path: "/assets/images/photo_archive/France/"
+  photos:
+    - one
+    - two
+
+- name: romania
+  title:
+    en: Group photos in Romania
+    ro: Fotografii de grup in Romania
+  card: Racovita-pe-Belgica.jpg
+  path: "/assets/images/photo_archive/Romania/"
+  photos:
+    - one
+    - two
+    
+- name: others
+  title:
+    en: Pottpourri
+    ro: Fotografii diverse
+  card: Racovita-pe-Belgica.jpg
+  path: "/assets/images/photo_archive/others/"
+  photos:
+    - one
+    - two
+  

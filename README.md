@@ -9,3 +9,7 @@ contents to one of these files:
 1. Add the contents verbatim in the page language. This works well for pages that are mainly text and do not share elements with the pages in other languages, for example the biography.
 
 1. Add the contents in the _include directory using translations in _data/xlate.yml and then include that file in page.md in the language directory.
+
+1. The collection layout shows a set of categories as a grid of cards
+
+1. The photos layout has a carousel of images.

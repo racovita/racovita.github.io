@@ -5,8 +5,7 @@
     <h2>{{ site.data.xlate.foundation_subtitle[page.lang] | escape }}</h2>
   </div>
     <nav class="site-nav unit one-fifth">
-      <div class="btn-group-sm btn-translate-group dropdown">
-        <div class="dropdown-menu" >
+      <div class="btn-group-sm btn-translate-group dropdown shrunk">
           <select onchange="location = this.value;">
             <!-- Link on click (full page re-render), but keep the currently selected page as the active option on the menu. -->
 			{% assign languages = "en, ro, fr" | split: ", " %}
@@ -19,7 +18,6 @@
              <option  {% if page.lang == lang %} selected {% endif %} value="{{ url | replace_first: page.lang, lang }}">{{ site.data.xlate.lang_name[lang] }}</option>
   		    {% endfor %}
           </select>
-        </div>
       </div>
       <div class="portrait unit one-fifth">
         <img src='{{"/assets/images/racovita1.jpeg" | relative_url }}' />
