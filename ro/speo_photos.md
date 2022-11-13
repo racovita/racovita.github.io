@@ -1,7 +1,7 @@
 ---
-title: Speleology photo gallery
+title: Fotografii din peșteri
 layout: photos
-lang: en
+lang: ro
 ref: speologie
 use_bootstrap: true
 ---

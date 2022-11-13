@@ -1,7 +1,6 @@
 @import "utilities";
 @import "nav";
 @import "rouge-base16-dark";
-@import "carousel";
 @import url('https://fonts.googleapis.com/css?family=Chivo:900');
 
 /* http://meyerweb.com/eric/tools/css/reset/
@@ -375,8 +374,21 @@ footer a:hover {
   padding-right: 20px;
 }
 
-.shrunk {
+.egr-shrunk {
   width: 90%;
+}
+
+.egr-photo-caption {
+  color: #d5000d;
+  text-align:center;
+}
+
+.egr-photo {
+  height: 1024px;
+}
+
+.album a {
+  color: #777;
 }
 
 .clearfix {display: inline-block;}
