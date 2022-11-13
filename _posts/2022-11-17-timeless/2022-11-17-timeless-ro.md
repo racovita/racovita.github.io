@@ -16,6 +16,8 @@ Acest eveniment, este organizat virtual la Universitatea Babeș-Bolyai,  Cluj-Na
 
 Evenimentul este transmis online pe [canalul YouTube](https://www.youtube.com/channel/UCQlrz7oSFbyjj3f6C_5Vngg).
 
+Materiale de promovare a evenimentului de descărcat: [afiș](/assets/images/Nov22/poster.jpg), pliant ([față](/assets/images/Nov22/brochure_front.jpg), [interior](/assets/images/Nov22/brochure_interior.jpg)), [web banner](/assets/images/Nov22/web_banner.png).
+
 ## Programul (desfasurat în limba engleză)
 
 {% include 20221117_program.md %}

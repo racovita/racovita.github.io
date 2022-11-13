@@ -15,6 +15,8 @@ Cet événement public aura lieu virtuellement à l'Université Babes-Bolyai, Cl
 
 L'événement est diffusé sur la [chaîne YouTube](https://www.youtube.com/channel/UCQlrz7oSFbyjj3f6C_5Vngg).
 
+Matériel promotionne pour l'événement à télécharger: [affiche](/assets/images/Nov22/poster.jpg), brochure ([face](/assets/images/Nov22/brochure_front.jpg), [intérieur](/assets/images/Nov22/brochure_interior.jpg)), [bannière internet](/assets/images/Nov22/web_banner.png).
+
 ## Programme (en anglais)
 
 {% include 20221117_program.md %}
