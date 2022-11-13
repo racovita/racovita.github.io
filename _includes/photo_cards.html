@@ -6,6 +6,7 @@
 {% assign title = category.title[page.lang] %}
 
 <div class="col">
+  <a href="/{{ page.lang }}/{{ category.link }}">
   <div class="card shadow-sm">
     <img class="img-circle" src="{{ category.path }}/{{ category.card }}">
     <div class="card-body">
@@ -13,6 +14,7 @@
       <p class="card-text">{{ category.description[page.lang] }}</p>
     </div>
   </div>
+  </a>
 </div><!-- class="col-md-3" -->
 
 {% endfor %}

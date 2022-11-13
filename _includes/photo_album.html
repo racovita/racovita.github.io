@@ -1,0 +1,19 @@
+<h1>{{ page.title }}</h1>
+
+{% assign album = site.data.photos | where: "name", page.ref | first %}
+
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+{% for photo in album.photos %}
+
+<div class="col">
+  <div class="card shadow-sm">
+    <img src="{{ album.path }}/{{ photo.file }}">
+    <div class="card-body">
+      <p class="card-text">{{ photo[page.lang] }}</p>
+    </div>
+  </div>
+</div><!-- class="col-md-3" -->
+
+{% endfor %}
+</div> <!-- class="row" -->

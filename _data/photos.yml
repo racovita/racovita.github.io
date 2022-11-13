@@ -5,6 +5,8 @@
     ro: Antarctica
     fr: Antarctica
   card: Antarctica_23.jpg
+  description:
+    en: "A collection of photos from the Belgica Antarctic Expedition, 1897-1899. Scanned from originals owned by E. Racoviță"
   path: "/assets/images/photo_archive/Antarctica/"
   photos:
     - an01:
@@ -26,10 +28,76 @@
     ro: Speologie
     fr: Speologie
   card: Cueva-del-Drach-2.jpg
+  description:
+    en: "Cave photos taken by E. Racoviță."
+    ro: "Fotografii de pesteri pozate de E. Racoviță."
+  link: speo_photos.html
   path: "/assets/images/photo_archive/Speleology/"
   photos:
-    - one
-    - two
+    - speo01:
+      en: "Cuevas del Drach: Columns Hall"
+      ro: "Cuevas del Drach: Sala Coloanelor"
+      file: Speo_01.jpg
+    - speo03:
+      en: "Cuevas del Drach: Stalagmites"
+      ro: "Cuevas del Drach: Masiv stalagmitic"
+      file: Speo_03.jpg
+    - speo04:
+      en: "Cuevas del Drach: Lake of Delights"
+      ro: "Cuevas del Drach: Lacul Deliciilor, cu o barcă"
+      file: Speo_04.jpg
+    - speo05:
+      en: "Cuevas del Drach: Stalagmites"
+      ro: "Cuevas del Drach: Scurgere stalagmitică"
+      file: Speo_05.jpg
+    - speo06:
+      en: "Cuevas del Drach: Pool"
+      ro: "Cuevas del Drach: Bazin cu apă"
+      file: Speo_06.jpg
+    - speo10:
+      en: "Cuevas del Drach: Stalagmitic column"
+      ro: "Cuevas del Drach: Coloană stalagmitică"
+      file: Speo_10.jpg
+    - speo11:
+      en: "Cuevas del Drach: Miramar lake"
+      ro: "Cuevas del Drach: Lacul Miramar"
+      file: Speo_11.jpg
+    - speo12:
+      en: "Cuevas del Drach: Columns Hall"
+      ro: "Cuevas del Drach: Sala Coloanelor"
+      file: Speo_12.jpg
+    - speo15:
+      en: "Cuevas del Drach: Lake of Delights"
+      ro: "Cuevas del Drach: Lacul Deliciilor"
+      file: Speo_15.jpg
+    - speo16:
+      en: "Cuevas del Drach: Stalagmites in the Moragues dome"
+      ro: "Cuevas del Drach: Coloane stalagmitice în Domul Moragues"
+      file: Speo_16.jpg
+    - speo17:
+      en: "Cuevas del Drach: Columns Hall"
+      ro: "Cuevas del Drach: Sala Coloanelor"
+      file: Speo_17.jpg
+    - speo09:
+      en: "Cuevas del Molino: Cave entrace as seen from inside."
+      ro: "Cuevas del Molino: Deschiderea văzută din interiorul peşterii."
+      file: Speo_09.jpg
+    - speo18:
+      en: "René Jeannel (on the right) at the entrance of Grotte de Las Tours, August 13, 1910"
+      ro: "René Jeannel (în dreapta) la intrarea în Grotte de Las Tours, 13 august 1910"
+      file: Speo_18.jpg
+    - speo02:
+      en: "Ice stalagmites „Biserica” (Church) hall (Photo R. Jeannel, August 15, 1921)"
+      ro: "Stalagmite de gheaţă din sala „Biserica” (Foto R. Jeannel, 15 august 1921)"
+      file: Speo_02.jpg
+    - speo07:
+      en: "Ice stalagmites „Biserica” (Church) hall (Photo E. Racoviţă, June 28, 1923)."
+      ro: "Stalagmite de gheaţă din „Biserică” (Foto E. Racoviţă, 28 iunie 1923)."
+      file: Speo_07.jpg
+    - speo08:
+      en: "Ice stalagmitic blocks in „Biserica” (Church) hall (Photo E. Racoviţă, August 15, 1921)."
+      ro: "Masive stalagmitice de gheaţă în „Biserică” (Foto E. Racoviţă, 15 august 1921)."
+      file: Speo_08.jpg
 
 - name: family
   title: 
