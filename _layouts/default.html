@@ -5,30 +5,22 @@
   </head>
 
   <body>
-    <div id="container">
-      <div class="inner">
-        <div class="above-content">
-        <div class="wrapper">
-          {%- include header.html -%}
-        </div>
-        <hr>
-        <div class="wrapper" id="main-nav-content-wrapper">
-          <section id="main_content" class="unit four-fifths">
-            {{ content }}
-          </section>
-          <div class="right-menu">
-          {%- include nav_menu.html -%}
-          </div>
-          </div>
-        </div>
+    {% include header.html %}
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <div class="container">
         <div class="wrapper footer">
-          <footer>
-			  <p><center> {% include egida.html %}</center> </p>
-			  {% include footer.html %}
-          </footer>
+          <section>
+            {% include egida.html %}
+            {% include footer.html %}
+          </section>
         </div>
       </div>
-    </div>
+    </footer>
 
   {% include google_analytics.html %}
   {% include scripts.html %}

@@ -1,11 +1,12 @@
-<header class="site-header" role="banner">
-  <div class="site-nav unit four-fifths title">
-    <img src='{{"/assets/images/sigla_ro_notext.png"  | relative_url }}' width="150"/>
-    <h1>{{ site.data.xlate.foundation_title[page.lang] | escape }}</h1>
-    <h2>{{ site.data.xlate.foundation_subtitle[page.lang] | escape }}</h2>
-  </div>
-    <nav class="site-nav unit one-fifth">
-      <div class="btn-group-sm btn-translate-group dropdown egr-shrunk">
+<nav class="navbar navbar-expand-lg sticky-top navbar-light bg-light py-2">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><img src="/assets/images/sigla_google_logo.png" alt="" height="50"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    {%- include menu.html -%}
+    <ul class="nav">
+      <li class="nav-item">
           <select onchange="location = this.value;">
             <!-- Link on click (full page re-render), but keep the currently selected page as the active option on the menu. -->
 			{% assign languages = "en, ro, fr" | split: ", " %}
@@ -18,9 +19,16 @@
              <option  {% if page.lang == lang %} selected {% endif %} value="{{ url | replace_first: page.lang, lang }}">{{ site.data.xlate.lang_name[lang] }}</option>
   		    {% endfor %}
           </select>
-      </div>
-      <div class="portrait unit one-fifth">
-        <img src='{{"/assets/images/racovita1.jpeg" | relative_url }}' />
-      </div>
-    </nav>
+      </li>
+    </ul>
+  </div>
+</nav>
+<header class="site-header" role="banner">
+  <div class="site-nav unit four-fifths title">
+    <h1>{{ site.data.xlate.foundation_title[page.lang] | escape }}</h1>
+    <h2>{{ site.data.xlate.foundation_subtitle[page.lang] | escape }}</h2>
+  </div>
+  <div class="portrait unit one-fifth">
+    <img src='{{"/assets/images/racovita1.jpeg" | relative_url }}' />
+  </div>
 </header>

@@ -387,6 +387,24 @@ footer a:hover {
   height: 1224px;
 }
 
+nav {
+    ul li {
+      list-style-type: none;
+      color: #999;
+    }
+    a {
+      color: #999;
+    }
+    select {
+      background-color: unset;
+      width: 100%;
+      margin: 0 auto;
+      height: 32px;
+      font-size: 16px;
+      text-indent: 10px;
+    }
+}
+
 .carousel-inner {
 	>.carousel-item {
 		>img {

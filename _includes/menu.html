@@ -1,0 +1,68 @@
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+  {% for section in site.data.menu -%}
+    {%- assign link = "/" | append: page.lang | append: "/" | append: section.link %}
+    {%- assign p = site.pages | where: "url", link | first %}
+    {% assign tgt=false %}
+
+    {%- if section.title == "Home" -%}
+      {% assign href = link | relative_url %}
+    {%- endif -%}
+
+    {%- if section.link -%}
+      {%- if page.url == p.url -%}
+        {% assign href = "#" %}
+      {%- elsif p.url -%}
+        {% assign href = link | relative_url %}
+      {%- endif -%}
+      {% if section.link contains "https://" %}
+        {% assign href = section.link | absolute_url %}
+        {% assign tgt=true %}
+      {% endif %}
+    {%- else -%}
+      {% assign href = "#" %}
+      {% assign link = "" %}
+    {%- endif -%}
+
+   {% assign menu_page_cls = "nav-item parent" %}
+   {% assign menu_page_attrs = "" %}
+   {% assign menu_link_cls = "nav-link"%}
+   {% assign menu_link_attrs = "" %}
+   
+   {% if page.url == link %}
+     {% assign menu_page_cls = menu_page_cls | append: " active" %}
+     {% assign menu_page_attrs="aria-current='page'" %}
+   {% endif %}
+   
+   {% if section.subnav[0] %}
+     {% assign menu_page_cls = menu_page_cls | append: " dropdown" %}
+     {% assign menu_link_attrs = menu_link_attrs | append: " role='button' data-bs-toggle='dropdown' aria-expanded='false'" %}
+   {% endif %}
+  
+   <li class="{{ menu_page_cls }}" {{ menu_page_attrs }}>
+     {% if section.subnav[0] %}
+     <a href="{{ href }}" class="{{ menu_link_cls }}" role='button' data-bs-toggle='dropdown' aria-expanded='false'>
+     {% else %}
+     {% if tgt %}
+       <a href="{{ href }}" class="{{ menu_link_cls }}" target="_blank">
+     {% else %}
+       <a href="{{ href }}" class="{{ menu_link_cls }}">
+     {% endif %}
+     {% endif %}
+       <div class="main-menu-title">
+         {{- section[page.lang] | default: section.title -}}
+       </div>
+     </a>
+    
+     {%- if section.subnav[0] -%}
+       <ul class="dropdown-menu">
+       {%- for entry in section.subnav -%}
+         {%- assign link = "/" | append: page.lang | append: "/" | append: entry.link %}
+         <li><a class="dropdwon-item" href="{{ link | relative_url }}">{{ entry[page.lang] | default: entry.title }}</a></li>
+       {%- endfor -%}
+       </ul>
+     {%- endif -%}    
+  </li>
+  {% endfor %}
+  </ul>
+</div>
