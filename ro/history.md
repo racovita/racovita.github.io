@@ -7,6 +7,8 @@ ref: history
 
 # Contributiile lui Emil G. Racoviță
 
+*Under construction*
+
 ## Emil G. Racoviță: începuturile protecției naturii în România
 
 **1921** » Înființarea la Cluj-Napoca de către Emil G. Racoviță a asociației de turism Frăția Munteana al cărei scop era cultivarea dragostei pentru natura sălbatica a munților și de a organiza excursii în masivele muntoase. Asociatia Frăția Munteana a fost înglobata în anul 1935 în Turing-Clubul României, în cadrul căruia au luat ființă o serie de secțiuni: Munții Apuseni, Retezatul (1933) cu sediul la Deva, Maramureș (1934) cu sediul la Sighet, Arad (1936) cu sediul la Arad, Satu Mare (1936), Munții Făgăraș (1938) cu sediul la Sibiu, Secțiunea Alpina a Bucegilor (1938) cu sediul la Sinaia.
@@ -26,26 +28,10 @@ ref: history
 
 **1935** » Se înființează primul parc național, Parcul Național Retezat și alte rezervații naturale (exemplu Codrul secular Slătioara, Fânețele Clujului, Pădurea Letea din Delta Dunării).
 
-**1943** » Se publică prima lista oficială a rezervațiilor din țara noastră, fiind demarat astfel primul inventar al ariilor naturale protejate. 
+**1943** » Se publică prima lista oficială a rezervațiilor din țara noastră, fiind demarat astfel primul inventar al ariilor naturale protejate.
 
 **1944** » 36 de teritorii rezervații naturale. Parc național, monumente ale naturii, însumând o suprafață de 15.000 de hectare.
 
 **1944-1989** » După 23 august 1944 măsurile de protecție a naturii s-au bazat pe eforturile instituționale făcute înainte de război de Emil G. Racoviță și Alexandru Borza. În 1972 numărul ariilor protejate constituite a crescut la 190 de obiective însumând aproape 100.000 de hectare.
 
 *Sursa: [Academia Română](https://acad.ro/institutia/comisiile.html?101).*
-
-# Cronologic
-
-Din realizările lui Emil G. Racovță:
-
-1. 1893 > "Note de Biologie", începând din anul 1893
-1. 1897-1899 > Expediția internațională cu  vasul "Belgica" în Antarctica
-1. 1904 > Cueva del Drach, insula Mallorca-crustaceul cavernicol – Biospeologia
-1. 1907 >
-  ![biospeology]({{"/assets/images/biospeologica.jpg"}}){:class="img-responsive"}<br />
-  *"Essai sur les problemes biospeologiques"*
-
-1. .....
-1. 1918-1927 > Enumerarea peșterilor vizitate,…
-1.  192? > ![bulletin de biologie]({{"/assets/images/buletin.jpg"}}){:class="img-responsive"}<br />
-1. 2014 > "Belgica antarctica" - insecta cu cel mai mic genom culeasa de E. G. Racoviță
