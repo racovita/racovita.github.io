@@ -11,25 +11,33 @@
 {% endfor %}
 
 {% if hasUpcoming %}
-<h2>{{ site.data.xlate.upcoming[page.lang] }}</h2>
 
-<ul>
+<div class="container col-xxl-10 px-4 py-5">
 {% for post in posts %}
   {% assign postDate = post.date | date: "%Y-%m-%d" %}
   {% if postDate >= currentDate %}
-    <li>        {{ post.date | date: site.languages[page.lang].date_format }} » <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+  <div class="row flex-lg-row align-items-center g-5 py-5">
 		{% if post.banner %}
-		  <br/>
+    <div class="col-lg-7">
     <div class="yt-container">
 		  <a href="https://youtu.be/OydU9DFSqmg" target="_blank">
         <img src="{{ post.banner }}">
         <button class="button"><img src="/assets/images/ytplay.png" width="30px"></button>
       </a>
      </div>
-		{% endif %}
-    </li>
-  {% endif %}
-{% endfor %}
-</ul>
+    </div>
+    {% endif %}
+    <div class="col-10 col-sm-8 col-lg-5">
+      <a href="{{ post.url | absolute_url }}">
+        <h1 class="fw-bold lh-1 mb-3">{{ post.title }}</h1>
+      </a>
+      <p class="lead">
+        {{ post.description }}
+      </p>
+    </div>
+  </div>
+    {% endif %}
+  {% endfor %}
+</div>
 
 {% endif %}

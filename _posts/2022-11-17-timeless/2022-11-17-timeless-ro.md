@@ -1,5 +1,6 @@
 ---
 title: Actualitatea patrimoniului științific și de explorare a lui Emil G. Racoviță
+description: Eveniment virtual la Universitatea Babeș-Bolyai, Cluj-Napoca, Romania, în <strong>17 noiembrie 2022 la ora 15:00</strong> și transmis pe <a href="https://www.youtube.com/channel/UCQlrz7oSFbyjj3f6C_5Vngg">canalul YouTube</a>.
 layout: 'post'
 lang: ro
 ref: ubb75years

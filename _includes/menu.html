@@ -1,27 +1,31 @@
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+  <ul class="navbar-nav me-auto my-2 mb-lg-0">
   {% for section in site.data.menu -%}
     {%- assign link = "/" | append: page.lang | append: "/" | append: section.link %}
     {%- assign p = site.pages | where: "url", link | first %}
-    {% assign tgt=false %}
-
-    {%- if section.title == "Home" -%}
-      {% assign href = link | relative_url %}
-    {%- endif -%}
-
+    {% assign tgt="local" %}
+    
     {%- if section.link -%}
       {%- if page.url == p.url -%}
         {% assign href = "#" %}
+        {% assign tgt = "on-page" %}
       {%- elsif p.url -%}
         {% assign href = link | relative_url %}
+      {% else %}
+        {% assign tgt = "none" %}
       {%- endif -%}
       {% if section.link contains "https://" %}
         {% assign href = section.link | absolute_url %}
-        {% assign tgt=true %}
+        {% assign tgt="remote" %}
       {% endif %}
     {%- else -%}
       {% assign href = "#" %}
       {% assign link = "" %}
+    {%- endif -%}
+
+    {%- if section.title == "Home" -%}
+      {% assign href = link | relative_url %}
+      {% assign tgt = "local" %}
     {%- endif -%}
 
    {% assign menu_page_cls = "nav-item parent" %}
@@ -29,7 +33,7 @@
    {% assign menu_link_cls = "nav-link"%}
    {% assign menu_link_attrs = "" %}
    
-   {% if page.url == link %}
+   {% if page.url == p.url %}
      {% assign menu_page_cls = menu_page_cls | append: " active" %}
      {% assign menu_page_attrs="aria-current='page'" %}
    {% endif %}
@@ -39,11 +43,12 @@
      {% assign menu_link_attrs = menu_link_attrs | append: " role='button' data-bs-toggle='dropdown' aria-expanded='false'" %}
    {% endif %}
   
+  {% if tgt != "none" %}
    <li class="{{ menu_page_cls }}" {{ menu_page_attrs }}>
      {% if section.subnav[0] %}
      <a href="{{ href }}" class="{{ menu_link_cls }}" role='button' data-bs-toggle='dropdown' aria-expanded='false'>
      {% else %}
-     {% if tgt %}
+     {% if tgt == "remote" %}
        <a href="{{ href }}" class="{{ menu_link_cls }}" target="_blank">
      {% else %}
        <a href="{{ href }}" class="{{ menu_link_cls }}">
@@ -58,11 +63,14 @@
        <ul class="dropdown-menu">
        {%- for entry in section.subnav -%}
          {%- assign link = "/" | append: page.lang | append: "/" | append: entry.link %}
-         <li><a class="dropdwon-item" href="{{ link | relative_url }}">{{ entry[page.lang] | default: entry.title }}</a></li>
+         <li><a class="dropdwon-item rounded-2" href="{{ link | relative_url }}">{{ entry[page.lang] | default: entry.title }}</a></li>
        {%- endfor -%}
        </ul>
      {%- endif -%}    
   </li>
+  {% endif %}
   {% endfor %}
+    
   </ul>
+  
 </div>
