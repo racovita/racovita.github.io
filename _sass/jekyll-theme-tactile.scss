@@ -380,11 +380,20 @@ footer a:hover {
 
 .egr-photo-caption {
   color: #d5000d;
-  text-align:center;
+  text-align: left;
 }
 
-.egr-photo {
-  height: 1024px;
+.egr-photo-album {
+  height: 1224px;
+}
+
+.carousel-inner {
+	>.carousel-item {
+		>img {
+      height: auto;
+			max-width: 768px;
+		}
+	}
 }
 
 .album a {

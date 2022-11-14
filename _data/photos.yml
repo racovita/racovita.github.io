@@ -4,23 +4,244 @@
     en: Antarctica
     ro: Antarctica
     fr: Antarctica
-  card: Antarctica_23.jpg
+  card: Antarctica - 23.jpg
+  link: antarctica_photos.html
   description:
     en: "A collection of photos from the Belgica Antarctic Expedition, 1897-1899. Scanned from originals owned by E. Racoviță"
-  path: "/assets/images/photo_archive/Antarctica/"
+  path: "/assets/images/photo_archive/Antarctica"
   photos:
     - an01:
       ro: "Sania doctorului Cook (Foto F. Cook)."
       en: "Dr. Cook's sled (Photo by F. Cook)."
-      file: "Antarctica_01.jpg"
+      file: "Antarctica - 01.jpg"
     - an02:
-      ro: Pregătirea apei de băut la bordul corăbiei.
-      en: Making potable water aboard the ship.
-      file: /assets/images/photo_archive/Antarctica/Antarctica_02.jpg
+      ro: "Pregătirea apei de băut la bordul corăbiei."
+      en: "Making potable water aboard the ship."
+      file: "Antarctica - 02.jpg"
     - an03:
-      ro: Fisură deschisă în banchiză de curenţii oceanici.
-      en: Ice sheet opening
-      file: /assets/images/photo_archive/Antarctica/Antarctica_03.jpg
+      ro: "Fisură deschisă în banchiză de curenţii oceanici (Foto F. Cook, 1899)."
+      en: "Ice sheet opening (Photo by F. Cook, 1899)."
+      file: "Antarctica - 03.jpg"
+    - an04:
+      ro: "Hummock (Foto F. Cook, 1899)."
+      en: "Hummock (Photo F. Cook, 1899)."
+      file: "Antarctica - 04.jpg"
+    - an05:
+      ro: "H. Arctowski şi R. Amundsen în careul ofiţerilor (Foto F. Cook, 1899)."
+      en: "H. Arctowski and R. Amundsen in the officers mess (Photo by F. Cook, 1899)"
+      file: "Antarctica - 05.jpg"
+    - an06:
+      ro: "„Belgica” devenită prizonieră a gheţurilor antarctice (Foto F. Cook, 1899)."
+      en: "Belgica caught in the Antarctic ice shelf (Photo by F. Cook, 1899)."
+      file: "Antarctica - 06.jpg"
+    - an07:
+      ro: "Capul van Beneden (Foto: F. Cook)."
+      en: "Cape van Benden (Photo by F. Cook)."
+      file: "Antarctica - 07.jpg"
+    - an08:
+      ro: "Canal navigabil deschis în banchiză (Foto F. Cook, 1899)."
+      en: "Sailable Ice sheet opening (Photo by F. Cook, 1899)."
+      file: "Antarctica - 08.jpg"
+    - an09:
+      ro: "„Belgica” în lumina lunii (Foto A. de Gerlache şi F. Cook)."
+      en: "Belgica in the moon light (Photo by A. de Gerlache and F. Cook)."
+      file: "Antarctica - 09.jpg"
+    - an10:
+      ro: "Pinguin din Ţara Adélie (<em>Pygoscelis adeliae</em>)."
+      en: "Adeli penguin (<em>Pygoscelis adeliae</em>))"
+      file: "Antarctica - 10.jpg"
+    - an11:
+      ro: "Marginea banchize oglindită în apa oceanului."
+      en: "Ice shelf boundary mirrored in the ocean."
+      file: "Antarctica - 11.jpg"
+    - an12:
+      ro: "Ţărm stâncos în Strâmtoare de Gerlache."
+      en: "Rocky terrain in the de Gerlache Strait."
+      file: "Antarctica - 12.jpg"
+    - an13:
+      ro: "Frederick Cook la sfârşitul expediţiei."
+      en: "Frederick Cook at the end of the expedition."
+      file: "Antarctica - 13.jpg"
+    - an14:
+      ro: "E. Racoviţă tăind gheaţa cu ferăstrăul."
+      en: "E. Racoviţă cutting ice to open a channel for Belgica."
+      file: "Antarctica - 14.jpg"
+    - an15:
+      ro: "E. Racoviţă în laboratorul său de pe „Belgica” (Foto F. Cook)."
+      en: "E. Racoviţă in his lab aboard Belgica (Photo by F. Cook)."
+      file: "Antarctica - 15.jpg"
+    - an16:
+      ro: "Săparea canalul artificial (Foto F. Cook)."
+      en: "Ice cutting to open a channel for Belgica (Photo by F. Cook.)"
+      file: "Antarctica - 16.jpg"
+    - an17:
+      ro: "H. Arctowski în laboratorul său de pe „Belgica” (Foto F. Cook)."
+      en: "H. Arctowski in his lab aboard Belgica (Photo by F. Cook)."
+      file: "Antarctica - 17.jpg"
+    - an18:
+      ro: "Iceberg prins în banchiză (Foto F. Cook)."
+      en: "Iceberg stuck in the ice shelf (Photo by F. Cook)."
+      file: "Antarctica - 18.jpg"
+    - an19:
+      ro: "Strâmtoarea de Gerlache, cu pinguini şi o focă (Foto F. Cook)."
+      en: "The de Gerlache Strait with penguins and a seal (Photo by F. Cook)."
+      file: "Antarctica - 19.jpg"
+    - an20:
+      ro: "Colonie de pinguini pe ţărm."
+      en: "Penguins."
+      file: "Antarctica - 20.jpg"
+    - an21:
+      ro: "Pinguini antarctici (<em>Pygoscelis antarctica</em>) primind vizita unui explorator (Foto E. Racoviţă)."
+      en: "Antarctic penguins (<em>Pygoscelis antarctica</em>) welcoming an explorer (Photo by E. Racoviţă)."
+      file: "Antarctica - 21.jpg"
+    - an22:
+      ro: "Debarcare pe coastele Antarcticii."
+      en: "Landing on the ice shelf."
+      file: "Antarctica - 22.jpg"
+    - an23:
+      ro: "„Belgica” în inima banchizei şi un pinguin imperial (<em>Aptenodytes forsteri</em>) (Foto F. Cook)"
+      en: "Belgica caught in ice and an Imperial penguin (<em>Aptenodytes forsteri</em>) (Photo by F. Cook)."
+      file: "Antarctica - 23.jpg"
+    - an24:
+      ro: "Capul Renard din Strâmtoarea de Gerlache (Foto F. Cook)."
+      en: ""
+      file: "Antarctica - 24.jpg"
+    - an25:
+      ro: "„Ceaiul de la ora cinci”. Moment de odihnă în săparea canalului artificial (Foto F. Cook)."
+      en: ""
+      file: "Antarctica - 25.jpg"
+    - an26:
+      ro: "„Belgica” imobilizată în banchiză."
+      en: ""
+      file: "Antarctica - 26.jpg"
+    - an27:
+      ro: "Colonie de pinguini papuani (<em>Pygoscelis papua</em>) (Foto E. Racoviţă)."
+      en: ""
+      file: "Antarctica - 27.jpg"
+    - an28:
+      ro: "Cu sania pe gheaţa banchizei."
+      en: ""
+      file: "Antarctica - 28.jpg"
+    - an29:
+      ro: "Sondaj în banchiză (Foto F. Cook)."
+      en: ""
+      file: "Antarctica - 29.jpg"
+    - an30:
+      ro: "Colonie de pinguini papuani (<em>Pygoscelis papua</em>) pe o platformă de piatră (Foto Racoviţă)."
+      en: ""
+      file: "Antarctica - 30.jpg"
+    - an31:
+      ro: "Iceberg în arcadă eşuat în Strâmtoarea de Gerlache (Foto F. Cook)."
+      en: ""
+      file: "Antarctica - 31.jpg"
+    - an32:
+      ro: "Pregătirea unui bivuac pe gheaţă."
+      en: ""
+      file: "Antarctica - 32.jpg"
+    - an33:
+      ro: "Strâmtoarea de Gerlache."
+      en: ""
+      file: "Antarctica - 33.jpg"
+    - an34:
+      ro: "Iceberguri."
+      en: ""
+      file: "Antarctica - 34.jpg"
+    - an35:
+      ro: "Canal de apă liberă deschis în banchiză (Foto E. Racoviţă)."
+      en: ""
+      file: "Antarctica - 35.jpg"
+    - an36:
+      ro: "Grup de pinguini (<em>Pygoscelis adeliae</em>) în faza de năpârlire (Foto F. Cook)."
+      en: ""
+      file: "Antarctica - 36.jpg"
+    - an37:
+      ro: "Foca lui Weddel (Leptonychotes weddeli) (Foto F. Cook)."
+      en: ""
+      file: "Antarctica - 37.jpg"
+    - an38:
+      ro: "Îndepărtarea troienelor de zăpadă din jurul vasului."
+      en: ""
+      file: "Antarctica - 38.jpg"
+    - an39:
+      ro: "Puntea corăbiei înzăpezită de o furtună (Foto F. Cook)."
+      en: ""
+      file: "Antarctica - 39.jpg"
+    - an40:
+      ro: "„Belgica” fotografiată la lumina lunii (Foto F. Cook)."
+      en: ""
+      file: "Antarctica - 40.jpg"
+    - an41:
+      ro: "Evacuarea blocurilor de gheaţă din canalului artificial (Foto F. Cook)."
+      en: ""
+      file: "Antarctica - 41.jpg"
+    - an42:
+      ro: "Foca lui Ross (<em>Omatophora rossi</em>) (Foto F. Cook)."
+      en: ""
+      file: "Antarctica - 42.jpg"
+    - an43:
+      ro: "Foca Lobodon (<em>Lobodon carcinophaga</em>) (Foto F. Cook)."
+      en: ""
+      file: "Antarctica - 43.jpg"
+    - an44:
+      ro: "Caricatură desenată de E. Racoviţă (reproducere)."
+      en: ""
+      file: "Antarctica - 44.jpg"
+    - an45:
+      ro: "Echipament confecţionat pe „Belgica”."
+      en: ""
+      file: "Antarctica - 45.jpg"
+    - an46:
+      ro: "Echipament confecţionat pe „Belgica”."
+      en: ""
+      file: "Antarctica - 46.jpg"
+    - an47:
+      ro: "Echipament confecţionat pe „Belgica”."
+      en: ""
+      file: "Antarctica - 47.jpg"
+    - an48:
+      ro: "Vulturul antarctic (<em>Ossifraga gigantea</em>) pe cadavrul unei foci (Foto H. Arctowski)."
+      en: ""
+      file: "Antarctica - 48.jpg"
+    - an49:
+      ro: "„Belgica” imobilizată în banchiza australă."
+      en: ""
+      file: "Antarctica - 49.jpg"
+    - an50:
+      ro: "Emil Racoviţă în braţe cu un pinguin prins pe banchiză."
+      en: ""
+      file: "Antarctica - 50.jpg"
+    - an51:
+      ro: "Coastele înzăpezite ale Strâmtorii de Gerlache."
+      en: ""
+      file: "Antarctica - 51.jpg"
+    - an52:
+      ro: "Pupa corăbiei „Belgica”."
+      en: ""
+      file: "Antarctica - 52.jpg"
+    - an53:
+      ro: "Imagine din Strâmtoarea de Gerlache."
+      en: ""
+      file: "Antarctica - 53.jpg"
+    - an54:
+      ro: "Printre gheţurile de la marginea banchizei."
+      en: ""
+      file: "Antarctica - 54.jpg"
+    - an55:
+      ro: "În Strâmtoarea de Gerlache."
+      en: ""
+      file: "Antarctica - 55.jpg"
+    - an56:
+      ro: "Mateloţi spărgând gheaţa cu târnăcoapele (Foto F. Cook)."
+      en: ""
+      file: "Antarctica - 56.jpg"
+    - an57:
+      ro: "Ceată de pinguini la adăpostul unui dâmb de zăpadă (Foto F. Cook)."
+      en: ""
+      file: "Antarctica - 57.jpg"
+    - an58:
+      ro: "Vasul „Belgica” în rada portului Anvers (probabil, înainte de plecarea în expediţie)."
+      en: "Belgica in port at Anvers (likely before the start of the expedition)."
+      file: "Belagica la Anvers.jpg"
 
 - name: speologie
   title:
@@ -95,44 +316,3 @@
       ro: "Masive stalagmitice de gheaţă în „Biserică” (Foto E. Racoviţă, 15 august 1921)."
       file: "Scarisoara - 03.jpg"
 
-- name: family
-  title: 
-    en: Family Photos
-    ro: Portrete familiale
-    fr: Portraits de famille
-  card: Racovita-pe-Belgica.jpg
-  path: "/assets/images/photo_archive/Family/"
-  photos:
-    - one
-    - two
-
-- name: france
-  title:
-    en: Group photos in France
-    ro: Fotografii de grup in Franta
-  card: Racovita-pe-Belgica.jpg
-  path: "/assets/images/photo_archive/France/"
-  photos:
-    - one
-    - two
-
-- name: romania
-  title:
-    en: Group photos in Romania
-    ro: Fotografii de grup in Romania
-  card: Racovita-pe-Belgica.jpg
-  path: "/assets/images/photo_archive/Romania/"
-  photos:
-    - one
-    - two
-    
-- name: others
-  title:
-    en: Pottpourri
-    ro: Fotografii diverse
-  card: Racovita-pe-Belgica.jpg
-  path: "/assets/images/photo_archive/others/"
-  photos:
-    - one
-    - two
-  

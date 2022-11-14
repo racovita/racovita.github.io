@@ -1,9 +1,10 @@
 
 {% assign album = site.data.photos | where: "name", page.ref | first %}
 
-<div id="photo_carousel" class="carousel slide" data-ride="carousel">
+<div id="photo_carousel" class="carousel carousel-dark slide" data-bs-ride="carousel">
   
   <!-- Indicators -->
+  <!--
   <div class="carousel-indicators">
     {% for photo in album.photos %}
     {% if forloop.first %}
@@ -20,6 +21,7 @@
       {% endif %}
     {% endfor %}
   </div>
+  -->
     <div class="carousel-inner">
     {% for photo in album.photos %}
     {% if forloop.first %}
