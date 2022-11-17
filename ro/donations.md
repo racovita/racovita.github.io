@@ -58,5 +58,5 @@ Organizațiile nonprofit pot primi până la 3,5% din impozitul pe venit.
 
 ## Donații directe
 
-Dacă dorițti să facețti o donație directa, vă rugăm sa ne [contactați](mailto:racovita@cascaval.us){:target="_blank"}{:rel="noopener noreferrer"} în prealabil.
+Dacă dorițti să facețti o donație directa, vă rugăm sa ne [contactați](mailto:donations@racoviță-foundation.ro){:target="_blank"}{:rel="noopener noreferrer"} în prealabil.
 
