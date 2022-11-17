@@ -1,5 +1,5 @@
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-  <ul class="navbar-nav me-auto my-2 mb-lg-0">
+  <ul class="navbar-nav my-2 mb-lg-0">
   {% for section in site.data.menu -%}
     {%- assign link = "/" | append: page.lang | append: "/" | append: section.link %}
     {%- assign p = site.pages | where: "url", link | first %}
@@ -70,7 +70,7 @@
   </li>
   {% endif %}
   {% endfor %}
-    
+        
   </ul>
   
 </div>

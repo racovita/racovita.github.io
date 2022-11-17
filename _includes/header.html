@@ -5,21 +5,21 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     {%- include menu.html -%}
-    <ul class="nav">
-      <li class="nav-item">
-          <select onchange="location = this.value;">
-            <!-- Link on click (full page re-render), but keep the currently selected page as the active option on the menu. -->
-			{% assign languages = "en, ro, fr" | split: ", " %}
-			{% for lang in languages %}
-			{% assign url = page.url | replace_first: page.lang, lang %}
-			{% assign exists = site.html_pages | where_exp:"item", "item.url == url" %}
-			{% unless exists.size > 0 %}
-			{% assign url = "/" | append: lang | append: "/index.html" %}
-			{% endunless %}
-             <option  {% if page.lang == lang %} selected {% endif %} value="{{ url | replace_first: page.lang, lang }}">{{ site.data.xlate.lang_name[lang] }}</option>
-  		    {% endfor %}
-          </select>
-      </li>
+    <ul class="nav ms-auto">
+     <li class="nav-item">
+      <select onchange="location = this.value;">
+        <!-- Link on click (full page re-render), but keep the currently selected page as the active option on the menu. -->
+      	{% assign languages = "en, ro, fr" | split: ", " %}
+      	{% for lang in languages %}
+        	{% assign url = page.url | replace_first: page.lang, lang %}
+        	{% assign exists = site.html_pages | where_exp:"item", "item.url == url" %}
+        	{% unless exists.size > 0 %}
+        	{% assign url = "/" | append: lang | append: "/index.html" %}
+        	{% endunless %}
+          <option  {% if page.lang == lang %} selected {% endif %} value="{{ url | replace_first: page.lang, lang }}">{{ site.data.xlate.lang_name[lang] }}</option>
+	      {% endfor %}
+      </select>
+     </li>
     </ul>
   </div>
 </nav>
