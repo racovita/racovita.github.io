@@ -24,11 +24,13 @@
   </div>
 </nav>
 <header class="site-header" role="banner">
-  <div class="site-nav unit four-fifths title">
-    <h1>{{ site.data.xlate.foundation_title[page.lang] | escape }}</h1>
-    <h2>{{ site.data.xlate.foundation_subtitle[page.lang] | escape }}</h2>
-  </div>
-  <div class="portrait unit one-fifth">
-    <img src='{{"/assets/images/racovita1.jpeg" | relative_url }}' />
+  <div class="carousel slide" data-bs-touch="false" data-bs-interval="false">
+    <div class="carousel-item active">
+      <img src="/assets/images/front-banner-2.jpg" class="img-fluid" alt="portrait">
+      <div class="carousel-caption d-flex d-md-block">
+        <p class="display-3">{{ site.data.xlate.foundation_title[page.lang] | escape }}</p>
+        <p class="display-6">{{ site.data.xlate.foundation_subtitle[page.lang] | escape }}</p>
+      </div>
+    </div>
   </div>
 </header>

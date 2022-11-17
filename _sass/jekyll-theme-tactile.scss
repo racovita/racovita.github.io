@@ -421,6 +421,10 @@ main {
 header {
   padding-left: 20px;
   padding-right: 20px;
+  .carousel-caption {
+    color: white;
+    margin-bottom: 150px;
+  }
 }
 
 .carousel-inner {
