@@ -16,7 +16,7 @@
 {% for post in posts %}
   {% assign postDate = post.date | date: "%Y-%m-%d" %}
   {% if postDate >= currentDate %}
-  <div class="row flex-lg-row align-items-center g-5 py-5">
+  <div class="row flex-lg-row align-items-start g-5 py-5">
 		{% if post.banner %}
     <div class="col-lg-7">
     <div class="yt-container">
@@ -27,13 +27,14 @@
      </div>
     </div>
     {% endif %}
-    <div class="col-10 col-sm-8 col-lg-5">
+    <div class="egr-feature col-10 col-sm-8 col-lg-5">
+      <h1 class="fw-bold">Cel mai recent eveniment</h1>
       <a href="{{ post.url | absolute_url }}">
-        <h1 class="fw-bold lh-1 mb-3">{{ post.title }}</h1>
-      </a>
-      <p class="lead">
+        <h2 class="lh-1 mb-3">{{ post.title }}</h2>
+      <p>
         {{ post.description }}
       </p>
+      </a>
     </div>
   </div>
     {% endif %}

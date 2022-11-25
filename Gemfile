@@ -1,10 +1,11 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-sitemap"
+  gem "jekyll-redirect-from"
+  gem "github-pages"
 end
 
-gemspec
+gem "c4-theme-jekyll", path: "/home/cascaval/Sites/c4-theme-jekyll"

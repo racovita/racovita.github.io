@@ -4,16 +4,16 @@ layout: default
 
 <div class="container col-xxl-9 px-4 py-5">
   <div class="row flex-lg-row align-items-start g-5 py-5">
-    <div class="col-lg-3 border-start border-5 border-dark">
-      <h1 class="display-6 fw-bold lh-1 mb-3">Despre noi</h1>
-      <p>Conservare</p>
-      <p>Cercetare</p>
-      <p>EXPLORARE</p>
+    <div class="egr-feature col-lg-3 border-start border-3 border-dark">
+      <h1 class="display-6 fw-bold lh-1 mb-3">{{ site.data.xlate.home.header[page.lang] }}</h1>
+      <p class="uppercase">
+        {{ site.data.xlate.home.subheader[page.lang] }}
+      </p>
     </div>
-    <div class="col-10 col-sm-8 col-lg-9">
-      <p class="lead">
-        {{ content }}
-      </p>  
+    <div class="egr-feature col-10 col-sm-8 col-lg-9">
+      <p>
+        {{ site.data.xlate.home.contents[page.lang] }}
+      </p>
     </div>
   </div>
 </div>
