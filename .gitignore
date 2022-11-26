@@ -6,3 +6,4 @@ vendor
 Gemfile.lock
 *~
 .DS_Store
+assets/css/fontawesome-free-6.2.1-web/

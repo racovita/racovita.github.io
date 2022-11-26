@@ -8,19 +8,12 @@
     {% include header.html %}
 
     <main>
-      {{ content }}
+      <div class="container-m-60">
+        {{ content }}
+      </div>
     </main>
 
-    <footer>
-      <div class="container">
-        <div class="wrapper footer">
-          <section>
-            {% include egida.html %}
-            {% include footer.html %}
-          </section>
-        </div>
-      </div>
-    </footer>
+   {% include footer.html %}
 
   {% include google_analytics.html %}
   {% include scripts.html %}

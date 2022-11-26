@@ -22,11 +22,22 @@ aegis:
   fr: La Fondation Emil G. Racoviţă pour la science et l'exploration des environnements extrêmes fonctionne sous le égide de
   ro: Fundația pentru Știință și Explorarea Mediilor Extreme - Emil G. Racoviță beneficează de urmatoarele egide instituționale
 
+aegis_short:
+  de: "arbeitet unter der ägide von"
+  en: "functions under the aegis of"
+  fr: "fonctionne sous le égide de"
+  ro: "functioneaza sub egida:"
+
 upcoming:
   en: Events
   de: Veranstaltungen
   ro: Evenimente
   fr: Évènements
+
+recentevents:
+  en: Recent Events
+  ro: Evenimente recente
+  fr: Évènements récents
 
 maintenance:
   en: is maintained

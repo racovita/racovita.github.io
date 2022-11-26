@@ -1,19 +1,22 @@
-
-{{ site.data.xlate.aegis[page.lang] }}
-
-<table class="borderless">
-  <tr class="borderless">
-    <td class="borderless"><img alt="Academia Româna"
-         src="/assets/images/sigla_acad_300.png"
-         width="100px" />
-    </td>
-    <td class="borderless"><img alt="Universitatea Babes-Bolyai"
-             src="/assets/images/Logo-UBB.svg"
-             width="250px" />
-    </td>
-</tr>
-<tr class="borderless">
-  <td class="borderless"><em>Academia Româna</em></td>
-  <td class="borderless"><em>Universitatea Babeș-Bolyai</em></td>
-</tr>
-</table>
+<div class="page-section">
+  <div class="row flex-lg-row align-items-start g-5 py-5">
+    <div class="egr-feature col border-start border-3 border-dark">
+      <h1 class="display-6 fw-bold lh-1 mb-3">{{ site.data.xlate.foundation_title[page.lang] }}</h1>
+      <p class="uppercase">
+        {{ site.data.xlate.aegis_short[page.lang] }}
+      </p>
+    </div>
+    <div class="egr-feature col">
+          <img alt="Universitatea Babes-Bolyai"
+               src="/assets/images/Logo-UBB.svg"
+               width="250px" />
+    </div>
+    <div class="egr-feature col">
+      <a class="uppercase a-blue" href="https://acad.ro">
+        <img alt="Academia Română"
+           src="/assets/images/sigla_acad_300.png"
+           width="100px" />
+      Academia Română</a>
+    </div>
+  </div>
+</div>

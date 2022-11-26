@@ -1,3 +1,0 @@
-{% assign url = "/main.html" | prepend: page.lang | prepend: "/" %}
-{% assign main = site.pages | where: "url", url | first %}
-{{ main.content }}

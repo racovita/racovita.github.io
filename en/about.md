@@ -1,5 +1,6 @@
 ---
 lang: en
+banner: /assets/images/banner-mission.jpg
 ref: about
 ---
 

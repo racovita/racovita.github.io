@@ -28,32 +28,32 @@
       {% assign tgt = "local" %}
     {%- endif -%}
 
-   {% assign menu_page_cls = "nav-item parent" %}
-   {% assign menu_page_attrs = "" %}
-   {% assign menu_link_cls = "nav-link"%}
-   {% assign menu_link_attrs = "" %}
+   {%- assign menu_page_cls = "nav-item parent" -%}
+   {%- assign menu_page_attrs = "" -%}
+   {%- assign menu_link_cls = "nav-link" -%}
+   {%- assign menu_link_attrs = "" -%}
 
-   {% if page.url == p.url %}
-     {% assign menu_page_cls = menu_page_cls | append: " active" %}
-     {% assign menu_page_attrs="aria-current='page'" %}
-   {% endif %}
+   {%- if page.url == p.url -%}
+     {%- assign menu_page_cls = menu_page_cls | append: " active" -%}
+     {%- assign menu_page_attrs="aria-current='page'" -%}
+   {%- endif -%}
 
-   {% if section.subnav[0] %}
-     {% assign menu_page_cls = menu_page_cls | append: " dropdown" %}
-     {% assign menu_link_attrs = menu_link_attrs | append: " role='button' data-bs-toggle='dropdown' aria-expanded='false'" %}
-   {% endif %}
+   {%- if section.subnav[0] -%}
+     {%- assign menu_page_cls = menu_page_cls | append: " dropdown" -%}
+     {%- assign menu_link_attrs = menu_link_attrs | append: " role='button' data-bs-toggle='dropdown' aria-expanded='false'" -%}
+   {%- endif %}
 
-  {% if tgt != "none" %}
+  {%- if tgt != "none" -%}
    <li class="{{ menu_page_cls }}" {{ menu_page_attrs }}>
-     {% if section.subnav[0] %}
+     {%- if section.subnav[0] -%}
      <a href="{{ href }}" class="{{ menu_link_cls }}" role='button' data-bs-toggle='dropdown' aria-expanded='false'>
-     {% else %}
-     {% if tgt == "remote" %}
+     {%- else -%}
+     {%- if tgt == "remote" -%}
        <a href="{{ href }}" class="{{ menu_link_cls }}" target="_blank">
-     {% else %}
+     {%- else -%}
        <a href="{{ href }}" class="{{ menu_link_cls }}">
-     {% endif %}
-     {% endif %}
+     {%- endif -%}
+     {%- endif -%}
        <div class="main-menu-title">
          {{- section[page.lang] | default: section.title -}}
        </div>

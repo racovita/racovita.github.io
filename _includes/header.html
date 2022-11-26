@@ -10,15 +10,15 @@
      <li class="nav-item">
       <select onchange="location = this.value;">
         <!-- Link on click (full page re-render), but keep the currently selected page as the active option on the menu. -->
-      	{% assign languages = "en, ro, fr" | split: ", " %}
-      	{% for lang in languages %}
-        	{% assign url = page.url | replace_first: page.lang, lang %}
-        	{% assign exists = site.html_pages | where_exp:"item", "item.url == url" %}
-        	{% unless exists.size > 0 %}
-        	{% assign url = "/" | append: lang | append: "/index.html" %}
-        	{% endunless %}
+      	{%- assign languages = "en, ro, fr" | split: ", " -%}
+      	{%- for lang in languages -%}
+        	{%- assign url = page.url | replace_first: page.lang, lang -%}
+        	{%- assign exists = site.html_pages | where_exp:"item", "item.url == url" -%}
+        	{%- unless exists.size > 0 -%}
+        	{%- assign url = "/" | append: lang | append: "/index.html" -%}
+        	{%- endunless %}
           <option  {% if page.lang == lang %} selected {% endif %} value="{{ url | replace_first: page.lang, lang }}">{{ site.data.xlate.lang_name[lang] }}</option>
-	      {% endfor %}
+	      {%- endfor -%}
       </select>
      </li>
     </ul>
@@ -26,10 +26,14 @@
 </nav>
 </div>
 
-<header class="site-header" role="banner">
+<header class="site-header mb-60" role="banner">
   <div class="carousel slide" data-bs-touch="false" data-bs-interval="false">
     <div class="carousel-item active">
-      <img src="/assets/images/front-banner-2.jpg" class="img-fluid" alt="portrait">
+      {%- if page.banner -%}
+      <img src="{{ page.banner }}" class="img-fluid" alt="banner">
+      {%- else -%}
+      <img src="/assets/images/banner-generic.jpg" class="img-fluid" alt="banner">
+      {%- endif -%}
       <div class="carousel-caption d-flex d-md-block">
         <p class="display-3">{{ site.data.xlate.foundation_title[page.lang] | escape }}</p>
         <p class="display-6">{{ site.data.xlate.foundation_subtitle[page.lang] | escape }}</p>

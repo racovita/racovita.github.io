@@ -1,0 +1,52 @@
+- title: About
+  en: About us
+  ro: Despre Noi
+  fr: À propos de nous
+  sub:
+    - foundation:
+      en: The foundation
+      ro: Fundația
+      fr: La Fondation
+      link: foundation.html
+
+    - egr:
+      en: Emil G. Racoviță
+      ro: Emil G. Racoviță
+      fr: Emil G. Racoviță
+      link: egr.html
+
+    - donations:
+      en: Donations
+      ro: Donează
+      fr: Donations
+      link: donations.html
+
+- title: Activities
+  en: Activities
+  ro: Activități
+  fr: Activités
+  sub:
+    - events:
+      en: Events
+      ro: Noutati
+      fr: Évènements
+      link: news.html
+    - programs:
+      en: Programs
+      ro: Programe
+      fr: Programmes
+      link: projects.html
+
+    - grants:
+      en: Grants
+      ro: Burse
+      fr: Subventions
+      link: grants.html
+
+- title: Subscribe
+  ro: Abonează-te
+  en: Subscribe
+  fr: S'abonner
+  de: Abonnieren
+  link: https://docs.google.com/forms/d/e/1FAIpQLSfQyLx_eyuzVXqIN9rt4vVIBS9jXZFQwpAhsIsjfFEK912o7A/viewform?usp=sf_link
+

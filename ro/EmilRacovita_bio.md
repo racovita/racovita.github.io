@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Biografie
+banner: /assets/images/banner-biografie.jpg
 lang: ro
 ref: bio
 ---

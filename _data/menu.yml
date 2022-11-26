@@ -70,33 +70,14 @@
       ro: Galeria foto
       link: photos.html
 
-- title: Projects
-  en: Projects
-  ro: Programe
-  fr: Projets
-  link: projects.html
-
-- title: Grants
-  en: Grants
-  ro: Burse
-  fr: Bourses d’études
-  de: Stipendien
-  link: grants.html
-
 - title: Donations
   en: Donations
   ro: Donează
   link: donations.html
 
-- title: Events
-  en: Events
-  ro: Știri/Evenimente
+- title: News
+  en: News
+  ro: Noutati
+  fr: Nouvelles
   de: Veranstaltungen
   link: news.html
-
-- title: Subscribe
-  ro: Abonează-te
-  en: Subscribe
-  fr: S'abonner
-  de: Abonnieren
-  link: https://docs.google.com/forms/d/e/1FAIpQLSfQyLx_eyuzVXqIN9rt4vVIBS9jXZFQwpAhsIsjfFEK912o7A/viewform?usp=sf_link

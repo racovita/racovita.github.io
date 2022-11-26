@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Despre Fundatie
+banner: /assets/images/banner-mission.jpg
 lang: ro
 ref: about
 ---
@@ -52,4 +53,3 @@ Forme de activitate orientate pe Misiune, Scop, Obiective:
 <li class="roman"> Dezvoltarea unor activități economice directe în vederea autofinanțării, în concordanță cu scopul Fundației.</li>
 <li class="roman"> Alte activităţi, fără a fi restricționate la cele enumerate mai sus, care contribuie la realizarea scopului Fundației și care nu contravin ordinii de drept.</li>
 </ol>
-
