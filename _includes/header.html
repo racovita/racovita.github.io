@@ -12,7 +12,7 @@
         <!-- Link on click (full page re-render), but keep the currently selected page as the active option on the menu. -->
       	{%- assign languages = "en, ro, fr" | split: ", " -%}
       	{%- for lang in languages -%}
-        	{%- assign url = page.url | replace_first: page.lang, lang -%}
+          {%- assign url = page.url | replace_first: "/" + page.lang, "/" + lang -%}
         	{%- assign exists = site.html_pages | where_exp:"item", "item.url == url" -%}
         	{%- unless exists.size > 0 -%}
         	{%- assign url = "/" | append: lang | append: "/index.html" -%}
