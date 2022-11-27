@@ -23,9 +23,9 @@ aegis:
   ro: Fundația pentru Știință și Explorarea Mediilor Extreme - Emil G. Racoviță beneficează de urmatoarele egide instituționale
 
 aegis_short:
-  de: "arbeitet unter der ägide von"
-  en: "functions under the aegis of"
-  fr: "fonctionne sous le égide de"
+  de: "arbeitet unter der ägide von:"
+  en: "functions under the aegis of:"
+  fr: "fonctionne sous le égide de:"
   ro: "functioneaza sub egida:"
 
 upcoming:
@@ -44,19 +44,3 @@ maintenance:
   ro: este menținut
   fr: est maintenue
   de: ist gewartet
-
-home:
-  header:
-    en: About us
-    ro: Despre noi
-    fr: À propos de nous
-  subheader:
-    en: "Conservation<br/>Research<br/>Exploration"
-    ro: "Conservare<br/>Cercetare<br/>Explorare"
-    fr: "Conservation<br/>Rechercher<br/>Exploration"
-  contents:
-    en: "The Emil G. Racoviţă Foundation for Science and Exploration in Extreme Environments was brought to life by the desire of the founders to honor the legacy of Emil G. Racoviță. Its goal is to support and promote scientific research, nature conservation and the environment, fostering international and
-inter-cultural collaboration."
-    ro: "Fundația pentru Știință și Explorarea Mediilor Extreme - Emil G. Racoviță a luat ființă din dorința fondatorilor de a onora moștenirea și testamentul lui Emil G. Racoviță de a sprijinii cercetarea științifică, explorarea și conservarea naturii și a mediului, promovarea colaborărilor internaționale și interculturale.  Fundația s-a constituit la data de 15 noiembrie 2020 și a dobândit personalitate juridică la data de 06 noiembrie 2021 prin încheierea civilă nr. 13090/CC/2021 pronunțată de Judecătoria Cluj-Napoca."
-    fr: "La Fondation Emil G. Racoviţă pour la science et l'exploration dans les environnements extrêmes a été créée par le désir des fondateurs d'honorer l'héritage d'Emil G. Racoviţă. Son objectif est de soutenir et de promouvoir la recherche scientifique, la conservation de la nature et de l'environnement, en encourageant la coopération internationale et
-collaboration interculturelle."

@@ -2,18 +2,35 @@
 layout: default
 ---
 
-<div class="container col-xxl-9 px-4 py-5">
-  <div class="row flex-lg-row align-items-start g-5 py-5">
-    <div class="egr-feature col-lg-3 border-start border-3 border-dark">
-      <h1 class="display-6 fw-bold lh-1 mb-3">{{ site.data.xlate.home.header[page.lang] }}</h1>
-      <p class="uppercase">
-        {{ site.data.xlate.home.subheader[page.lang] }}
+<div class="page-section shaded-bg container-m-30">
+  <div class="row flex-lg-row align-items-start mb-10">
+    {%- assign section = site.data.homepage | where: "title", "About" | first -%}
+    <div class="egr-feature col-3 border-start border-3 border-dark">
+      <h1 class="display-6 fw-bold lh-1 mb-3">{{ section.header[page.lang] }}</h1>
+      <p class="uppercase mb-0">
+        {{ section.subheader[page.lang] }}
       </p>
     </div>
-    <div class="egr-feature col-10 col-sm-8 col-lg-9">
+    <div class="egr-feature col-9">
       <p>
-        {{ site.data.xlate.home.contents[page.lang] }}
+        {{ section.contents[page.lang] }}
       </p>
+    </div>
+  </div>
+</div>
+
+<div class="page-section container-m-30">
+  <div class="row flex-lg-row align-items-start">
+    {%- assign section = site.data.homepage | where: "title", "Antarctica" | first -%}
+    <div class="egr-feature col">
+      <h1 class="fw-bold lh-2 mb-3">{{ section.header[page.lang] }}</h1>
+      <p><em>"{{ section.contents[page.lang] }}"</em></p>
+    </div>
+    <div class="egr-feature col px-0">
+      <img src="/assets/images/Racovita-pe-Belgica.jpg" class="img-fluid">
+      <div class="photo-caption">
+        <h4 class="uppercase">{{ section.caption[page.lang] }}</h4>
+      </div>
     </div>
   </div>
 </div>

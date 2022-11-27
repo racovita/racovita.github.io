@@ -70,6 +70,23 @@
       ro: Galeria foto
       link: photos.html
 
+- title: Activities
+  en: Activities
+  ro: Activități
+  fr: Activités
+  subnav:
+    - title: Programs
+      en: Programs
+      ro: Programe
+      fr: Programmes
+      link: projects.html
+
+    - title: Grants
+      en: Grants
+      ro: Burse
+      fr: Subventions
+      link: grants.html
+      
 - title: Donations
   en: Donations
   ro: Donează

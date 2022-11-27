@@ -1,9 +1,10 @@
-<footer class="page-section pt-30 pb-0">
-  <div class="container-m-0 ml-0 mr-0">
-    <div class="row footer-dark">
+<footer class="page-section mt-auto">
+  <div class="container-m-0">
+    <div class="footer-dark">
+      <div class="row pt-30 pl-80">
 
-      <div class="col-md-3 col-sm-3 pl-30 widget">
-		    <div class="logo-footer-cont pt-30">
+      <div class="col-md-3 col-sm-3 widget ml-60">
+		    <div class="logo-footer-cont">
           <a href="/{{ page.lang }}/index.html">
             <img class="logo-footer" src="/assets/images/sigla_ro.png" alt="logo">
           </a>
@@ -26,7 +27,7 @@
       <div class="col-md-3 col-sm-3 widget">
         {%- assign about_menu = site.data.footer_menu | where: "title", "About" | first -%}
         <h4 class="uppercase">{{ about_menu[page.lang] }}</h4>
-        <ul class="links-list a-text-cont">
+        <ul class="links-list a-text-cont mt-50">
           {%- for section in about_menu.sub -%}
           <li class="uppercase">
             <a href="/{{ page.lang }}/{{ section.link }}">{{ section[page.lang] }}</a>
@@ -38,7 +39,7 @@
       <div class="col-md-3 col-sm-3 widget">
         {%- assign acts_menu = site.data.footer_menu | where: "title", "Activities" | first -%}
         <h4 class="uppercase">{{ acts_menu[page.lang] }}</h4>
-        <ul class="links-list a-text-cont">
+        <ul class="links-list a-text-cont mt-50">
           {%- for section in acts_menu.sub -%}
           <li class="uppercase">
             <a href="/{{ page.lang }}/{{ section.link }}">{{ section[page.lang] }}</a>
@@ -53,21 +54,24 @@
           <a href="{{ section.link }}" target="_blank">{{ section[page.lang] }}
         </a></h4>
         <!-- <h4 class="uppercase">Social Media</h4> -->
-        <a href="https://www.youtube.com/channel/UC4pDr_TBfz6P-bval0QtVIA" target="_blank"><i class="fa-brands fa-youtube-square"></i></a>
+        <a href="https://www.youtube.com/channel/UC4pDr_TBfz6P-bval0QtVIA"
+        target="_blank"><i class="fa-brands fa-youtube-square mt-30"></i></a>
       </div>
 
+      </div>
     </div>
-
-    <div class="row footer align-items-start pb-10"><!-- light footer -->
-      <div class="col pl-30 widget mb-0">
+    <div class="footer"><!-- light footer -->
+    <div class="row align-items-start plr-50">
+      <div class="col widget">
         <h4 class="left">&copy; 2022 -- {{ site.data.xlate.foundation_title[page.lang] }}</h4>
       </div>
-      <div class="col widget mb-0 pr-30">
+      <div class="col widget">
         {%- assign section = site.data.legal | where: "title", "Privacy" | first -%}
         <h4 class="text-right"><a href="/{{ page.lang }}/{{ section.link }}">{{- section[page.lang] | default: section.title -}}
           </a>
         </h4>
       </div>
     </div>
-  </div>
+    </div>
+    </div>
 </footer>

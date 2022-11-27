@@ -1,22 +1,28 @@
-<div class="page-section">
-  <div class="row flex-lg-row align-items-start g-5 py-5">
+<div class="page-section container-m-30">
+  <div class="row flex-lg-row align-items-start">
     <div class="egr-feature col border-start border-3 border-dark">
-      <h1 class="display-6 fw-bold lh-1 mb-3">{{ site.data.xlate.foundation_title[page.lang] }}</h1>
-      <p class="uppercase">
+      {%- assign section = site.data.homepage | where: "title", "Aegis" | first -%}
+      <h1 class="display-6 fw-bold lh-2 mb-3">{{ section.header[page.lang] }}</h1>
+      <p class="uppercase mb-0">
         {{ site.data.xlate.aegis_short[page.lang] }}
       </p>
     </div>
-    <div class="egr-feature col">
+    <div class="egr-feature egida col">
           <img alt="Universitatea Babes-Bolyai"
                src="/assets/images/Logo-UBB.svg"
                width="250px" />
     </div>
-    <div class="egr-feature col">
-      <a class="uppercase a-blue" href="https://acad.ro">
-        <img alt="Academia Română"
-           src="/assets/images/sigla_acad_300.png"
-           width="100px" />
-      Academia Română</a>
-    </div>
+    <div class="egr-feature egida col mt-10">
+      <a class="uppercase" href="https://acad.ro">
+        <div class="row align-items-center">
+          <div class="col wpx-100">
+            <img alt="Academia Română"
+                 src="/assets/images/sigla_acad_300.png"
+                 width="100px" />
+          </div>
+          <div class="col wpx-100 ml-10">Academia<br/>Română</div>
+        </div>
+      </a>
+      </div>
   </div>
 </div>
