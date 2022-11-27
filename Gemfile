@@ -8,4 +8,4 @@ group :jekyll_plugins do
   gem "github-pages"
 end
 
-gem "c4-theme-jekyll", path: "/home/cascaval/Sites/c4-theme-jekyll"
+gem "c4-theme-jekyll", path: "../c4-theme-jekyll"
