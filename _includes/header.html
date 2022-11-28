@@ -1,14 +1,24 @@
 <div id="main-menu">
 <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-light py-2">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#"><img src="/assets/images/sigla_google_logo.png" alt="" height="50"></a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <a class="navbar-brand" href="#">
+      <img src="/assets/images/SiglaEGR-Fundatia_ro.png"
+           alt="logo" height="100px"></a>
+    <button class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    {%- include menu.html -%}
-    <ul class="nav ms-auto">
-     <li class="nav-item">
-      <select onchange="location = this.value;">
+    <div class="row flex-lg-row w-100">
+      <div class="col-sm-10">
+        {%- include menu.html -%}
+      </div>
+      <div class="col-sm-2 pt-4 m-0 ms-auto">
+      <select class="nav nav-item pt-0 form-select ms-auto" onchange="location = this.value;">
         <!-- Link on click (full page re-render), but keep the currently selected page as the active option on the menu. -->
       	{%- assign languages = "en, ro, fr" | split: ", " -%}
       	{%- for lang in languages -%}
@@ -20,8 +30,8 @@
           <option  {% if page.lang == lang %} selected {% endif %} value="{{ url | replace_first: page.lang, lang }}">{{ site.data.xlate.lang_name[lang] }}</option>
 	      {%- endfor -%}
       </select>
-     </li>
-    </ul>
+      </div>
+    </div>
   </div>
 </nav>
 </div>
