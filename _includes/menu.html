@@ -63,7 +63,7 @@
        <ul class="sub dropdown-menu">
        {%- for entry in section.subnav -%}
          {%- assign link = "/" | append: page.lang | append: "/" | append: entry.link %}
-         <li><a class="dropdwon-item rounded-2" href="{{ link | relative_url }}">{{ entry[page.lang] | default: entry.title }}</a></li>
+         <li><a class="dropdown-item rounded-2" href="{{ link | relative_url }}">{{ entry[page.lang] | default: entry.title }}</a></li>
        {%- endfor -%}
        </ul>
      {%- endif -%}
