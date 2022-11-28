@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Despre Fundatie
 banner: /assets/images/banner-mission.jpg
 lang: ro

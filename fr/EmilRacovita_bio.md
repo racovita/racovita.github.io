@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Biography
 lang: fr
 banner: /assets/images/banner-biografie.jpg

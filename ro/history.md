@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Cronologia
 lang: ro
 ref: history
