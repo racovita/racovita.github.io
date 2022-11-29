@@ -68,6 +68,7 @@
     - title: Photos
       en: Photo galery
       ro: Galeria foto
+      fr: Galerie de photos
       link: photos.html
 
 - title: Activities
@@ -86,7 +87,7 @@
       ro: Burse
       fr: Subventions
       link: grants.html
-      
+
 - title: Donations
   en: Donations
   ro: Donează
