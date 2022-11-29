@@ -1,4 +1,5 @@
 ---
+title: Privacy policy
 layout: page
 lang: en
 ref: privacy

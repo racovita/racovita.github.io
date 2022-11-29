@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publicatii
+title: Publicații
 lang: ro
 ref: pubs
 ---

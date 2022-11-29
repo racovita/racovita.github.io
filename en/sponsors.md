@@ -1,4 +1,5 @@
 ---
+title: Sponsors
 layout: page
 lang: en
 ref: sponsors

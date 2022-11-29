@@ -1,4 +1,5 @@
 ---
+title: Contact
 layout: page
 lang: en
 ref: contacts

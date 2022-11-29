@@ -1,4 +1,5 @@
 ---
+title: Donații
 lang: ro
 ref: donations
 ---

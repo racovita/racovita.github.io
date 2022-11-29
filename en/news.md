@@ -1,4 +1,5 @@
 ---
+title: News
 lang: en
 ref: news
 ---

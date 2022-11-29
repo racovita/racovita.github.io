@@ -1,4 +1,5 @@
 ---
+title: Personalitatea
 layout: page
 lang: ro
 ref: personality

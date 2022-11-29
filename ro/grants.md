@@ -1,4 +1,5 @@
 ---
+title: Burse
 lang: ro
 ref: grants
 ---

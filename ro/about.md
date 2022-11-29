@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Despre Fundatie
+title: Misiunea
 banner: /assets/images/banner-mission.jpg
 lang: ro
 ref: about

@@ -1,4 +1,5 @@
 ---
+title: Proiecte
 lang: ro
 ref: projects
 ---

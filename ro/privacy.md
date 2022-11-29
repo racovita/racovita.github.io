@@ -1,4 +1,5 @@
 ---
+title: Protejarea datelor
 layout: page
 lang: ro
 ref: privacy
