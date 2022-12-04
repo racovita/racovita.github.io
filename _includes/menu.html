@@ -1,5 +1,5 @@
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-  <ul class="nav navbar-nav my-2 mb-lg-0">
+  <ul class="navbar-nav py-3 mb-lg-0">
   {% for section in site.data.menu -%}
     {%- assign link = "/" | append: page.lang | append: "/" | append: section.link %}
     {%- assign p = site.pages | where: "url", link | first %}
@@ -31,7 +31,7 @@
 
    {%- assign menu_page_cls = "nav-item parent" -%}
    {%- assign menu_page_attrs = "" -%}
-   {%- assign menu_link_cls = "nav-link" -%}
+   {%- assign menu_link_cls = "nav-link px-3" -%}
    {%- assign menu_link_attrs = "" -%}
 
    {%- if page.url == p.url -%}
@@ -47,7 +47,9 @@
   {%- if tgt != "none" -%}
    <li class="{{ menu_page_cls }}" {{ menu_page_attrs }}>
      {%- if section.subnav[0] -%}
-     <a href="{{ href }}" class="{{ menu_link_cls }}" role='button' data-bs-toggle='dropdown' aria-expanded='false'>
+     <a href="{{ href }}" class="{{ menu_link_cls }}" 
+        role='button'
+        data-bs-toggle='dropdown' aria-expanded='false'>
      {%- else -%}
      {%- if tgt == "remote" -%}
        <a href="{{ href }}" class="{{ menu_link_cls }}" target="_blank">
@@ -64,7 +66,11 @@
        <ul class="sub dropdown-menu">
        {%- for entry in section.subnav -%}
          {%- assign link = "/" | append: page.lang | append: "/" | append: entry.link %}
-         <li><a class="dropdown-item rounded-2" href="{{ link | relative_url }}">{{ entry[page.lang] | default: entry.title }}</a></li>
+         <li><a class="dropdown-item rounded-2" 
+                href="{{ link | relative_url }}"
+                >
+                {{ entry[page.lang] | default: entry.title }}
+         </a></li>
        {%- endfor -%}
        </ul>
      {%- endif -%}
