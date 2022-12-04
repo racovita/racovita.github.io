@@ -12,13 +12,13 @@
 
 {% if hasUpcoming %}
 
-<div class="page-section shaded-bg px-4 py-3">
+<div class="page-section shaded-bg px-lg-4 py-3">
 {% for post in posts %}
   {% assign postDate = post.date | date: "%Y-%m-%d" %}
   {% if postDate >= currentDate %}
-  <div class="row flex-lg-row align-items-start p-4">
+  <div class="row flex-lg-row justify-content-center p-4">
 		{% if post.banner %}
-    <div class="col-sm-5 p-0 g-0 m-0 ms-5">
+    <div class="col-lg-5 col-md-12 p-0 g-0 m-0 ms-lg-5">
     <div class="yt-container">
 		  <a href="https://youtu.be/OydU9DFSqmg" target="_blank">
         <img src="{{ post.banner }}" class="img-fluid">
@@ -27,7 +27,7 @@
      </div>
     </div>
     {% endif %}
-    <div class="c4-feature col-sm-5 mx-5 px-5 gx-5">
+    <div class="c4-feature col-lg-5 col-md-12 mx-lg-5 px-lg-5 gx-lg-5">
       <h1 class="c4-feature-title pt-5">{{ site.data.xlate.recentevents[page.lang] }}</h1>
       <a href="{{ post.url | absolute_url }}">
         <h2 class="lh-1 mb-3">{{ post.title }}</h2>
