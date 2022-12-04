@@ -1,16 +1,17 @@
 ---
 layout: default
 ---
-<div class="page-section shaded-bg px-4 py-3">
+<div class="page-section shaded-bg px-4 py-5">
   <div class="row flex-lg-row align-items-start p-4">
-    {%- assign section = site.data.homepage | where: "title", "About" | first -%}
-    <div class="c4-feature col-sm-3 border-start border-3 border-dark">
+    {%- assign section = site.data.homepage | where: "title", "About" |
+    first -%}
+    <div class="c4-feature col-sm-4 border-start border-3 border-dark ms-5">
       <h1 class="c4-feature-title">{{ section.header[page.lang] }}</h1>
       <p class="c4-feature-subtitle">
         {{ section.subheader[page.lang] }}
       </p>
     </div>
-    <div class="c4-feature col-sm-9">
+    <div class="c4-feature col-sm-7 pt-4">
       <p>
         {{ section.contents[page.lang] }}
       </p>
@@ -18,13 +19,16 @@ layout: default
   </div>
 </div>
 
-<div class="page-section px-4 py-3">
-  <div class="row flex-lg-row align-items-start p-4">
-    {%- assign section = site.data.homepage | where: "title", "Antarctica" | first -%}
-    <div class="c4-feature col-sm-6">
-      <h1 class="c4-feature-title">{{ section.header[page.lang] }}</h1>
+<div class="page-section px-4 py-lg-3">
+  <div class="row flex-lg-row align-items-start p-lg-4">
+    {%- assign section = site.data.homepage | where: "title", "Antarctica" |
+    first -%}
+    <div class="col-sm-1">&nbsp;</div>
+    <div class="c4-feature col-sm-4 pt-lg-4">
+      <h1 class="c4-feature-title pt-5">{{ section.header[page.lang] }}</h1>
       <p><em>"{{ section.contents[page.lang] }}"</em></p>
     </div>
+    <div class="col-sm-1">&nbsp;</div>
     <div class="c4-feature col-sm-6 px-0">
       <img src="/assets/images/Racovita-pe-Belgica-front-page.jpg"
            class="img-fluid">
