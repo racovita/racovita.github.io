@@ -11,6 +11,7 @@
         {% assign tgt = "on-page" %}
       {%- elsif p.url -%}
         {% assign href = link | relative_url %}
+        {% assign tgt = "local" %}
       {% else %}
         {% assign tgt = "none" %}
       {%- endif -%}

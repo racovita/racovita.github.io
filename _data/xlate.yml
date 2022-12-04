@@ -44,3 +44,8 @@ maintenance:
   ro: este menținut
   fr: est maintenue
   de: ist gewartet
+
+readmore:
+  en: Read more
+  ro: Citește detailii
+  fr: Details

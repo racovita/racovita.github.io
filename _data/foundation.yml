@@ -1,0 +1,48 @@
+- title: mission
+  en: Mission
+  ro: Misiune
+  fr: Mission
+  image: /assets/images/cards/foundation_1.png
+  alt: Belgica drifting in Antarctica
+  link: about.html
+  caption:
+    en: The mission of the foundation is to
+    ro: Misiunea fundației este de a
+    fr: La mission de la foundation est de
+  
+- title: leadership
+  en: Leadership
+  ro: Conducere
+  fr: Direction de la fondation
+  image: /assets/images/cards/foundation_1.png
+  alt: "leads"
+  link: leads.html
+  caption:
+    en: The foundation is lead by a small and dedicated set of people
+    ro: Fundația este condusă de un grup mic dar dedicat
+    fr: La mission de la foundation est de
+
+- title: ambassadors
+  en: Ambassadors
+  ro: Ambasadori
+  fr: Amassadors
+  image: /assets/images/cards/foundation_3.png
+  alt: "Belgica"
+  link: promoters.html
+  caption:
+    en: "Our ambassadors help promote the foundation's mission"
+    ro: Fundația este condusă de un grup mic dar dedicat
+    fr: La mission de la foundation est de
+
+- title: partners
+  en: Partners and sponsors
+  ro: Parteneri și susținători
+  fr: Parteners et patrons
+  image: /assets/images/cards/foundation_4.png
+  alt: "Banyuls sur Mer"
+  link: sponsors.html
+  caption:
+    en: Our partners have a significant impact
+    ro: Fundația este condusă de un grup mic dar dedicat
+    fr: La mission de la foundation est de
+  

@@ -1,0 +1,22 @@
+<div class="container align-items-center">
+  <div class="row align-items-center">
+    {%- for card in site.data.foundation -%}
+    <div class="col-sm-1">&nbsp;</div>
+    <div class="col-sm-4 pt-5">
+      <div class="card border-light">
+        <img src="{{ card.image }}"
+             class="card-img-top img-fluid"
+             alt="{{ card.alt }}" height="150px">
+        <div class="card-body">
+          <h2 class="card-title fw-bold text-uppercase">{{ card[page.lang] }}</h2>
+          <p class="card-text">{{ card.caption[page.lang] }} ...</p>
+          <a href="/{{ page.lang }}/{{ card.link }}" class="text-uppercase">
+            {{ site.data.xlate.readmore[page.lang] }}
+          </a>
+        </div>
+      </div>
+    <div class="col-sm-2">&nbsp;</div>
+    </div>
+    {%- endfor -%}
+  </div>
+</div>
