@@ -19,13 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Fundatia Emil G. Racoviță
-email: info@racoviță-foundation.ro
-description: The Emil G. Racoviță Foundation for Science and Extreme
-             Environments
+email: info@racovita-foundation.org
+description: The Emil G. Racoviță Foundation for Science and Exploration in
+             Extreme Environments
 
-# baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.racoviță-foundation.ro" # the base hostname & protocol for your site, e.g. http://example.com
-# github_username:  cc10512
+baseurl: "/"
+url: "https://www.racovita-foundation.org"
 show_downloads: false
 future: true # show posts with future dates
 
@@ -48,12 +47,6 @@ plugins:
   - jekyll-redirect-from
   # - jekyll-polyglot
 
-
-# Polyglot configuration
-#languages: ['ro', 'en', 'de', 'fr']
-#default_lang: 'ro'
-#exclude_from_localization: ['javascript', 'images', 'css']
-#parallel_localization: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
