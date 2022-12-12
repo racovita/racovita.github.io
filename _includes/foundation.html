@@ -1,12 +1,25 @@
 <div class="container align-items-center">
-  <div class="row align-items-center">
-    {%- for card in site.data.foundation -%}
-    <div class="col-sm-1">&nbsp;</div>
-    <div class="col-sm-4 pt-5">
+  {%- assign chunks = 2 -%}
+  {%- assign rows = 1 -%}
+  {%- for card in site.data.foundation -%}
+  {%-   assign rows = forloop.length | divided_by: chunks -%}
+  {%- endfor -%}
+  {%- assign rounded = rows | times: chunks -%}
+  {%- if rounded < forloop.length -%}
+  {%-   assign chunks = chunks | plus: 1 -%}
+  {%- endif -%}
+
+  {%- for card in site.data.foundation -%}
+  {%    assign item = forloop.index0 | modulo: chunks -%}
+  {%-   if item == 0 -%}
+     <div class="row">
+  {%-   endif -%}
+    <div class="col-lg-6 col-md-8 col-sm-12 p-5 g-5">
       <div class="card border-light">
         <img src="{{ card.image }}"
              class="card-img-top img-fluid"
-             alt="{{ card.alt }}" height="150px">
+             alt="{{ card.alt }}"
+             height="150px">
         <div class="card-body">
           <h2 class="card-title fw-bold text-uppercase">{{ card[page.lang] }}</h2>
           <p class="card-text">{{ card.caption[page.lang] }} ...</p>
@@ -15,8 +28,10 @@
           </a>
         </div>
       </div>
-    <div class="col-sm-2">&nbsp;</div>
     </div>
+    {%- assign last_in_row = forloop.index0 | divided_by: rows -%}
+    {%- if last_in_row == chunks -%}
+      </div>
+    {%- endif -%}
     {%- endfor -%}
-  </div>
 </div>
