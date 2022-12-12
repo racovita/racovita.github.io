@@ -1,0 +1,62 @@
+- title: EGR
+  en: Personality
+  ro: Biografie
+  fr: Biographie
+  link: EmilRacovita_bio.html
+  image: /assets/images/cards/egr_1.jpg
+  alt: Belgica drifting in Antarctica
+  caption:
+    en: A sentence or two
+    ro: O propozitie sau doua
+    fr: Une phrase ou deux
+
+- title: History
+  en: History
+  ro: Istoria
+  fr: Historique
+  de: Historisch
+  link: history.html
+  image: /assets/images/cards/egr_2.jpg
+  alt: Belgica drifting in Antarctica
+  caption:
+    en: A sentence or two
+    ro: O propozitie sau doua
+    fr: Une phrase ou deux
+
+- title: Publications
+  en: Publications
+  ro: Publicații
+  fr: Ouvrages
+  de: Veröffentlichungen
+  link: pubs.html
+  image: /assets/images/cards/egr_3.jpg
+  alt: Belgica drifting in Antarctica
+  caption:
+    en: A sentence or two
+    ro: O propozitie sau doua
+    fr: Une phrase ou deux
+
+- title: Trace
+  en: Follow in his footsteps
+  ro: Pe urmele savantului
+  de: Treten Sie in seine Fußstapfen
+  fr: Suivez ses traces
+  link: trace.html
+  image: /assets/images/cards/egr_4.jpg
+  alt: Belgica drifting in Antarctica
+  caption:
+    en: A sentence or two
+    ro: O propozitie sau doua
+    fr: Une phrase ou deux
+
+- title: Photos
+  en: Photo galery
+  ro: Galeria foto
+  fr: Galerie de photos
+  link: photos.html
+  image: /assets/images/cards/egr_5.jpg
+  alt: Belgica drifting in Antarctica
+  caption:
+    en: A sentence or two
+    ro: O propozitie sau doua
+    fr: Une phrase ou deux

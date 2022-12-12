@@ -1,0 +1,54 @@
+<div class="container align-items-center">
+  {%- assign chunks = 2 -%}
+  {%- assign rows = 1 -%}
+  {%- assign seq_len = 1 -%}
+  {%- for card in site.data.egr_landing -%}
+  {%-   assign seq_len = forloop.length -%}
+  {%- endfor -%}
+  {%- assign rows = seq_len | divided_by: chunks -%}
+  {%- assign rounded = rows | times: chunks -%}
+  {%- if rounded < seq_len -%}
+  {%-   assign chunks = chunks | plus: 1 -%}
+  {%- endif -%}
+
+  {%- for card in site.data.egr_landing -%}
+  {%    assign item = forloop.index0 | modulo: chunks -%}
+  {%    assign row = forloop.index0 | divided_by: chunks -%}
+  {%    if row == 0 -%}
+  {%      assign lg_col_size = 12 | divided_by: chunks -%}
+  {%      assign md_col_size = 6 -%}
+  {%      assign last_in_row = chunks | minus: 1 -%}
+  {%    else -%}
+  {%      assign last_in_row = 1 -%}
+  {%    endif -%}
+
+  {%-   if item == 0 -%}
+     <div class="row">
+  {%-   if row != 0 -%}
+     <div class="col-lg-2">&nbsp;</div>
+  {%-   endif -%}
+  {%-   endif -%}
+
+    <div class="col-lg-4 col-sm-12 p-5 g-5">
+      <div class="card border-light">
+        <img src="{{ card.image }}"
+             class="card-img-top img-fluid"
+             alt="{{ card.alt }}"
+             height="150px">
+        <div class="card-body">
+          <h2 class="card-title fw-bold text-uppercase">{{ card[page.lang] }}</h2>
+          <p class="card-text">{{ card.caption[page.lang] }} ...</p>
+          <a href="/{{ page.lang }}/{{ card.link }}" class="text-uppercase">
+            {{ site.data.xlate.readmore[page.lang] }}
+          </a>
+        </div>
+      </div>
+    </div>
+  {%-   if item == last_in_row -%}
+  {%-     if row != 0 -%}
+    <div class="col-lg-2">&nbsp;</div>
+  {%-     endif -%}
+    </div> <!-- end row -->
+  {%-   endif -%}
+  {%- endfor -%}
+</div>
