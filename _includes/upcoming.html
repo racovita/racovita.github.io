@@ -19,8 +19,13 @@
   {% if postDate >= currentDate %}
     <li>        {{ post.date | date: site.languages[page.lang].date_format }} » <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
 		{% if post.banner %}
-		<br/>
-		<img src="{{ post.banner }}">
+		  <br/>
+    <div class="yt-container">
+		  <a href="https://youtu.be/OydU9DFSqmg" target="_blank">
+        <img src="{{ post.banner }}">
+        <button class="button"><img src="/assets/images/ytplay.png" width="30px"></button>
+      </a>
+     </div>
 		{% endif %}
     </li>
   {% endif %}
