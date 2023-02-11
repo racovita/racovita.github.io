@@ -21,7 +21,7 @@ Formularul poate fi completat și trimis online, după cum urmează:
 - Descarci formularul
 - Completeazi câmpurile editable
 - Semneazi folosind semnătura olografă
-- Trimiti la ANAF formularul completat (doar prima pagină), tiparit și scanat sau direct în format electronic, până la data de 25 mai​ 2022.
+- Trimiti la ANAF formularul completat (doar prima pagină), tiparit și scanat sau direct în format electronic, până la data de 25 mai​ a anului in curs pentru anul precedent.
 
 Cum poți trimite:
 
