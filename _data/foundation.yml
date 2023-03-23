@@ -3,12 +3,12 @@
   ro: Misiune
   fr: Mission
   image: /assets/images/cards/foundation_1.jpg
-  alt: Belgica drifting in Antarctica
+  alt: "Belgica drifting in Antarctica"
   link: about.html
   caption:
-    en: The mission of the foundation is to
-    ro: Misiunea fundației este de a
-    fr: La mission de la foundation est de
+    en: "The mission of the foundation is to create a programs to give young researchers the opportunity to perform scientific exploration aligned with the principles promoted by Emil G. Racoviță."
+    ro: "Misiunea Fundației este de a crea programe care să dea tinerilor cercetători oportunități de a explora științific în spiritul conceptelor promovate de savantul Emil G. Racoviță."
+    fr: "La mission de la Fondation est de créer des programmes qui donnent aux jeunes chercheurs des opportunités d'explorer scientifiquement dans l'esprit des concepts promus par Emil G. Racoviță."
 
 - title: leadership
   en: Leadership
@@ -18,9 +18,9 @@
   alt: "leads"
   link: leads.html
   caption:
-    en: The foundation is lead by a small and dedicated set of people
-    ro: Fundația este condusă de un grup mic dar dedicat
-    fr: La mission de la foundation est de
+    en: "The foundation is lead by a group of people dedicate to promoting the work of the scholar."
+    ro: "Fundația este condusă de un grup de oameni dedicat promovării memoriei savantului."
+    fr: "La fondation est dirigée par un groupe de personnes vouées à la promotion de la mémoire du savant."
 
 - title: ambassadors
   en: Ambassadors
@@ -30,9 +30,9 @@
   alt: "Belgica"
   link: promoters.html
   caption:
-    en: "Our ambassadors help promote the foundation's mission"
-    ro: Fundația este condusă de un grup mic dar dedicat
-    fr: La mission de la foundation est de
+    en: "The ambassadors of the Foundation help promote the foundation's mission."
+    ro: "Ambasadorii fundației ajută la promovarea misiunii fundației."
+    fr: "Les ambassadeurs de la fondation contribuent à promouvoir la mission de la fondation."
 
 - title: partners
   en: Partners and sponsors
@@ -42,6 +42,6 @@
   alt: "Banyuls sur Mer"
   link: sponsors.html
   caption:
-    en: Our partners have a significant impact
-    ro: Fundația este condusă de un grup mic dar dedicat
-    fr: La mission de la foundation est de
+    en: "Our partners provide support."
+    ro: "Partenerii noștri oferă suport."
+    fr: "Nos partenaires apportent leur soutien."
