@@ -1,16 +1,11 @@
-fancier github templates (cards, collections, inline images, etc.):
-- https://mmistakes.github.io/minimal-mistakes/
-- https://mmistakes.github.io/minimal-mistakes/docs/collections/
+contents:
 
-Corina's proposal
-de la envato
-  1. http://abcgomel.ru/haswell/intro.html?storefront=envato-elements
-  2. https://elements.envato.com/polygon-multipurpose-html5-website-template-4J8VEA
-		
-de la webflow
-  3. https://ronie.webflow.io/
-  4.  https://phoenix-template.webflow.io
-  
+1. misiunea trebuie rescrisa -- enumerarea aia de idei colectata din statut nu este pentru web.
+2. istoria trebuie scrisa, n-avem decit o coada; si cross-referenced cu "pe urmele savantului" care nu este decit un placeholder acum; si ala trebuie scris.
+3. activitati si programe??
+4. daca vrem punem un patrimoniu digital, trebuie scobit prin arhiva si decis ce materiale publicam; asa cum am discutat si cu expozitia Cook, nu cred ca traduceri si transcrieri sunt interesante pentru lume, ne-ar trebui copii de originale.
+5. tot in arhiva: sunt o groaza de materiale interesante, discursuri, articole, etc. in principiu ar trebui legate de istorie.
+6. fiecare din asta trebuie si tradus; ideal am publica continutul in cele 3 limbi deodata, dar pot fi convins sa construim site-ul in Romana prima data, si apoi sa-l avem tradus. 
 
 translations:
 [x] move everything into a xlate.yml
@@ -33,3 +28,16 @@ subscription:
 
 Sigle:
 [x] localize Academy (https://acad.ro/institutia/img/media/sigla/Academia_Romana_sigla_web.png)
+
+[x] layout: fancier github templates (cards, collections, inline images, etc.):
+- https://mmistakes.github.io/minimal-mistakes/
+- https://mmistakes.github.io/minimal-mistakes/docs/collections/
+
+Corina's proposal
+de la envato
+  1. http://abcgomel.ru/haswell/intro.html?storefront=envato-elements
+  2. https://elements.envato.com/polygon-multipurpose-html5-website-template-4J8VEA
+		
+de la webflow
+  3. https://ronie.webflow.io/
+  4.  https://phoenix-template.webflow.io
