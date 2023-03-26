@@ -1,0 +1,27 @@
+@import "vendor/bootstrap/stylesheets/bootstrap/functions";
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption');
+
+// 2. Include any default bootstrap variable overrides here
+
+@import "c4/colors";
+
+@import "vendor/bootstrap/stylesheets/bootstrap/variables";
+
+// 4. Include any default bootstrap map overrides here
+
+@import "vendor/bootstrap/stylesheets/bootstrap";
+@import "c4/preloader";
+@import "c4/reset";
+@import "c4/header";
+@import "c4/footer";
+@import "c4/menu";
+@import "c4/typography";
+@import "c4/features";
+
+
+.clearfix { display: inline-block; }
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }

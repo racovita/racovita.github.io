@@ -1,0 +1,102 @@
+/* footer ==================================================*/
+
+.logo-footer{
+  max-height:60px;
+}
+.logo-footer-cont {
+    margin-bottom:50px;
+}
+.footer-text-cont {
+    margin-bottom:24px;
+    font-size: 14px;
+}
+
+.entry-title {
+    h4 {
+        margin: 0;
+        font-size: 14px;
+        font-weight: 600;
+    }
+}
+
+.footer {
+  background: $c4-light-gray;
+  color: $c4-dark-gray;
+  a {
+    color: $c4-dark-gray;
+    outline: none !important;
+    text-decoration: none;
+    -webkit-transition: all .3s ease 0s;
+    -o-transition: all .3s ease 0s;
+    transition: all .3s ease 0s;
+  }
+  a:hover, a:focus {
+    color: $c4-light-focus;
+    text-decoration: none;
+    -webkit-transition: all .3s ease 0s;
+    -o-transition: all .3s ease 0s;
+    transition: all .3s ease 0s;
+    cursor:pointer;
+    text-decoration:none !important;
+  }
+  h4 {
+    color: $c4-dark-gray;
+  }
+  .links-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+        padding-bottom: 1rem;
+    }
+  }
+}
+
+/* footer dark ==============================================*/
+.footer-dark {
+    background: $c4-dark-gray;
+    color:rgba(255,255,255, .7);
+    font-size: 20px;
+    h4 {
+        color: $white;
+        font-size: 24px;
+    }
+    .links-list {
+        list-style: none;
+        margin: 0;
+        padding:0;
+        li {
+            padding-bottom: 1rem;
+        }
+    }
+    a {
+        color: $white;
+	      outline: none !important;
+        text-decoration: none;
+        -webkit-transition: all .3s ease 0s;
+        -o-transition: all .3s ease 0s;
+        transition: all .3s ease 0s;
+    }
+    a:hover {
+        color: $c4-light-hover;
+        text-decoration: none;
+        -webkit-transition: all .3s ease 0s;
+        -o-transition: all .3s ease 0s;
+        transition: all .3s ease 0s;
+	      cursor:pointer;
+    }
+    .a-text {
+            color: rgba(255,255,255, .7);
+    }
+    .a-text:hover {
+        color: $white;
+    }
+    .a-text-cont {
+        a {
+            color: rgba(255,255,255, .7);
+        }
+        a:hover {
+            color: $white;
+        }
+    }
+}

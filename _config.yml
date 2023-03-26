@@ -20,7 +20,7 @@ languages:
     date_format: "%d %b %Y" # customize how date is formatted
 
 # Build settings
-theme: c4-theme-jekyll
+# theme: c4-theme-jekyll
 
 # Exclude from processing.
 exclude:
@@ -31,5 +31,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - TODO
   - _site
   - .#*
