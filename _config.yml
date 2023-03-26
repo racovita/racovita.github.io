@@ -25,7 +25,7 @@ languages:
 # Exclude from processing.
 exclude:
   - .git
-  - .gitignode
+  - .gitignore
   - .sass-cache/
   - .jekyll-cache/
   - Gemfile
@@ -33,4 +33,5 @@ exclude:
   - README.md
   - TODO
   - _site
-  - .#*
+  - \.\#*.html
+  - \#*.html
