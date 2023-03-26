@@ -10,15 +10,21 @@
   {%- endif -%}
 
   {%- for card in site.data.foundation -%}
-  {%    assign item = forloop.index0 | modulo: chunks -%}
-  {%-   if item == 0 -%}
-     <div class="row">
-  {%-   endif -%}
-    <div class="col-lg-6 col-md-8 col-sm-12 p-5 g-5">
+    {%-    assign item = forloop.index0 | modulo: chunks -%}
+    {%- if forloop.index0 == 0 -%}
+     <div class="row p-5 g-5">
+    {%- else -%}
+    {%-   if item == 0 -%}
+    <div class="row pt-5 gt-5">
+    {% endif %}
+    {%-   endif -%}
+    <div class="col-lg-6 col-md-12 col-sm-12 px-5 gx-5">
       <div class="card border-light">
-        <img src="{{ card.image }}"
+        <a href="/{{ page.lang }}/{{ card.link }}">
+          <img src="{{ card.image }}"
              class="ratio ratio-21x9 card-img-top img-fluid"
-             alt="{{ card.alt }}">
+               alt="{{ card.alt }}">
+          </a>
         <div class="card-body">
           <h2 class="card-title fw-bold text-uppercase">{{ card[page.lang] }}</h2>
           <p class="card-text">{{ card.caption[page.lang] }}</p>

@@ -22,14 +22,18 @@
   {%      assign last_in_row = 1 -%}
   {%    endif -%}
 
+                   {% if forloop.index0 == 0 %}
+     <div class="row p-5 g-5">
+{% else %}
   {%-   if item == 0 -%}
-     <div class="row">
+<div class="row pt-5 gt-5">
+  {% endif %}
+  {%-   endif -%}
   {%-   if row != 0 -%}
      <div class="col-lg-2">&nbsp;</div>
   {%-   endif -%}
-  {%-   endif -%}
 
-    <div class="col-lg-4 col-sm-12 p-5 g-5">
+    <div class="col-lg-4 col-sm-12 px-5 gx-5">
       <div class="card border-light">
         <img src="{{ card.image }}"
              class="ratio ratio-21x9 card-img-top img-fluid"
