@@ -1,0 +1,23 @@
+- title: programs
+  en: Programs
+  ro: Programe
+  fr: Programmes
+  image: /assets/images/cards/foundation_2.jpg
+  alt: "Programs"
+  link: projects.html
+  caption:
+    en: "Ongoing programs"
+    ro: "Programe curente"
+    fr: "Les programmes en cours."
+
+- title: grants
+  en: Grants
+  ro: Burse
+  fr: Bourses
+  image: /assets/images/cards/foundation_2.jpg
+  alt: "Grants"
+  link: grants.html
+  caption:
+    en: "Foundation grants"
+    ro: "Burse acordate de Fundația."
+    fr: "Bourses attribuées par la Fondation."

@@ -10,8 +10,12 @@
   ro: Despre Fundație
   fr: La Fondation
   de: Über die Stiftung
-  link: foundation.html
   subnav:
+    - title: About the Foundation
+      en: About the Foundation
+      ro: Despre Fundatie
+      fr: À propos de la Fondation
+      link: foundation.html
     - title: Mission
       en: Mission
       ro: Misiune
@@ -40,6 +44,12 @@
 
 - title: Emil G. Racoviță
   subnav:
+    - title: About Emil G. Racoviță
+      en: About Emil G. Racoviță
+      ro: Despre Emil G. Racoviță
+      fr: À propos Emil G. Racoviță
+      link: egr_landing.html
+
     - title: EGR
       en: Personality
       ro: Biografie
@@ -77,6 +87,13 @@
   ro: Activități
   fr: Activités
   subnav:
+
+    - title: Activities
+      en: Activities
+      ro: Activități
+      fr: Activités
+      link: activities.html
+
     - title: Programs
       en: Programs
       ro: Programe
@@ -86,7 +103,7 @@
     - title: Grants
       en: Grants
       ro: Burse
-      fr: Subventions
+      fr: Bourses
       link: grants.html
 
 - title: Donations

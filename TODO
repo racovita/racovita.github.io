@@ -5,13 +5,15 @@ contents:
 3. activitati si programe??
 4. daca vrem punem un patrimoniu digital, trebuie scobit prin arhiva si decis ce materiale publicam; asa cum am discutat si cu expozitia Cook, nu cred ca traduceri si transcrieri sunt interesante pentru lume, ne-ar trebui copii de originale.
 5. tot in arhiva: sunt o groaza de materiale interesante, discursuri, articole, etc. in principiu ar trebui legate de istorie.
-6. fiecare din asta trebuie si tradus; ideal am publica continutul in cele 3 limbi deodata, dar pot fi convins sa construim site-ul in Romana prima data, si apoi sa-l avem tradus. 
+6. fiecare din asta trebuie si tradus; ideal am publica continutul in cele 3 limbi deodata, dar pot fi convins sa construim site-ul in Romana prima data, si apoi sa-l avem tradus.
 
 translations:
+
 [x] move everything into a xlate.yml
 [x] land on the same page
 
 images:
+
 - flow images
 - add all photos
   - when adding bootstrap (page.use_bootstrap=true) my language selection header disappears.
@@ -21,23 +23,33 @@ images:
 
 
 links:
+
 - open in separate windows
 
+menus:
+
+- dropdowns or links: https://markdotto.com/2012/02/27/bootstrap-explained-dropdowns/
+- solution: add a placeholder menu for the langing pages.
+
 subscription:
+
 [x] add info on frequency
 
 Sigle:
+
 [x] localize Academy (https://acad.ro/institutia/img/media/sigla/Academia_Romana_sigla_web.png)
 
-[x] layout: fancier github templates (cards, collections, inline images, etc.):
-- https://mmistakes.github.io/minimal-mistakes/
-- https://mmistakes.github.io/minimal-mistakes/docs/collections/
+[x] layout:
+
+- fancier github templates (cards, collections, inline images, etc.):
+  - https://mmistakes.github.io/minimal-mistakes/
+  - https://mmistakes.github.io/minimal-mistakes/docs/collections/
 
 Corina's proposal
 de la envato
   1. http://abcgomel.ru/haswell/intro.html?storefront=envato-elements
   2. https://elements.envato.com/polygon-multipurpose-html5-website-template-4J8VEA
-		
+
 de la webflow
   3. https://ronie.webflow.io/
   4.  https://phoenix-template.webflow.io
