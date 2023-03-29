@@ -1,9 +1,9 @@
 ---
-title: Family photos
-layout: photos
+title: Photo gallery > Family photos
+layout: default
+banner: /assets/images/banner-photo-gallery.jpg
 lang: en
 ref: family
-use_bootstrap: true
 ---
 
-{%- include photo_album.html -%}
+{%- include photo_grid.html -%}

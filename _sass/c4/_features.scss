@@ -22,6 +22,19 @@
     }
 }
 
+.c4-photos-row {
+  align-items: top;
+  justify-content: center;
+  a {
+       text-decoration: none;
+       color: #777;
+  }
+  .c4-photo {
+      // height: 500px;
+      // --bs-aspect-ratio: 200%;
+  }
+}
+
 .c4-feature {
   align-items: center;
   a {

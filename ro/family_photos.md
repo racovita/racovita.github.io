@@ -1,9 +1,9 @@
 ---
-title: Fotografii de familie
-layout: photos
+title: Galeria de fotografii > Poze de familie
+layout: default
+banner: /assets/images/banner-photo-gallery.jpg
 lang: ro
 ref: family
-use_bootstrap: true
 ---
 
-{%- include photo_album.html -%}
+{%- include photo_grid.html -%}

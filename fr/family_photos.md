@@ -1,9 +1,9 @@
 ---
-title: Fotos de famille
-layout: photos
+title: Gallerie des fotos > Fotos de famille
+layout: default
+banner: /assets/images/banner-photo-gallery.jpg
 lang: fr
 ref: family
-use_bootstrap: true
 ---
 
-{%- include photo_album.html -%}
+{%- include photo_grid.html -%}

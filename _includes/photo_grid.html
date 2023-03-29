@@ -1,0 +1,29 @@
+{%- assign photos_per_row = 3 -%}
+{%- assign album = site.data.photos | where: "name", page.ref | first -%}
+
+{%- for photo in album.photos -%}
+{%-   assign item = forloop.index0 | modulo: photos_per_row -%}
+{%-   assign row = forloop.index0 | divided_by: photos_per_row -%}
+{%-   assign last_in_row = photos_per_row | minus: 1 -%}
+{%-   if item == 0 -%}
+<div class="c4-photos-row row p-lg-3 p-md-3">
+{%-   endif -%}
+<div class="col-lg-4 col-sm-12 px-3 gx-3">
+  <a href="{{ album.path }}/{{ photo.file }}">
+  <div class="card border-light">
+    <img src="{{ album.path }}/{{ photo.file }}"
+         class="c4-photo img-fluid"
+         alt="{{ photo[page.lang] }}">
+    <div class="card-body">
+      <p class="card-text">{{ photo[page.lang] }}</p>
+    </div>
+  </div>
+  </a>
+</div>
+{%-   if item == last_in_row -%}
+</div>
+{%-   endif -%}
+{%-   if forloop.last-%}
+</div>
+{%-   endif -%}
+{%-   endfor -%}
