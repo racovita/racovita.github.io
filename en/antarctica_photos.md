@@ -1,9 +1,9 @@
 ---
-title: Belgica Antarctic expedition
-layout: photos
+title: Photo gallery > Belgica Antarctic expedition
+layout: default
+banner: /assets/images/banner-photo-gallery.jpg
 lang: en
 ref: antarctica
-use_bootstrap: true
 ---
 
-{%- include photo_album.html -%}
+{%- include photo_grid.html -%}

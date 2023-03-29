@@ -1,9 +1,9 @@
 ---
-title: Fotografii din peșteri
-layout: photos
+title: Galeria de fotografii > Poze din peșteri
+layout: default
+banner: /assets/images/banner-photo-gallery.jpg
 lang: ro
 ref: speologie
-use_bootstrap: true
 ---
 
-{%- include photo_album.html -%}
+{%- include photo_grid.html -%}

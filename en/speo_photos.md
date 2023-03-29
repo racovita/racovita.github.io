@@ -1,9 +1,9 @@
 ---
-title: Speleology photo gallery
-layout: photos
+title: Photo gallery > Speleology
+layout: default
+banner: /assets/images/banner-photo-gallery.jpg
 lang: en
 ref: speologie
-use_bootstrap: true
 ---
 
-{%- include photo_album.html -%}
+{%- include photo_grid.html -%}
