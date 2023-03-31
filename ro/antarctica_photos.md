@@ -4,6 +4,7 @@ layout: default
 banner: /assets/images/banner-photo-gallery.jpg
 lang: ro
 ref: antarctica
+masonry: true
 ---
 
-{%- include photo_grid.html -%}
+{%- include photo_masonry.html -%}
