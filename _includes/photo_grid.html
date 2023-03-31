@@ -7,11 +7,13 @@
 {%-   assign row = forloop.index0 | divided_by: photos_per_row -%}
 {%-   assign last_in_row = photos_per_row | minus: 1 -%}
 <div class="col-lg-4 col-md-6 col-sm-12 px-3 gx-3">
-  <a href="{{ album.path }}/{{ photo.file }}">
-  <div class="card border-light h-100">
+  <a href="{{ album.path }}/{{ photo.file }}"
+     data-bs-toggle="modal"
+     data-bs-target="#photo{{ forloop.index0 }}">
+  <div class="card border-light h-100" id="#photo{{ forloop.index0 }}">
     <img src="{{ album.path }}/{{ photo.file }}"
          class="c4-photo img-fluid"
-         alt="{{ photo[page.lang] }}">
+         alt="{{ photo[page.lang] }}" />
     <div class="card-body">
       <p class="card-text">{{ photo[page.lang] }}</p>
     </div>
@@ -20,3 +22,23 @@
 </div>
 {%-   endfor -%}
 </div>
+
+{%- for photo in album.photos -%}
+<div class="modal" id="photo{{ forloop.index0 }}" tabindex="-1"
+     aria-labelledby="photo{{ forloop.index0 }}label" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen modal-lg">
+    <div class="modal-content c4-photo-popup"
+         id="photo{{ forloop.index0 }}label">
+      <div class="modal-header">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body align-items-center">
+        <img src="{{ album.path }}/{{ photo.file }}" />
+      </div>
+      <div class="modal-footer photo-caption">
+        <p class="photo-caption">{{ photo[page.lang] }}</p>
+      </div>
+    </div>
+  </div>
+</div>
+{%-   endfor -%}

@@ -35,6 +35,20 @@
   }
 }
 
+.c4-photo-popup {
+    .photo-caption {
+    text-align: left;
+    background: $white;
+      color: $c4-dark-gray;
+      > h4 {
+          color: $c4-dark-gray;
+          padding-left: 2rem;
+          margin-top: 0px;
+          overflow: hidden;
+      }
+  }
+}
+
 .c4-feature {
   align-items: center;
   a {
