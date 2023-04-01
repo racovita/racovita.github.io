@@ -1,7 +1,7 @@
 ---
 title: Mission
 lang: en
-banner: /assets/images/banner-mission.jpg
+banner: banner-mission.jpg
 ref: about
 ---
 

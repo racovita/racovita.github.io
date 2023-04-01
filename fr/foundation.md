@@ -2,7 +2,7 @@
 layout: page
 title: Despre fundație
 lang: fr
-banner: /assets/images/banner-foundation.jpg
+banner: banner-foundation.jpg
 ---
 
 {% include foundation.html %}

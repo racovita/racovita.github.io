@@ -1,7 +1,7 @@
 ---
 title: Photo gallery > Speleology
 layout: default
-banner: /assets/images/banner-photo-gallery.jpg
+banner: banner-photo-gallery.jpg
 lang: en
 ref: speologie
 ---

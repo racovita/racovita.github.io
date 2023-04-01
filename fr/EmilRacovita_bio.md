@@ -2,7 +2,7 @@
 layout: page
 title: Biography
 lang: fr
-banner: /assets/images/banner-biografie.jpg
+banner: banner-biografie.jpg
 ref: bio
 ---
 

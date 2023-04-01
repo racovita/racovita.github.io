@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Biografie
-banner: /assets/images/banner-biografie.jpg
+banner: banner-biografie.jpg
 lang: ro
 ref: bio
 ---

@@ -37,9 +37,13 @@
 </div>
 
 <header class="site-header" role="banner">
-  {%- assign banner = "/assets/images/banner-generic.jpg" -%}
+  {%- assign banner = "/assets/images/banners/banner-generic.jpg" -%}
   {%- if page.banner -%}
-  {%- assign banner = page.banner -%}
+  {%-   if page.banner.first == "/" -%}
+  {%-     assign banner = page.banner -%}
+  {%-   else -%}
+  {%-     assign banner = "/assets/images/banners/" + page.banner -%}
+  {%-   endif -%}
   {%- endif -%}
 
   <div class="container-fluid p-0 g-0">

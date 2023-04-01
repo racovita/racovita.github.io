@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Misiunea
-banner: /assets/images/banner-mission.jpg
+banner: banner-mission.jpg
 lang: ro
 ref: about
 ---
