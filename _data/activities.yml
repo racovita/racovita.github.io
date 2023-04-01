@@ -2,7 +2,7 @@
   en: Programs
   ro: Programe
   fr: Programmes
-  image: /assets/images/cards/foundation_2.jpg
+  image: /assets/images/cards/programe.jpg
   alt: "Programs"
   link: projects.html
   caption:
@@ -14,7 +14,7 @@
   en: Grants
   ro: Burse
   fr: Bourses
-  image: /assets/images/cards/foundation_2.jpg
+  image: /assets/images/cards/burse.jpg
   alt: "Grants"
   link: grants.html
   caption:
