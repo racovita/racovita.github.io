@@ -7,6 +7,7 @@
   card: Antarctica - 23.jpg
   link: antarctica_photos.html
   description:
+    ro: "Colecție de fotografii din expediția Antartică Belgica, 1897-1899. Scanate după origilalele din patrimoniul E. Racoviță."
     en: "A collection of photos from the Belgica Antarctic Expedition, 1897-1899. Scanned from originals owned by E. Racoviță"
   path: "/assets/images/photo_archive/Antarctica"
   photos:
@@ -399,3 +400,77 @@
       ro: "Hélène Racoviță în 1937."
       fr: "Hélène Racoviță en 1937."
       file: "Helene Racovita - 2.jpg"
+
+- name: group_photos
+  title:
+    en: Group photos
+    ro: Poze de grup
+    fr: Fotos de groupe
+  card: "Grup in Pirinei.jpg"
+  description:
+    en: "E. Racoviță: group photos."
+    ro: "E. Racoviță: fotografii de grup."
+    fr: "E. Racoviță: fotos de groupe."
+  link: group_photos.html
+  path: "/assets/images/photo_archive/Group"
+  photos:
+    - g1:
+      file: "Banyuls - 01.jpg"
+    - g2:
+      file: "Banyuls - 02.jpg"
+    - g3:
+      file: "Banyuls - 04.jpg"
+    - g4:
+      file: "Banyuls - 07.jpg"
+    - g5:
+      file: "Banyuls - 08.jpg"
+    - g6:
+      file: "Diverse - 01.jpg"
+    - g7:
+      file: "Diverse - 02.jpg"
+    - g8:
+      file: "Diverse - 03.jpg"
+    - g9:
+      file: "Diverse - 04.jpg"
+    - g10:
+      file: "Diverse - 05.jpg"
+    - g11:
+      file: "Diverse - 06.jpg"
+    - g12:
+      file: "Grup in Pirinei.jpg"
+    - g13:
+      file: "La Cluj-aprilie 1927.jpg"
+    - g14:
+      file: "La Soranesti-august 1927.jpg"
+    - g15:
+      file: "Studenti socialisti.jpg"
+    - g16:
+      file: "Timisoara.jpg"
+
+- name: collaborators
+  title:
+    en: Collaborators
+    ro: Colaboratori
+    fr: Collaborateurs
+  card: "Cluj 1931.jpg"
+  description:
+    en: "E. Racoviță: Collaborators."
+    ro: "E. Racoviță: Colaboratori."
+    fr: "E. Racoviță: Collaborateurs."
+  link: collab_photos.html
+  path: "/assets/images/photo_archive/Family"
+  photos:
+
+- name: misc
+  title:
+    en: Miscellaneous
+    ro: Diverse
+    fr: Potpourri
+  card: "Cluj 1931.jpg"
+  description:
+    en: "E. Racoviță: Miscellaneous photos."
+    ro: "E. Racoviță: Fotografii diverse."
+    fr: "E. Racoviță: Potpourri."
+  link: misc_photos.html
+  path: "/assets/images/photo_archive/Family"
+  photos:

@@ -7,4 +7,4 @@ ref: photos
 use_bootstrap: true
 ---
 
-{%- include photo_cards.html -%}
+{%- include photo_gallery.html -%}
