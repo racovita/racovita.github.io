@@ -11,8 +11,6 @@ banner: /assets/images/Nov22/web_banner.png
 ## {{ page.title }}
 {: .text-center}
 
-![](/assets/images/Nov22/web_banner.png){: .align-center}
-
 Acest eveniment, este organizat virtual la Universitatea Babeș-Bolyai,  Cluj-Napoca, Romania, în 17 noiembrie 2022 la ora 15:00, și este deschis publicului ([comunicat de presă](/assets/images/Nov22/comunicat_presa_2022Nov17.pdf)).
 
 Evenimentul este transmis online pe [canalul YouTube](https://youtu.be/XpB4I55p6vo).
@@ -22,4 +20,3 @@ Materiale de promovare a evenimentului de descărcat: [afiș](/assets/images/Nov
 ## Programul (desfășurat în limba engleză)
 
 {% include 20221117_program.md %}
-
