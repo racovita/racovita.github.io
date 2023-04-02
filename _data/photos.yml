@@ -452,25 +452,123 @@
     en: Collaborators
     ro: Colaboratori
     fr: Collaborateurs
-  card: "Cluj 1931.jpg"
+  card: "P. A. Chappuis-a.jpg"
   description:
     en: "E. Racoviță: Collaborators."
     ro: "E. Racoviță: Colaboratori."
     fr: "E. Racoviță: Collaborateurs."
   link: collab_photos.html
-  path: "/assets/images/photo_archive/Family"
+  path: "/assets/images/photo_archive/Collaborators"
   photos:
+    - c8:
+      file: "G. de Mortillet 1895.jpg"
+      en: "G. de Mortillet, 1895"
+      ro: "G. de Mortillet, 1895"
+      fr: "G. de Mortillet, 1895"
+    - c1:
+      file: "A. de Gerlache - 1.jpg"
+      en: "Adrien de Gerlache"
+      ro: "Adrien de Gerlache"
+      fr: "Adrien de Gerlache"
+    - c2:
+      file: "A. de Gerlache - 2a.jpg"
+      en: "Adrien de Gerlache"
+      ro: "Adrien de Gerlache"
+      fr: "Adrien de Gerlache"
+    - c5:
+      file: "F. A. Cook - 1.jpg"
+      en: "Frederic A. Cook"
+      ro: "Frederic A. Cook"
+      fr: "Frederic A. Cook"
+    - c6:
+      file: "F. A. Cook-b.jpg"
+      en: "Frederic A. Cook"
+      ro: "Frederic A. Cook"
+      fr: "Frederic A. Cook"
+    - c4:
+      file: "E. A. Martel.jpg"
+      en: "E. A. Martel, 1903"
+      ro: "E. A. Martel, 1903"
+      fr: "E. A. Martel, 1903"
+    - c3:
+      file: "E. A. Martel 1917.jpg"
+      en: "E. A. Martel, 1917"
+      ro: "E. A. Martel, 1917"
+      fr: "E. A. Martel, 1917"
+    - c12:
+      file: "P. A. Chappuis-a.jpg"
+      en: "Pierre A. Chappuis"
+      ro: "Pierre A. Chappuis"
+      fr: "Pierre A. Chappuis"
+    - c9:
+      file: "Iwan Buresch 1925.jpg"
+      en: "Iwan Buresch, 1925"
+      ro: "Iwan Buresch, 1925"
+      fr: "Iwan Buresch, 1925"
+    - c10:
+      file: "L. Michotte.jpg"
+      en: "Louis Michotte"
+      ro: "Louis Michotte"
+      fr: "Louis Michotte"
+    - c11:
+      file: "M. Caullery.jpg"
+      en: "M. Caullery"
+      ro: "M. Caullery"
+      fr: "M. Caullery"
+    - c7:
+      file: "G. Diamandy.jpg"
+      en: "G. Diamandy"
+      ro: "G. Diamandy"
+      fr: "G. Diamandy"
 
 - name: misc
   title:
     en: Miscellaneous
     ro: Diverse
     fr: Potpourri
-  card: "Cluj 1931.jpg"
+  card: "Le Roland - 2.jpg"
   description:
     en: "E. Racoviță: Miscellaneous photos."
     ro: "E. Racoviță: Fotografii diverse."
     fr: "E. Racoviță: Potpourri."
   link: misc_photos.html
-  path: "/assets/images/photo_archive/Family"
+  path: "/assets/images/photo_archive/Misc"
   photos:
+    - m1:
+      file: "Arago 1883.jpg"
+    - m2:
+      file: "Arago 1934.jpg"
+    - m3:
+      file: "Arago Biblioteca.jpg"
+    - m4:
+      file: "Arago Portul.jpg"
+    - m5:
+      file: "Arago fara data.jpg"
+    - m6:
+      file: "Arago santier naval.jpg"
+    - m7:
+      file: "Banyuls-sur-Mer.jpg"
+    - m8:
+      file: "Campanie Apuseni 1923.jpg"
+    - m9:
+      file: "Jeannel pe teren 1910.jpg"
+    - m10:
+      file: "Laborator Racovita.jpg"
+    - m11:
+      file: "Le Roland - 1.jpg"
+    - m12:
+      file: "Le Roland - 2.jpg"
+    - m13:
+      file: "Le Roland - 3.jpg"
+    - m14:
+      file: "Le Roland - 4.jpg"
+    - m15:
+      file: "Le Roland - 5.jpg"
+    - m16:
+      file: "Pirinei 1905.jpg"
+    - m17:
+      file: "Scafandru Banyuls.jpg"
+    - m18:
+      file: "Soranesti-acareturi.jpg"
+    - m19:
+      file: "Suncuius 1928.jpg"
