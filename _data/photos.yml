@@ -244,78 +244,79 @@
       en: "Belgica in port at Anvers (likely before the start of the expedition)."
       file: "Belagica la Anvers.jpg"
 
-- name: speologie
+- name: collaborators
   title:
-    en: Speleology
-    ro: Speologie
-    fr: Speologie
-  card: "Cueva del Drach - 03.jpg"
+    en: Collaborators
+    ro: Colaboratori
+    fr: Collaborateurs
+  card: "P. A. Chappuis-a.jpg"
   description:
-    en: "Cave photos taken by E. Racoviță."
-    ro: "Fotografii de pesteri pozate de E. Racoviță."
-  link: speo_photos.html
-  path: "/assets/images/photo_archive/Speleology"
+    en: "E. Racoviță: Collaborators."
+    ro: "E. Racoviță: Colaboratori."
+    fr: "E. Racoviță: Collaborateurs."
+  link: collab_photos.html
+  path: "/assets/images/photo_archive/Collaborators"
   photos:
-    - cdd01:
-      en: "Cuevas del Drach: Columns Hall"
-      ro: "Cuevas del Drach: Sala Coloanelor"
-      file: "Cueva del Drach - 01.jpg"
-    - cdd02:
-      en: "Cuevas del Drach: Stalagmites"
-      ro: "Cuevas del Drach: Masiv stalagmitic"
-      file: "Cueva del Drach - 02.jpg"
-    - cdd03:
-      en: "Cuevas del Drach: Lago de les Delices (Lake of Delights)"
-      ro: "Cuevas del Drach: Lacul Deliciilor, cu o barcă"
-      file: "Cueva del Drach - 03.jpg"
-    - cdd04:
-      en: "Cuevas del Drach: Stalagmites"
-      ro: "Cuevas del Drach: Scurgere stalagmitică"
-      file: "Cueva del Drach - 04.jpg"
-    - cdd05:
-      en: "Cuevas del Drach: water pool"
-      ro: "Cuevas del Drach: Bazin cu apă"
-      file: "Cueva del Drach - 05.jpg"
-    - cdd06:
-      en: "Cuevas del Drach: Stalagmitic column"
-      ro: "Cuevas del Drach: Coloană stalagmitică"
-      file: "Cueva del Drach - 06.jpg"
-    - cdd07:
-      en: "Cuevas del Drach: Miramar lake"
-      ro: "Cuevas del Drach: Lacul Miramar"
-      file: "Cueva del Drach - 07.jpg"
-    - cdd08:
-      en: "Cuevas del Drach: Columns Hall"
-      ro: "Cuevas del Drach: Sala Coloanelor"
-      file: "Cueva del Drach - 08.jpg"
-    - cdd11:
-      en: "Cuevas del Drach: Stalagmites in the Moragues dome"
-      ro: "Cuevas del Drach: Coloane stalagmitice în Domul Moragues"
-      file: "Cueva del Drach - 11.jpg"
-    - cdd12:
-      en: "Cuevas del Drach: Lago de les Delices (Lake of Delights)"
-      ro: "Cuevas del Drach: Lacul Deliciilor"
-      file: "Cueva del Drach - 12.jpg"
-    - speo09:
-      en: "Cuevas del Molino: Cave entrace as seen from inside."
-      ro: "Cuevas del Molino: Deschiderea văzută din interiorul peşterii."
-      file: "Cueva del Molino.jpg"
-    - speo18:
-      en: "René Jeannel (on the right) at the entrance of Grotte de Las Tours, August 13, 1910"
-      ro: "René Jeannel (în dreapta) la intrarea în Grotte de Las Tours, 13 august 1910"
-      file: "Las Tours 1910.jpg"
-    - speo02:
-      en: "Ice stalagmites „Biserica” (Church) hall (Photo R. Jeannel, August 15, 1921)"
-      ro: "Stalagmite de gheaţă din sala „Biserica” (Foto R. Jeannel, 15 august 1921)"
-      file: "Scarisoara - 01.jpg"
-    - speo07:
-      en: "Ice stalagmites „Biserica” (Church) hall (Photo E. Racoviţă, June 28, 1923)."
-      ro: "Stalagmite de gheaţă din „Biserică” (Foto E. Racoviţă, 28 iunie 1923)."
-      file: "Scarisoara - 02a.jpg"
-    - speo08:
-      en: "Blocks of stalagmitic ice in „Biserica” (Church) hall (Photo E. Racoviţă, August 15, 1921)."
-      ro: "Masive stalagmitice de gheaţă în „Biserică” (Foto E. Racoviţă, 15 august 1921)."
-      file: "Scarisoara - 03.jpg"
+    - c8:
+      file: "G. de Mortillet 1895.jpg"
+      en: "G. de Mortillet, 1895"
+      ro: "G. de Mortillet, 1895"
+      fr: "G. de Mortillet, 1895"
+    - c1:
+      file: "A. de Gerlache - 1.jpg"
+      en: "Adrien de Gerlache"
+      ro: "Adrien de Gerlache"
+      fr: "Adrien de Gerlache"
+    - c2:
+      file: "A. de Gerlache - 2a.jpg"
+      en: "Adrien de Gerlache"
+      ro: "Adrien de Gerlache"
+      fr: "Adrien de Gerlache"
+    - c5:
+      file: "F. A. Cook - 1.jpg"
+      en: "Frederic A. Cook"
+      ro: "Frederic A. Cook"
+      fr: "Frederic A. Cook"
+    - c6:
+      file: "F. A. Cook-b.jpg"
+      en: "Frederic A. Cook"
+      ro: "Frederic A. Cook"
+      fr: "Frederic A. Cook"
+    - c4:
+      file: "E. A. Martel.jpg"
+      en: "E. A. Martel, 1903"
+      ro: "E. A. Martel, 1903"
+      fr: "E. A. Martel, 1903"
+    - c3:
+      file: "E. A. Martel 1917.jpg"
+      en: "E. A. Martel, 1917"
+      ro: "E. A. Martel, 1917"
+      fr: "E. A. Martel, 1917"
+    - c12:
+      file: "P. A. Chappuis-a.jpg"
+      en: "Pierre A. Chappuis"
+      ro: "Pierre A. Chappuis"
+      fr: "Pierre A. Chappuis"
+    - c9:
+      file: "Iwan Buresch 1925.jpg"
+      en: "Iwan Buresch, 1925"
+      ro: "Iwan Buresch, 1925"
+      fr: "Iwan Buresch, 1925"
+    - c10:
+      file: "L. Michotte.jpg"
+      en: "Louis Michotte"
+      ro: "Louis Michotte"
+      fr: "Louis Michotte"
+    - c11:
+      file: "M. Caullery.jpg"
+      en: "M. Caullery"
+      ro: "M. Caullery"
+      fr: "M. Caullery"
+    - c7:
+      file: "G. Diamandy.jpg"
+      en: "G. Diamandy"
+      ro: "G. Diamandy"
+      fr: "G. Diamandy"
 
 - name: family
   title:
@@ -401,7 +402,80 @@
       fr: "Hélène Racoviță en 1937."
       file: "Helene Racovita - 2.jpg"
 
-- name: group_photos
+- name: speologie
+  title:
+    en: Speleology
+    ro: Speologie
+    fr: "Spéléologie"
+  card: "Cueva del Drach - 03.jpg"
+  description:
+    en: "Cave photos taken by E. Racoviță."
+    ro: "Fotografii de pesteri pozate de E. Racoviță."
+  link: speo_photos.html
+  path: "/assets/images/photo_archive/Speleology"
+  photos:
+    - cdd01:
+      en: "Cuevas del Drach: Columns Hall"
+      ro: "Cuevas del Drach: Sala Coloanelor"
+      file: "Cueva del Drach - 01.jpg"
+    - cdd02:
+      en: "Cuevas del Drach: Stalagmites"
+      ro: "Cuevas del Drach: Masiv stalagmitic"
+      file: "Cueva del Drach - 02.jpg"
+    - cdd03:
+      en: "Cuevas del Drach: Lago de les Delices (Lake of Delights)"
+      ro: "Cuevas del Drach: Lacul Deliciilor, cu o barcă"
+      file: "Cueva del Drach - 03.jpg"
+    - cdd04:
+      en: "Cuevas del Drach: Stalagmites"
+      ro: "Cuevas del Drach: Scurgere stalagmitică"
+      file: "Cueva del Drach - 04.jpg"
+    - cdd05:
+      en: "Cuevas del Drach: water pool"
+      ro: "Cuevas del Drach: Bazin cu apă"
+      file: "Cueva del Drach - 05.jpg"
+    - cdd06:
+      en: "Cuevas del Drach: Stalagmitic column"
+      ro: "Cuevas del Drach: Coloană stalagmitică"
+      file: "Cueva del Drach - 06.jpg"
+    - cdd07:
+      en: "Cuevas del Drach: Miramar lake"
+      ro: "Cuevas del Drach: Lacul Miramar"
+      file: "Cueva del Drach - 07.jpg"
+    - cdd08:
+      en: "Cuevas del Drach: Columns Hall"
+      ro: "Cuevas del Drach: Sala Coloanelor"
+      file: "Cueva del Drach - 08.jpg"
+    - cdd11:
+      en: "Cuevas del Drach: Stalagmites in the Moragues dome"
+      ro: "Cuevas del Drach: Coloane stalagmitice în Domul Moragues"
+      file: "Cueva del Drach - 11.jpg"
+    - cdd12:
+      en: "Cuevas del Drach: Lago de les Delices (Lake of Delights)"
+      ro: "Cuevas del Drach: Lacul Deliciilor"
+      file: "Cueva del Drach - 12.jpg"
+    - speo09:
+      en: "Cuevas del Molino: Cave entrace as seen from inside."
+      ro: "Cuevas del Molino: Deschiderea văzută din interiorul peşterii."
+      file: "Cueva del Molino.jpg"
+    - speo18:
+      en: "René Jeannel (on the right) at the entrance of Grotte de Las Tours, August 13, 1910"
+      ro: "René Jeannel (în dreapta) la intrarea în Grotte de Las Tours, 13 august 1910"
+      file: "Las Tours 1910.jpg"
+    - speo02:
+      en: "Ice stalagmites „Biserica” (Church) hall (Photo R. Jeannel, August 15, 1921)"
+      ro: "Stalagmite de gheaţă din sala „Biserica” (Foto R. Jeannel, 15 august 1921)"
+      file: "Scarisoara - 01.jpg"
+    - speo07:
+      en: "Ice stalagmites „Biserica” (Church) hall (Photo E. Racoviţă, June 28, 1923)."
+      ro: "Stalagmite de gheaţă din „Biserică” (Foto E. Racoviţă, 28 iunie 1923)."
+      file: "Scarisoara - 02a.jpg"
+    - speo08:
+      en: "Blocks of stalagmitic ice in „Biserica” (Church) hall (Photo E. Racoviţă, August 15, 1921)."
+      ro: "Masive stalagmitice de gheaţă în „Biserică” (Foto E. Racoviţă, 15 august 1921)."
+      file: "Scarisoara - 03.jpg"
+
+- name: group
   title:
     en: Group photos
     ro: Poze de grup
@@ -446,80 +520,6 @@
       file: "Studenti socialisti.jpg"
     - g16:
       file: "Timisoara.jpg"
-
-- name: collaborators
-  title:
-    en: Collaborators
-    ro: Colaboratori
-    fr: Collaborateurs
-  card: "P. A. Chappuis-a.jpg"
-  description:
-    en: "E. Racoviță: Collaborators."
-    ro: "E. Racoviță: Colaboratori."
-    fr: "E. Racoviță: Collaborateurs."
-  link: collab_photos.html
-  path: "/assets/images/photo_archive/Collaborators"
-  photos:
-    - c8:
-      file: "G. de Mortillet 1895.jpg"
-      en: "G. de Mortillet, 1895"
-      ro: "G. de Mortillet, 1895"
-      fr: "G. de Mortillet, 1895"
-    - c1:
-      file: "A. de Gerlache - 1.jpg"
-      en: "Adrien de Gerlache"
-      ro: "Adrien de Gerlache"
-      fr: "Adrien de Gerlache"
-    - c2:
-      file: "A. de Gerlache - 2a.jpg"
-      en: "Adrien de Gerlache"
-      ro: "Adrien de Gerlache"
-      fr: "Adrien de Gerlache"
-    - c5:
-      file: "F. A. Cook - 1.jpg"
-      en: "Frederic A. Cook"
-      ro: "Frederic A. Cook"
-      fr: "Frederic A. Cook"
-    - c6:
-      file: "F. A. Cook-b.jpg"
-      en: "Frederic A. Cook"
-      ro: "Frederic A. Cook"
-      fr: "Frederic A. Cook"
-    - c4:
-      file: "E. A. Martel.jpg"
-      en: "E. A. Martel, 1903"
-      ro: "E. A. Martel, 1903"
-      fr: "E. A. Martel, 1903"
-    - c3:
-      file: "E. A. Martel 1917.jpg"
-      en: "E. A. Martel, 1917"
-      ro: "E. A. Martel, 1917"
-      fr: "E. A. Martel, 1917"
-    - c12:
-      file: "P. A. Chappuis-a.jpg"
-      en: "Pierre A. Chappuis"
-      ro: "Pierre A. Chappuis"
-      fr: "Pierre A. Chappuis"
-    - c9:
-      file: "Iwan Buresch 1925.jpg"
-      en: "Iwan Buresch, 1925"
-      ro: "Iwan Buresch, 1925"
-      fr: "Iwan Buresch, 1925"
-    - c10:
-      file: "L. Michotte.jpg"
-      en: "Louis Michotte"
-      ro: "Louis Michotte"
-      fr: "Louis Michotte"
-    - c11:
-      file: "M. Caullery.jpg"
-      en: "M. Caullery"
-      ro: "M. Caullery"
-      fr: "M. Caullery"
-    - c7:
-      file: "G. Diamandy.jpg"
-      en: "G. Diamandy"
-      ro: "G. Diamandy"
-      fr: "G. Diamandy"
 
 - name: misc
   title:
