@@ -39,10 +39,11 @@
 <header class="site-header" role="banner">
   {%- assign banner = "/assets/images/banners/banner-generic.jpg" -%}
   {%- if page.banner -%}
-  {%-   if page.banner.first == "/" -%}
+  {%-   assign abs_path = page.banner | slice: 0 -%}
+  {%-   if abs_path == "/" -%}
   {%-     assign banner = page.banner -%}
   {%-   else -%}
-  {%-     assign banner = "/assets/images/banners/" + page.banner -%}
+  {%-     assign banner = "/assets/images/banners/" | append: page.banner -%}
   {%-   endif -%}
   {%- endif -%}
 
