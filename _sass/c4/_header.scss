@@ -19,20 +19,20 @@ $text-color: #111 !default;
       font-weight: bold;
       text-align: right;
       line-height: 0.25rem;
-      padding-top: 1.25rem;
-      padding-right: 6rem;
+      // padding-top: 1.25rem;
+      // padding-right: 6rem;
   }
   .subtitle {
       color: $white;
       font-size: calc(100% + 0.25vw + 0.25vh);
       font-weight: normal;
       text-align: right;
-      padding-right: 6rem;
+      // padding-right: 6rem;
   }
   .page-title {
       color: $white;
       font-size: calc(100% + 0.5vw + 0.5vh);
-      padding-left: 6rem;
-      padding-bottom: 1rem;
+      // padding-left: 6rem;
+      // padding-bottom: 1rem;
   }
 }
