@@ -4,7 +4,7 @@
     en: Antarctica
     ro: Antarctica
     fr: Antarctica
-  card: Antarctica - 23.jpg
+  card: "/assets/images/cards/antarctica.jpg"
   link: antarctica_photos.html
   description:
     ro: "Colecție de fotografii din expediția Antartică Belgica, 1897-1899. Scanate după origilalele din patrimoniul E. Racoviță."
@@ -249,7 +249,7 @@
     en: Collaborators
     ro: Colaboratori
     fr: Collaborateurs
-  card: "P. A. Chappuis-a.jpg"
+  card: "/assets/images/cards/collaborators.jpg"
   description:
     en: "E. Racoviță: Collaborators."
     ro: "E. Racoviță: Colaboratori."
@@ -323,7 +323,7 @@
     en: Family photos
     ro: Poze de familie
     fr: Fotos de famille
-  card: "Cluj 1931.jpg"
+  card: "/assets/images/cards/family.jpg"
   description:
     en: "E. Racoviță: family photos."
     ro: "E. Racoviță: fotografii de familie."
@@ -407,7 +407,7 @@
     en: Speleology
     ro: Speologie
     fr: "Spéléologie"
-  card: "Cueva del Drach - 03.jpg"
+  card: "/assets/images/cards/speology.jpg"
   description:
     en: "Cave photos taken by E. Racoviță."
     ro: "Fotografii de pesteri pozate de E. Racoviță."
@@ -480,7 +480,7 @@
     en: Group photos
     ro: Poze de grup
     fr: Fotos de groupe
-  card: "Grup in Pirinei.jpg"
+  card: "/assets/images/cards/group.jpg"
   description:
     en: "E. Racoviță: group photos."
     ro: "E. Racoviță: fotografii de grup."
@@ -526,7 +526,7 @@
     en: Miscellaneous
     ro: Diverse
     fr: Potpourri
-  card: "Le Roland - 2.jpg"
+  card: "/assets/images/cards/misc.jpg"
   description:
     en: "E. Racoviță: Miscellaneous photos."
     ro: "E. Racoviță: Fotografii diverse."
