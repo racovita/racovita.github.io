@@ -22,6 +22,59 @@
     }
 }
 
+.c4-section  {
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    padding: 1rem 1rem 1rem 1rem;
+    margin: 1rem 1rem 1rem 1rem;
+    align-items: center;
+
+    > h4 {
+        font-weight: bold;
+    }
+
+    > p {
+        padding-left: 2rem;
+        padding-right: 2rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    .c4-section-title {
+        font-size: 2.5rem;
+        font-weight: bold;
+        line-height: 3rem;
+        text-transform: uppercase;
+        padding-top: 0px;
+        padding-left: 2rem;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+    }
+    h1 {
+        text-transform: uppercase;
+        padding-top: 0px;
+        margin-top: 0px;
+    }
+
+    .c4-figure {
+        max-width: 300px;
+    }
+
+    .photo-caption {
+        background:#303236;
+        color: #fff;
+        text-align: center;
+        > h4 {
+            color: #fff;
+            margin-top: 0px;
+            overflow: hidden;
+        }
+    }
+}
+
+
 .c4-photos-row {
   align-items: top;
   justify-content: center;
