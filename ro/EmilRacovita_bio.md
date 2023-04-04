@@ -32,7 +32,7 @@ vitejie, aşa cum a fost Mihai Racoviţă. Tatăl său, Gheorghe
 Racoviţă, cunoscut îndeosebi sub numele de Gheorghieş, de profesie
 magistrat, a jucat un rol important în viaţa culturală şi
 intelectuală a Iaşiului, fiind unul dintre fondatorii societăţii
-„Junimea”. Mama, Eufrosina, născută Stamatopol, s-a dedicat în
+<em>Junimea</em>. Mama, Eufrosina, născută Stamatopol, s-a dedicat în
 întregime îngrijirii singurului din cei trei copii cărora le dăduse
 viaţă, pe ceilalţi doi pierzâdu-i prematur din cauza unor boli
 necruţătoare.
@@ -44,7 +44,7 @@ Vasluiului în care tatăl moştenise o frumoasă moşie. Şi-a început învă�
 la Iaşi ca elev al lui Ion Creangă, omul de la care a moştenit neaoşul grai
 moldovenesc pe care l-a folosit chiar şi în cuvântări rostite în cadrul
 protocolar al Academiei Române. A continuat-o tot la Iaşi, mai întâi la
-Liceul Naţional, apoi la liceul privat „Institutele Unite”, unde a fost
+Liceul Naţional, apoi la liceul privat <em>Institutele Unite</em>, unde a fost
 coleg cu Sava Atanasiu, Grigore Antipa, Dimitrie Voinov şi Nicolae Leon şi
 unde i-a avut ca profesori, printre alţii, pe istoricul Alexandru
 D. Xenopol, chimistul Petre Poni şi geologul Grigore Cobălcescu. Cel din
@@ -70,7 +70,7 @@ nestăvilită pasiune.</p>
  Lacaze-Duthiers şi conferenţiarul Georges Pruvot. Încheindu-şi studiile
  universitare în 1891, odată cu obţinerea diplomei de licenţiat în ştiinţe,
  a rămas în Franţa pentru a-şi pregăti doctoratul în Laboratorul oceanologic
- „Arago” de la Banyuls-sur-Mer, ctitorie a aceluiaşi Lacaze-Duthiers. După
+ <em>Arago</em> de la Banyuls-sur-Mer, ctitorie a aceluiaşi Lacaze-Duthiers. După
  cinci ani de cercetări asidue, susţinerea publică a tezei pe care o
  elaborase asupra lobului cefalic al anelidelor polichete (cei mai
  răspândiţi viermi marini) i-a adus titlul de doctor în ştiinţe. Şi nu este
@@ -99,7 +99,7 @@ nestăvilită pasiune.</p>
      fără ezitare în temerara călătorie. Astfel a devenit el naturalistul
      expediţiei antarctice belgiene, organizate şi conduse de locotenentul
      de marină Adrien de Gerlache de Gomery şi desfăşurate la bordul vasului
-     „Belgica” între 1897 şi 1899. Ea a fost cea dintâi care a avut ca
+     <em>Belgica</em> între 1897 şi 1899. Ea a fost cea dintâi care a avut ca
      obiectiv nu descoperirea de pământuri încă necunoscute, ci efectuarea
      unor cercetări şi observaţii ştiinţifice complexe, şi tot cea dintâi
      care a petrecut o întreagă iarnă polară în mijlocul banchizei
@@ -118,7 +118,7 @@ nestăvilită pasiune.</p>
   a patru lucrări. Dar, din păcate, nenumăratele îndatoriri cărora va trebui
   să le facă faţă în anii următori nu i-au îngăduit să finalizeze decât una
   singură, cea consacrată balenelor. Astăzi se mai ştie că în arhiva
-  Muzeului de Istorie naturală „Grigore Antipa” din Bucureşti există un
+  Muzeului de Istorie naturală <em>Grigore Antipa</em> din Bucureşti există un
   manuscris de 513 pagini, redactat doar parţial în formă definitivă şi care
   ar fi trebuit să constituie o a doua lucrare, având ca subiect focile. Iar
   faptul că ea nu a văzut lumina tiparului este cu atât mai regretabil, cu
@@ -129,44 +129,44 @@ nestăvilită pasiune.</p>
 
 <div class="c4-section">
   <div class="c4-section-title border-start border-2 border-dark">
-  Recunoașterea știintifica
+  Recunoașterea științifică
   </div>
+
+    <p>
+    {% include figure url="/assets/images/photo_archive/Misc/Arago fara data.jpg"
+     caption="Laboratorul Arago, cca. 1900"
+     class="c4-figure img-fluid float-start"
+     %}
+   </p>
 
   <p>În atare situaţie, era limpede că singurul loc unde se putea îngriji
      în condiţii optime de valorificarea preţioaselor sale colecţii era
-     Laboratorul „Arago”, şi profesorul Lacaze-Duthiers l-a primit cu
+     Laboratorul <em>Arago</em>, şi profesorul Lacaze-Duthiers l-a primit cu
      braţele deschise. Mai mult chiar, a socotit că discipolul său a dovedit
      suficiente calităţi pentru a se număra printre cei la care se gândea că
      i-ar putea fi succesori. Aşa se face că, la 1 noiembrie 1900, Emil
      Racoviţă a fost numit subdirector al laboratorului, funcţia de director
      fiindu-i încredinţată lui Georges Pruvot, iar în anul imediat următor,
      aceiaşi doi colaboratori ai săi au devenit codirectori ai periodicului
-     „Archives de Zoologie expérimentale et générale”, cea mai prestigioasă
+     <em>Archives de Zoologie expérimentale et générale</em>, cea mai prestigioasă
      revistă de specialitate din Europa, pe care tot el o înfiinţase în
      1872.</p>
 
-    <p>
-    {% include figure url="/assets/images/photo_archive/Misc/Arago fara data.jpg"
-     caption="Laboratorul Arago, cca. 1900"
-     class="c4-figure img-fluid float-end"
-     %}
-   </p>
-
   <p>Aceasta a fost expresia de departe cea mai convingătoare a felului în care Racoviţă ajunsese să se impună în comunitatea ştiinţifică a Franţei, pentru că a fost singurul caz în care responsabilităţi atât de însemnate au revenit unui străin care abia trecuse de 30 de ani. Pe de altă parte, însă, noile atribuţii îl vor solicita din plin, căci împrejurările nu îi vor câtuşi de puţin prielnice. În pofida unor idei mai degrabă preconcepute pe care mulţi le au astăzi despre ceea ce se întâmpla, cu mai bine de un secol în urmă, într-o ţară considerată pe drept cuvânt ca focar al culturii europene, insuficienţa resurselor financiare a făcut ca totul să se desfăşoare sub semnul unei severe economii. O demonstrează convingător faptul că, pentru a asigura bunul mers al laboratorului şi apariţia regulată a revistei, Racoviţă a făcut uz resursele financiare obţinute din exploatarea moşiei de la Şorăneşti. Dar multiplele dificultăţi cu care va fi confruntat de-acum înainte vor fi departe de a-l descuraja.</p>
+
+<p>
+{% include figure url="/assets/images/Cueva-del-Drach-2.jpg"
+   caption="Lacul Deliciilor din Cueva del Drach (lacul în care a fost capturată <em>Typhlocirolana moraguesi</em>)."
+     class="c4-figure img-fluid float-end"
+%}
+</p>
 
 <p>În vara anului 1904, în timpul uneia din obişnuitele croaziere de cercetări pe care personalul laboratorului le întreprindea în bazinul răsăritean al Mediteranei, Racoviţă a făcut o vizită în Cueva del Drach, o renumită peşteră din Insula Mallorca. Aici, în apele întunecate ale unuia din marile lacuri pe care le adăposteşte această cavitate, el a capturat un mic crustaceu, încă necunoscut în ştiinţă şi pe care îl va descrie sub numele de Typhlocirolana moraguesi. A fost descoperirea care va marca cea mai radicală cotitură din întreaga sa carieră de naturalist. Translucid şi lipsit complet de ochi, acest animal purta amprenta atât pregnantă a adaptării lui la neobişnuitul mediu pe care îl oferă adâncurile subterane, încât Racoviţă a intuit imediat că studiul aprofundat al fiinţelor care trăiesc în peşteri poate contribui în mare măsură la desluşirea complicatelor mecanisme ale evoluţiei biologice. Şi s-a dedicat acestui studiu renunţând definitiv la cercetările sale oceanologice.</p>
 
 <p>
-{% include figure url="/assets/images/Cueva-del-Drach-2.jpg"
-   caption="Lacul Deliciilor din Cueva del Drach (lacul în care a fost capturată Typhlocirolana moraguesi)."
-     class="c4-figure img-fluid float-start"
-%}
-</p>
-
-<p>
      {% include figure url="/assets/images/Essai.jpg"
-     caption="Essai sur les Problemes Biospeologiques."
-     class="c4-figure img-fluid float-end"
+     caption="Eseu asupra problemelor biospeologice (coperta, reproducere)."
+     class="c4-figure img-fluid float-start"
      %}
 </p>
 
@@ -182,20 +182,20 @@ nestăvilită pasiune.</p>
      ştiinţe naturale. Începând din vara lui 1905, au pornit să exploreze
      împreună peşterile de pe cei doi versanţi ai Munţilor Pirinei şi au
      făcut-o cu atâta râvnă, încât Racoviţă a foarte curând în măsură să îşi
-     ordoneze ideile într-o viziune unitară. A expus-o în celebrul său „Eseu
-     asupra problemelor biospeologice”, apărut în 1907 şi despre care
-     Jeannel va spune peste trei decenii că „a fost de la bun început şi a
-       rămas statutul fundamental al biospeologiei”.</p>
+     ordoneze ideile într-o viziune unitară. A expus-o în celebrul său <em>Eseu
+     asupra problemelor biospeologice</em>, apărut în 1907 şi despre care
+     Jeannel va spune peste trei decenii că "a fost de la bun început şi a
+       rămas statutul fundamental al biospeologiei".</p>
 
  <p>Oricât de important s-a dovedit a fi pentru viitorul biospeologiei,
-     „Eseul” nu a reprezentat decât un început în gândirea autorului
+     <em>Eseul</em> nu a reprezentat decât un început în gândirea autorului
      său. Aşa cum s-a întâmplat şi în cazul expediţiei antarctice, pentru
      valorificarea materialului colectat în cursul explorărilor speologice
      era nevoie de zoologi specializaţi în cunoaşterea diverselor grupe de
      animale, iar acţiunea acestora trebuia subordonată unui ţel comun:
      reconstituirea istoriei naturale a domeniului subteran. Ca urmare,
      Racoviţă a înfiinţat o insolită întreprindere ştiinţifică, numită
-     „Biospeologica” şi pe care a dirijat-o secondat de Jeannel. Ei aveau să
+     <em>Biospeologica</em> şi pe care a dirijat-o secondat de Jeannel. Ei aveau să
      i se asocieze 40 de colaboratori, unii dispuşi să se aventureze şi în
      adâncurile peşterilor, care şi-au unit eforturile pentru a desluşi tot
      mai multe enigme ale lumii subpământene şi datorită cărora programul
@@ -203,11 +203,11 @@ nestăvilită pasiune.</p>
      principalele regiuni carstice din Europa şi nordul Africii fuseseră
      explorate aproape 800 de cavităţi subterane, din care fuseseră
      colectate 20.000 de animale cavernicole, iar sub genericul
-     „Biospeologica” apăruseră 41 de lucrări ştiinţifice însumând 3.400 de
+     <em>Biospeologica</em> apăruseră 41 de lucrări ştiinţifice însumând 3.400 de
      pagini. Şi nu trebuie omis faptul că, în anii Primului Război Mondial,
      Racoviţă şi-a întrerupt absolut toate cercetările, ocupându-se exclusiv
      de conducerea spitalului militar amenajat temporar în Laboratorul
-     Arago”.</p>
+     Arago.</p>
 </div>
 
 
@@ -246,7 +246,7 @@ nestăvilită pasiune.</p>
 
    <p>În viziunea lui Racoviţă, acest institut nu a însemnat ceva cu totul
      nou, ci cadrul oficial în care avea să funcţioneze de acum încolo
-     vechea întreprindere „Biospeologica”, ceea ce însemna totodată şi
+     vechea întreprindere <em>Biospeologica</em>, ceea ce însemna totodată şi
      transferarea în capitala spirituală a Transilvaniei a epicentrului
      biospeologiei mondiale. A fost, deci, firesc ca el să conserve rolul de
      coordonare pe care singulara întreprindere privată îl avusese de la bun
@@ -268,7 +268,7 @@ nestăvilită pasiune.</p>
 
   <p>
      {% include figure url="/assets/images/Ghetar-Scarisoara.jpg"
-     caption="Sala „Biserica” din peştera Gheţarul de la Scărişoara (foto E. Racoviţă, 1923)."
+     caption="Sala <em>Biserica</em> din peştera Gheţarul de la Scărişoara (foto E. Racoviţă, 1923)."
      class="c4-figure img-fluid float-end"
      %}
    </p>
@@ -284,8 +284,8 @@ nestăvilită pasiune.</p>
   Asociaţiei Generale a Profesorilor Universitari, îndeplinind la un moment
   dat şi funcţia de preşedinte al secţiei ei clujene. În 1922 a creat
   Asociaţia culturală pentru răspândirea limbii şi culturii franceze,
-  cunoscută mai mult sub numele de „Cercul Ronsard”. A fost membru fondator
-  şi preşedinte (1921-1933) al „Frăţiei Muntene”, prima societate turistică
+  cunoscută mai mult sub numele de <em>Cercul Ronsard</em>. A fost membru fondator
+  şi preşedinte (1921-1933) al <em>Frăţiei Muntene</em>, prima societate turistică
   românească din Transilvania. În 1928 a fost numit preşedinte al Întâiului
   Congres al Naturaliştilor din România (Cluj, 18-21 aprilie), calitate în
   care şi-a adus o contribuţie decisivă la legiferarea ocrotirii
@@ -390,7 +390,7 @@ nestăvilită pasiune.</p>
 <li> Essai sur les problèmes biospéologiques. Biospeologica No. I. Archives de Zoologie expérimentale et générale, Paris, 4-ème série, VI, 1907, p. 371-488.</li>
 <li>Cirolanides (1-ère série). Biospeologica No. XXVII. Archives de Zoologie expérimentale et générale, Paris, 5-ème série, IX, 1912, p.203-329, 8 fig., 14 pl.</li>
 <li>Speologia. O ştiinţa nouă a străvechilor taine subpământeşti. Astra, Secţia Ştiinţelor naturale, Biblioteca populară, Cluj, 1, 1927, 70 pp. + 7 pl.</li>
-<li>Evoluţia şi problemele ei. Biblioteca eugenică şi biopolitică a „Astrei”, Cluj, Nr. VI, 1929, 184 pp. + 30 pl.</li>
+<li>Evoluţia şi problemele ei. Biblioteca eugenică şi biopolitică a <em>Astrei</em>, Cluj, Nr. VI, 1929, 184 pp. + 30 pl.</li>
 <li>Opere alese. Edit. Academiei R.P.R., Bucureşti, 1964, 810 pp., 2 pl. (redactor responsabil C. Motaş).</li>
 <li>Cugetări evoluţioniste. Edit. Academiei Române, Bucureşti, 1993, 320
   pp. (ediţie îngrijită de Gh. Racoviţă).</li>
@@ -403,7 +403,7 @@ nestăvilită pasiune.</p>
 
     <ul>
 <li>Ghibănescu, Gh. Surete şi Izvoade, VIII, Documente racoviţeşti. Tipografia Dacia, Iaşi, 1914.</li>
-<li>Marinescu, A., Emil Racoviţă şi expediţia „Belgica”. Edit. All, Bucureşti, 1999, ISBN 973-9431-06-2.</li>
+<li>Marinescu, A., Emil Racoviţă şi expediţia <em>Belgica</em>. Edit. All, Bucureşti, 1999, ISBN 973-9431-06-2.</li>
 <li>Motaş, C., Figuri de naturalişti. Edit. Ştiinţifică, Bucureşti, 1960.</li>
 <li>Motaş, C. şi Ghica, C. A., Emil Racoviţă. Fondatorul biospeologiei. Edit. Ştiinţifică, Bucureşti, 1969.</li>
 <li>Racoviţă, Gh., A şti sau a nu şti. Adevărurile vieţii lui Emil Racoviţă. Edit. Academiei Române, Bucureşti, 1999, ISBN 973-27-0631-7</li>
@@ -411,6 +411,5 @@ nestăvilită pasiune.</p>
 
 </div>
 
-<p>Text bazat pe originalul scris de Gheorghe Racoviţă (nepotul savantului,
-1940-2015).
-</p>
+<p class="mx-5"><em>Text bazat pe originalul scris de Gheorghe Racoviţă
+(nepotul savantului, 1940-2015).</em></p>
