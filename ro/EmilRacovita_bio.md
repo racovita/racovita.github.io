@@ -20,7 +20,7 @@ ref: bio
     </div>
 
 <p>{% include figure url="/assets/images/photo_archive/Family/Emil Racovita 1881.jpg"
-    caption="Emil Racoviţă in 1881"
+    caption="Emil Racoviţă în 1881"
     class="c4-figure float-end img-fluid"
     %}
     </p>
