@@ -1,5 +1,5 @@
 
-{% assign currentDate = "2022-11-15" %}
+{% assign currentDate = "2023-04-20" %}
 {% assign posts = site.posts | where:"lang", page.lang %}
 
 {% assign hasUpcoming = false %}
@@ -20,12 +20,18 @@
     <li>        {{ post.date | date: site.languages[page.lang].date_format }} » <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
 		{% if post.banner %}
 		  <br/>
+      {% if post.youtube %}
     <div class="yt-container">
-		  <a href="https://youtu.be/OydU9DFSqmg" target="_blank">
+		  <a href="{{ post.youtube }}" target="_blank">
         <img src="{{ post.banner }}">
         <button class="button"><img src="/assets/images/ytplay.png" width="30px"></button>
       </a>
-     </div>
+    </div>
+    {% else %}
+    <div class="yt-container">
+      <img src="{{ post.banner }}">
+    </div>
+    {% endif %}
 		{% endif %}
     </li>
   {% endif %}

@@ -4,6 +4,7 @@ layout: 'post'
 lang: ro
 ref: ubb75years
 banner: /assets/images/Nov22/web_banner.png
+youtube: https://youtu.be/OydU9DFSqmg
 ---
 
 
@@ -21,4 +22,3 @@ Materiale de promovare a evenimentului de descărcat: [afiș](/assets/images/Nov
 ## Programul (desfășurat în limba engleză)
 
 {% include 20221117_program.md %}
-
