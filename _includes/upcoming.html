@@ -1,5 +1,5 @@
 
-{% assign currentDate = "2022-11-15" %}
+{% assign currentDate = "2023-04-20" %}
 {% assign posts = site.posts | where:"lang", page.lang %}
 
 {% assign hasUpcoming = false %}
@@ -19,10 +19,14 @@
   <div class="c4-feature row flex-lg-row justify-content-center p-4">
 		{% if post.banner %}
     <div class="col-lg-5 col-md-12 p-0 g-0 m-0 ms-lg-5">
-		    <iframe src="https://www.youtube.com/embed/OydU9DFSqmg/"
+      {% if post.youtube %}
+		    <iframe src="{{ post.youtube }}"
                 target="_blank"
                 class="yt-container ratio ratio-16x9 img-fluid"
                 allowfullscreen></iframe>
+      {% else %}
+        <img src="{{ post.banner }}" class="img-fluid">
+      {% endif %}
     </div>
     {% endif %}
     <div class="col-lg-5 col-md-12 mx-lg-5 px-lg-5 gx-lg-5">

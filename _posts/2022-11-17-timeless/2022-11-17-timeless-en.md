@@ -6,6 +6,7 @@ layout: 'post'
 lang: en
 ref: ubb75years
 banner: /assets/images/Nov22/web_banner.png
+youtube: https://youtu.be/OydU9DFSqmg
 ---
 
 ## {{ page.title }}
