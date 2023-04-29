@@ -1,5 +1,6 @@
 ---
 title: "Prelegere: The 1897-99 Belgica Expedition, Patrick DeDekker, Australian National University"
+description: Prelegere organizată la Universitatea Babeș-Bolyai din Cluj-Napoca, Romania, în data de 4 Mai, 2023 la ora 17:00, in persoană și online.
 layout: 'post'
 lang: ro
 ref: dedekker-2023
@@ -11,8 +12,6 @@ _A tale of extraordinary scientific achievements and of human endurance_
 
 **Patrick De Deckker**<br/>
 Emeritus Professor, The Australian National University
-
-![](/assets/images/May23/web_banner.jpg){: .align-center}
 
 Institutul Emil G. Racoviță pentru Studiul Vieții în Condiții Extreme împreună cu Fundația pentru Știință și Explorare Medii Extreme - Emil G. Racoviță vă invită la prelegerea susținută de către Profesorul emerit Patrick De Deckker (The Australian National University & Australian Academy of Science), intitulată „The 1897-99 Belgica expedition that first overwintered in Antarctic waters - A tale of extraordinary scientific achievements and of human endurance”.
 
