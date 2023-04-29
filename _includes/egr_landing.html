@@ -1,57 +1,20 @@
 <div class="container align-items-center">
-  {%- assign chunks = 2 -%}
-  {%- assign rows = 1 -%}
-  {%- assign seq_len = 1 -%}
+  <div class="row p-5 g-5">
   {%- for card in site.data.egr_landing -%}
-  {%-   assign seq_len = forloop.length -%}
-  {%- endfor -%}
-  {%- assign rows = seq_len | divided_by: chunks -%}
-  {%- assign rounded = rows | times: chunks -%}
-  {%- if rounded < seq_len -%}
-  {%-   assign chunks = chunks | plus: 1 -%}
-  {%- endif -%}
-
-  {%- for card in site.data.egr_landing -%}
-  {%    assign item = forloop.index0 | modulo: chunks -%}
-  {%    assign row = forloop.index0 | divided_by: chunks -%}
-  {%    if row == 0 -%}
-  {%      assign lg_col_size = 12 | divided_by: chunks -%}
-  {%      assign md_col_size = 6 -%}
-  {%      assign last_in_row = chunks | minus: 1 -%}
-  {%    else -%}
-  {%      assign last_in_row = 1 -%}
-  {%    endif -%}
-
-                   {% if forloop.index0 == 0 %}
-     <div class="row p-5 g-5">
-{% else %}
-  {%-   if item == 0 -%}
-<div class="row pt-5 gt-5">
-  {% endif %}
-  {%-   endif -%}
-  {%-   if row != 0 -%}
-     <div class="col-lg-2">&nbsp;</div>
-  {%-   endif -%}
-
-    <div class="col-lg-4 col-sm-12 px-5 gx-5">
-      <div class="card border-light">
-        <img src="{{ card.image }}"
+      <div class="card border-light col-lg-6 col-md-12 col-sm-12 px-5 gx-5">
+        <a href="/{{ page.lang }}/{{ card.link }}">
+          <img src="{{ card.image }}"
              class="ratio ratio-21x9 card-img-top img-fluid"
-             alt="{{ card.alt }}">
+               alt="{{ card.alt }}">
+          </a>
         <div class="card-body">
           <h2 class="card-title fw-bold text-uppercase">{{ card[page.lang] }}</h2>
-          <p class="card-text">{{ card.caption[page.lang] }} ...</p>
+          <p class="card-text">{{ card.caption[page.lang] }}</p>
           <a href="/{{ page.lang }}/{{ card.link }}" class="btn btn-light text-uppercase">
             {{ site.data.xlate.readmore[page.lang] }}
           </a>
         </div>
       </div>
-    </div>
-  {%-   if item == last_in_row -%}
-  {%-     if row != 0 -%}
-    <div class="col-lg-2">&nbsp;</div>
-  {%-     endif -%}
-    </div> <!-- end row -->
-  {%-   endif -%}
   {%- endfor -%}
+  </div>
 </div>

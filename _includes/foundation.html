@@ -1,25 +1,7 @@
 <div class="container align-items-center">
-  {%- assign chunks = 2 -%}
-  {%- assign rows = 1 -%}
+  <div class="row p-5 g-5">
   {%- for card in site.data.foundation -%}
-  {%-   assign rows = forloop.length | divided_by: chunks -%}
-  {%- endfor -%}
-  {%- assign rounded = rows | times: chunks -%}
-  {%- if rounded < forloop.length -%}
-  {%-   assign chunks = chunks | plus: 1 -%}
-  {%- endif -%}
-
-  {%- for card in site.data.foundation -%}
-    {%-    assign item = forloop.index0 | modulo: chunks -%}
-    {%- if forloop.index0 == 0 -%}
-     <div class="row p-5 g-5">
-    {%- else -%}
-    {%-   if item == 0 -%}
-    <div class="row pt-5 gt-5">
-    {% endif %}
-    {%-   endif -%}
-    <div class="col-lg-6 col-md-12 col-sm-12 px-5 gx-5">
-      <div class="card border-light">
+      <div class="card border-light col-lg-6 col-md-12 col-sm-12 px-5 gx-5">
         <a href="/{{ page.lang }}/{{ card.link }}">
           <img src="{{ card.image }}"
              class="ratio ratio-21x9 card-img-top img-fluid"
@@ -33,10 +15,6 @@
           </a>
         </div>
       </div>
-    </div>
-    {%- assign last_in_row = forloop.index0 | divided_by: rows -%}
-    {%- if last_in_row == chunks -%}
-      </div>
-    {%- endif -%}
-    {%- endfor -%}
+  {%- endfor -%}
+  </div>
 </div>

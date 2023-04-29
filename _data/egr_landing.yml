@@ -4,11 +4,11 @@
   fr: Biographie
   link: EmilRacovita_bio.html
   image: /assets/images/cards/egr_1.jpg
-  alt: Belgica drifting in Antarctica
+  alt: Biography
   caption:
-    en: A sentence or two
-    ro: O propozitie sau doua
-    fr: Une phrase ou deux
+    en: A summary of Emil Racoviță's achievements
+    ro: Un scurt sumar al realizărilor lui Emil Racoviță
+    fr: Un résumé des réalisations de Emil Racoviță
 
 - title: History
   en: History
@@ -17,11 +17,11 @@
   de: Historisch
   link: history.html
   image: /assets/images/cards/egr_2.jpg
-  alt: Belgica drifting in Antarctica
+  alt: Accomplishments
   caption:
-    en: A sentence or two
-    ro: O propozitie sau doua
-    fr: Une phrase ou deux
+    en: Chronological list of Emil Racoviță's activities
+    ro: Lista cronologică a activitaților lui Emil Racoviță
+    fr: Liste chronologique des activités d'Emil Racoviță
 
 - title: Publications
   en: Publications
@@ -30,11 +30,11 @@
   de: Veröffentlichungen
   link: pubs.html
   image: /assets/images/cards/egr_3.jpg
-  alt: Belgica drifting in Antarctica
+  alt: Publications
   caption:
-    en: A sentence or two
-    ro: O propozitie sau doua
-    fr: Une phrase ou deux
+    en: Emil Racoviță's scientific publications
+    ro: Lista lucrărilor științifice publicate de Emil Racoviță
+    fr: Liste de publications scientfique d'Emil Racoviță
 
 - title: Trace
   en: Trace his footsteps
@@ -43,11 +43,11 @@
   fr: Suivez ses traces
   link: trace.html
   image: /assets/images/cards/egr_4.jpg
-  alt: Belgica drifting in Antarctica
+  alt: Follow Racovita
   caption:
-    en: A sentence or two
-    ro: O propozitie sau doua
-    fr: Une phrase ou deux
+    en: The list of places and caves visited by Emil Racoviță
+    ro: Lista locurilor și peșterilor visitate de Emil Racoviță
+    fr: La liste des lieux et grottes visités par Emil Racoviță
 
 - title: Photos
   en: Photo galery
@@ -55,8 +55,4 @@
   fr: Galerie de photos
   link: photos.html
   image: /assets/images/cards/egr_5.jpg
-  alt: Belgica drifting in Antarctica
-  caption:
-    en: A sentence or two
-    ro: O propozitie sau doua
-    fr: Une phrase ou deux
+  alt: Photos
