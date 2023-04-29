@@ -79,6 +79,18 @@
     }
 }
 
+.c4-pubs {
+  li {
+    padding: 1rem;
+  }
+  li:nth-child(odd) {
+    background: $c4-light-gray;
+    color: $c4-dark-gray;
+  }
+  .c4-figure {
+    max-width: 300px;
+  }
+}
 
 .c4-photos-row {
   align-items: top;

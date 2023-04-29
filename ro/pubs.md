@@ -9,10 +9,10 @@ banner: banner-biografie.jpg
 # Publicaţiile lui Emil G. Racoviţă
 (După Emil Racoviţă, *Opere alese*, Edit. Academiei R.P.R., Bucureşti, 1964, cu completări)
 
-
-![Teza doctorat]({{ "/assets/images/Teza doctorat.jpg" | absolute_url }})<br/>
-*Teza doctorat*
-
+{% include figure url="/assets/images/Teza doctorat.jpg"
+   caption="Teza doctorat"
+  class="c4-figure float-end img-fluid"
+%}
 
 1. Presqu’île des Balkans. *Annuaire géologique universel (Revue de Géologie et de Paléontologie)*, VIII, 1891, p. 513-521.
 

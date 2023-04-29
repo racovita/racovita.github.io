@@ -10,10 +10,10 @@ banner: banner-biografie.jpg
 (From Emil Racoviţă, *Opere alese* (Selected works), Edit. Academiei R.P.R.,
 Bucureşti, 1964, with additions).
 
-
-![Teza doctorat]({{ "/assets/images/Teza doctorat.jpg" | absolute_url }})<br/>
-*Doctoral dissertation*
-
+{% include figure url="/assets/images/Teza doctorat.jpg"
+   caption="Doctoral dissertation"
+  class="c4-figure float-end img-fluid"
+%}
 
 1. Presqu’île des Balkans. *Annuaire géologique universel (Revue de Géologie et de Paléontologie)*, VIII, 1891, p. 513-521.
 
