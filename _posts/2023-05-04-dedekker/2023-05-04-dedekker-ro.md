@@ -1,6 +1,6 @@
 ---
 title: "The 1897-99 Belgica Expedition<p><em>Patrick DeDekker</em>, Australian National University</p>"
-description: Prelegere organizată la Clubul Casei Universitarilor, str. Emmanuel de Martonne nr 1, Cluj-Napoca, Romania, în data de 4 Mai, 2023 la ora 17:00, in persoană și online.
+description: Prelegere organizată la Clubul Casei Universitarilor, str. Emmanuel de Martonne nr 1, Cluj-Napoca, Romania, în data de <strong>4 mai, 2023 la ora 17:00</strong>, in persoană și online.
 layout: 'post'
 lang: ro
 ref: dedekker-2023
