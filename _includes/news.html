@@ -6,7 +6,7 @@
 
 <ul>
 {% for post in posts %}
-    <li>
+    <li class="py-3">
         {{ post.date | date: site.languages[page.lang].date_format }} » <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
     </li>
 {% endfor %}
