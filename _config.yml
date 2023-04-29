@@ -21,6 +21,9 @@ languages:
 
 # Build settings
 # theme: c4-theme-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 exclude:
