@@ -3,6 +3,7 @@ layout: page
 title: Cronologia
 lang: ro
 ref: history
+banner: banner-biografie.jpg
 ---
 
 # Contributiile lui Emil G. Racoviță

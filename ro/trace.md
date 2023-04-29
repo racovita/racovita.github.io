@@ -2,6 +2,7 @@
 lang: ro
 ref: trace
 title: Pe urmele lui Racoviță
+banner: banner-biografie.jpg
 ---
 
 În construcție.

@@ -2,6 +2,7 @@
 layout: page
 lang: fr
 ref: sponsors
+banner: banner-mission.jpg
 ---
 
 # Égide
@@ -16,5 +17,3 @@ ref: sponsors
 # Partenaires
 
 Être confirmé.
-
-

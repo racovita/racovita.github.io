@@ -3,6 +3,7 @@ layout: page
 title: Publications
 lang: en
 ref: pubs
+banner: banner-biografie.jpg
 ---
 
 # Emil G. Racoviţă's publications
