@@ -2,7 +2,7 @@
 layout: page
 title: Activités
 lang: fr
-banner: banner-generic.jpg
+banner: banner-activitiati.jpg
 ---
 
 {% include activities.html %}

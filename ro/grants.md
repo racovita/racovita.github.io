@@ -2,6 +2,7 @@
 title: Burse
 lang: ro
 ref: grants
+banner: banner-activitati.jpg
 ---
 
 # Cereri

@@ -2,7 +2,7 @@
 layout: page
 title: Activități
 lang: ro
-banner: banner-generic.jpg
+banner: banner-activitati.jpg
 ---
 
 {% include activities.html %}

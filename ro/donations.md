@@ -2,6 +2,7 @@
 title: Donații
 lang: ro
 ref: donations
+banner: banner-donations.jpg
 ---
 
 # Donații
