@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pubs
 title: Publicații
 lang: ro
 ref: pubs
@@ -9,9 +9,9 @@ banner: banner-biografie.jpg
 # Publicaţiile lui Emil G. Racoviţă
 (După Emil Racoviţă, *Opere alese*, Edit. Academiei R.P.R., Bucureşti, 1964, cu completări)
 
-{% include figure url="/assets/images/Teza doctorat.jpg"
+{% include figure url="/assets/images/pubs/Teza doctorat.jpg"
    caption="Teza doctorat"
-  class="c4-figure float-end img-fluid"
+  class="c4-figure-end float-end img-fluid"
 %}
 
 1. Presqu’île des Balkans. *Annuaire géologique universel (Revue de Géologie et de Paléontologie)*, VIII, 1891, p. 513-521.
@@ -110,6 +110,9 @@ banner: banner-biografie.jpg
 
 1. Énumération des grottes visitées, 1909-1911 (4-ème série). Biospeologica XXIV. *Archives de Zoologie expérimentale et générale*, Paris, 5-ème série, IX, 1912, p. 501-667) (în colaborare cu R. Jeannel).
 
+    {% include figure url="/assets/images/pubs/2-Instructiuni-Biospeologica.jpg"
+       class="c4-figure-start float-start img-fluid"
+    %}
 1. *Biospeologica. Instructions pour la récolte et la conservation des biotes cavernicoles et pour la rédaction des données bionomiques nécessaires à leur étude*. Edit. des Archives de Zoologie expérimentale et générale, Paris, 1913, 24 pp.
 
 1. Énumération des grottes visitées, 19111-1913 (5-ème série). Biospeologica XXXIII. *Archives de Zoologie expérimentale et générale*, Paris, LIII, 1914, p. 325-558 (în colaborare cu R. Jeannel).
@@ -160,6 +163,9 @@ banner: banner-biografie.jpg
 
 1. Avant-propos. *Lucrările Institutului de Speologie din Cluj. Travaux de l’Institut de Spéologie de Cluj*, Cluj, I, 1926, p. V-VI.
 
+    {% include figure url="/assets/images/pubs/3-Institutul-de-Speologie.jpg"
+       class="c4-figure-end float-end img-fluid"
+    %}
 1. L’Institut de Spéologie de Cluj et considérations générales sur l’importance, le rôle et l’organisation des instituts de recherches scientifiques. Premier rapport de la direction, période 1920 à 1924. *Lucrările Institutului de Speologie din Cluj. Travaux de l’Institut de Spéologie de Cluj*, Cluj, I, 1926, p. 1-50 + anexe, p. 1-10.
 
 1. *Catalogul revistelor ştiinţifice şi medicale din Cluj. Catalogue des revues scientifiques et médicales de Cluj*. Alcătuit sub direcţia lui E. G. Racoviţă… de către A. Valentiny… Cluj, 1926, XXIV + 455 pp.
@@ -192,6 +198,9 @@ banner: banner-biografie.jpg
 
 1. Raport privind starea şi activitatea Institutului de Speologie. *Anuarul Universităţii din Cluj pe anii şcolari 1925/26 şi 1926/27*, Cluj, 1928, p. 195-197 şi 233-236.
 
+    {% include figure url="/assets/images/pubs/8-buletin.jpg"
+       class="c4-figure-start float-start img-fluid"
+    %}
 1. Cartothèque à classement vertical. Essai pour trouver une méthode rationnelle et pratique de conservation et de manipulation des grandes feuilles sana les détériorer. *Buletinul Societăţii de Ştiinţe din Cluj*, Cluj, IV, 1928, p. 3-19, 6 fig., 1 pl.
 
 1. Idem în: *Lucrările Institutului de Speologie din Cluj. Travaux de l’Institut de Spéologie de Cluj*. Cluj, IV, 1929, No. 54.
@@ -226,6 +235,9 @@ banner: banner-biografie.jpg
 
 1. Cuvântare rostită la inaugurarea mausoleului poetului V. Alecsandri de la Mirceşti. *Anale*, Academia Română, Bucureşti, XLIX, p. 4-6.
 
+    {% include figure url="/assets/images/pubs/6-Enumeration-VII.jpg"
+       class="c4-figure-end float-end img-fluid"
+    %}
 1. Énumération des grottes visitées, 1918-1927 (7-ème série). Biospeologica LIV. *Archives de Zoologie expérimentale et générale*, Paris, 68 (2), 1929, p. 293-608 (în colaborare cu R. Jeannel).
 
 1. *Evoluţia şi problemele ei*. Biblioteca eugenică şi biopolitică a „Astrei”, Cluj, Nr. VI, 1929, 184 pp. + 30 pl.
@@ -282,6 +294,9 @@ banner: banner-biografie.jpg
 
 1. Raport asupra cursului de Biologie generală în anul şcolar 1933-1934, urmat de Comentarii pesimiste asupra pregătirii studenţilor anului I de medicină şi asupra rezultatului examenelor. *Anuarul Universităţii din Cluj pe anul şcolar 1933-1934*, Cluj, 1935, p. 136-141.
 
+    {% include figure url="/assets/images/pubs/5-Evolutia.jpg"
+       class="c4-figure-start float-start img-fluid"
+    %}
 1. Raport privind starea şi activitatea Institutului de Speologie. *Anuarul Universităţii din Cluj pe anul şcolar 1934-1935*, Cluj, 1935, p. 321-325.
 
 1. Avant-propos. *Lucrările Institutului de Speologie din Cluj. Travaux de l’Institut de Spéologie de Cluj*, Cluj, VII, 1936, p. VIII-XII.

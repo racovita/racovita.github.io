@@ -80,16 +80,25 @@
 }
 
 .c4-pubs {
-  li {
-    padding: 1rem;
+  // li {
+  //   margin-left: 2rem;
+  // }
+  // li:nth-child(odd) {
+  //   background: $c4-light-gray;
+  //   color: $c4-dark-gray;
+  // }
+  .c4-figure-start {
+    max-width: 400px;
+    margin-left: 0 !important;
+    padding-left: 0;
+    margin-right: 1rem;
+    padding-right: 1rem;
   }
-  li:nth-child(odd) {
-    background: $c4-light-gray;
-    color: $c4-dark-gray;
-  }
-  .c4-figure {
-    max-width: 300px;
-  }
+  .c4-figure-end {
+    max-width: 400px;
+    margin-right: 0 !important;
+    padding-right: 0;
+    }
 }
 
 .c4-photos-row {

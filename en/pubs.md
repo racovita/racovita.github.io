@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pubs
 title: Publications
 lang: en
 ref: pubs
@@ -10,9 +10,9 @@ banner: banner-biografie.jpg
 (From Emil Racoviţă, *Opere alese* (Selected works), Edit. Academiei R.P.R.,
 Bucureşti, 1964, with additions).
 
-{% include figure url="/assets/images/Teza doctorat.jpg"
+{% include figure url="/assets/images/pubs/Teza doctorat.jpg"
    caption="Doctoral dissertation"
-  class="c4-figure float-end img-fluid"
+  class="c4-figure-end float-end img-fluid"
 %}
 
 1. Presqu’île des Balkans. *Annuaire géologique universel (Revue de Géologie et de Paléontologie)*, VIII, 1891, p. 513-521.
@@ -43,15 +43,15 @@ Bucureşti, 1964, with additions).
 
 1. Sur le rôle des amibocytes chez les Annélides polychètes. Travail fait au laboratoire de Roscoff. Note présentée par M. de Lacaze-Duthiers. *Comptes Rendus des Séances de l’Académie des Sciences*, Paris, CXX, 1895, p. 464-467.
 
-1. Sur la pêche pélagique en profondeur. Note présentée par M. de Lacaze-Duthiers. *Comptes Rendus des Séances de l’Académie des Sciences*, Paris, CXXI, 1895, p. 174-176 (în colaborare cu L. Boutan).
+1. Sur la pêche pélagique en profondeur. Note présentée par M. de Lacaze-Duthiers. *Comptes Rendus des Séances de l’Académie des Sciences*, Paris, CXXI, 1895, p. 174-176 (collaboration with L. Boutan).
 
-1. Matériaux pour la faune des Annélides polychètes de Banyuls. *Archives de Zoologie expérimentale et générale*, Paris, 3-ème série, III, 1895, p. 339-492 (în colaborare cu G. Pruvot).
+1. Matériaux pour la faune des Annélides polychètes de Banyuls. *Archives de Zoologie expérimentale et générale*, Paris, 3-ème série, III, 1895, p. 339-492 (collaboration with G. Pruvot).
 
 1. Contributions à la morphologie de la cellule (Zur Morphologie der Zelle), par Gustav Schloter; − Le Homard de Helgoland, un objet de la pêcherie allemande (Der Helgolander Hummer, ein Gegenstand deutsche Fischerei), par Ernst Ehernbaum; − Sur la formation du mésoderme chez la *Paludina vivipara* (Zur Bildung des Mesoderms bei der *Paludina vivipara*), par R. v. Erlanger; − Contribution à l’histoire naturelle de quelques poissons de l’Elbe (Beiträge zur Naturgeschichte einiger Elbfischer), *Osmerus esperlanus* L., *Clupea finta* Cuv., Acipnser sturio, L., par E. Ebrenbaum; − Un nouvel éclaircissant pour objets inclus au collodion (A new clearer for collodionized objects), par Pierre A. Fisch (recenzii). *Archives de Zoologie expérimentale et générale*, Paris, 3-ème série, II, 1895, Notes et Revue, p. IV-IX.
 
 1. Le lobe céphalique et l’encéphale des Annélides polychètes (Anatomie, Morphologie, Histologie). *Archives de Zoologie expérimentale et générale*, Paris, 3-ème série, IV, 1896, p. 133-343.
 
-1. *Pterospora maldaneorum* n.g. n.sp. Grégarine nouvelle parasite des maldanines. *Bulletin de la Société Zoologique de France*, Paris, XXII, 1897, p. 92-92 (în colaborare cu A. Labbé).
+1. *Pterospora maldaneorum* n.g. n.sp. Grégarine nouvelle parasite des maldanines. *Bulletin de la Société Zoologique de France*, Paris, XXII, 1897, p. 92-92 (collaboration with A. Labbé).
 
 1. Expédition Antarctique Belge. La vie des animaux et des plantes en Antarctique. Conférence faite à la Société belge de Géographie. *Bulletin de la Société belge de Géographie*, Bruxelles, XXIV, 1900, p. 1-59, 17 fig.
 
@@ -87,7 +87,7 @@ Bucureşti, 1964, with additions).
 
 1. Essai sur les problèmes biospéologiques. Biospeologica I. *Archives de Zoologie expérimentale et générale*, Paris, 4-ème série, VI, 1907, p. 371-488.
 
-1. Énumération des grottes visitées, 1904-1906, (1-ère série). Biospeologica II. *Archives de Zoologie expérimentale et générale*, Paris, 4-ème série, VI, 1907, p. 489-536 (în colaborare cu R. Jeannel).
+1. Énumération des grottes visitées, 1904-1906, (1-ère série). Biospeologica II. *Archives de Zoologie expérimentale et générale*, Paris, 4-ème série, VI, 1907, p. 489-536 (collaboration with R. Jeannel).
 
 1. *Spelaeoniscus Debrugei* n.g. n.sp. Isopode terrestre cavernicole d’Algérie. Note préliminaire. *Archives de Zoologie expérimentale et générale*, Paris, 4-ème série, VII, 1907, Notes et Revue, p. LXIX-LXXVII, p. fig.
 
@@ -95,7 +95,7 @@ Bucureşti, 1964, with additions).
 
 1. *Anoplocopea Hanseni*, n.sp. Isopode marin de Corse et les affinités des Sphaeromiens cavernicoles Notes préliminaire. *Archives de Zoologie expérimentale et générale*, Paris, 4-ème série, VIII, 1908, Notes et Revue, p. LXXXIV-XC, 1 fig.
 
-1. Énumération des grottes visitées, 1906-1907 (2-ème série). Biospeologica VI. *Archives de Zoologie expérimentale et générale*, Paris, 4-ème série, VIII, 1908, p. 327-414 (în colaborare cu R. Jeannel).
+1. Énumération des grottes visitées, 1906-1907 (2-ème série). Biospeologica VI. *Archives de Zoologie expérimentale et générale*, Paris, 4-ème série, VIII, 1908, p. 327-414 (collaboration with R. Jeannel).
 
 1. *Ischyromene Lacazei*, n.g. n.s.p. Isopode méditerranéen de la famille des Sphéromidés (avec 1 fig.). *Archives de Zoologie expérimentale et générale*, Paris, 4-ème série, IX, 1908, Notes et Revue, p. LX-LXIV, 2 fig.
 
@@ -103,19 +103,22 @@ Bucureşti, 1964, with additions).
 
 1. Sphéromiens (1-ère série) et révision des Monolistrini (Isopodes sphéromiens). Biospeologica XIII. *Archives de Zoologie expérimentale et générale*, Paris, 5-ème série, IV, 1910, p. 625-758, 14 pl.
 
-1. Énumération des grottes visitées, 1908-1909 (3-ème série). Biospeologica XVI. *Archives de Zoologie expérimentale et générale*, Paris, 5-ème série, V, 1910, p. 67-485 (în colaborare cu R. Jeannel).
+1. Énumération des grottes visitées, 1908-1909 (3-ème série). Biospeologica XVI. *Archives de Zoologie expérimentale et générale*, Paris, 5-ème série, V, 1910, p. 67-485 (collaboration with R. Jeannel).
 
-1. *Proidotea Haugi* n.g. n.sp. Isopode terrestre de Roumanie et les Mesidoteini. Nouvelle sous-famille des Idotheidae. *Archives de Zoologie expérimentale et générale*, Paris, 5-ème série, VI, 1910, p. 175-200, 18 fig., pl. IX-X (în colaborare cu R. Sevastos).
+1. *Proidotea Haugi* n.g. n.sp. Isopode terrestre de Roumanie et les Mesidoteini. Nouvelle sous-famille des Idotheidae. *Archives de Zoologie expérimentale et générale*, Paris, 5-ème série, VI, 1910, p. 175-200, 18 fig., pl. IX-X (collaboration with R. Sevastos).
 
 1. Cirolanides (1-ère série). Biospeologica XXVII. *Archives de Zoologie expérimentale et générale*, Paris, 5-ème série, IX, 1912, p.203-329, 8 fig., 14 pl.
 
-1. Énumération des grottes visitées, 1909-1911 (4-ème série). Biospeologica XXIV. *Archives de Zoologie expérimentale et générale*, Paris, 5-ème série, IX, 1912, p. 501-667) (în colaborare cu R. Jeannel).
+1. Énumération des grottes visitées, 1909-1911 (4-ème série). Biospeologica XXIV. *Archives de Zoologie expérimentale et générale*, Paris, 5-ème série, IX, 1912, p. 501-667 (collaboration with R. Jeannel).
 
+    {% include figure url="/assets/images/pubs/2-Instructiuni-Biospeologica.jpg"
+       class="c4-figure-start float-start img-fluid"
+    %}
 1. *Biospeologica. Instructions pour la récolte et la conservation des biotes cavernicoles et pour la rédaction des données bionomiques nécessaires à leur étude*. Edit. des Archives de Zoologie expérimentale et générale, Paris, 1913, 24 pp.
 
-1. Énumération des grottes visitées, 19111-1913 (5-ème série). Biospeologica XXXIII. *Archives de Zoologie expérimentale et générale*, Paris, LIII, 1914, p. 325-558 (în colaborare cu R. Jeannel).
+1. Énumération des grottes visitées, 19111-1913 (5-ème série). Biospeologica XXXIII. *Archives de Zoologie expérimentale et générale*, Paris, LIII, 1914, p. 325-558 (collaboration with R. Jeannel).
 
-1. Énumération des grottes visitées, 19111-1913 (6-ème série). Biospeologica XXXIX. *Archives de Zoologie expérimentale et générale*, Paris, LVII, 1918, p. 203-470 (în colaborare cu R. Jeannel).
+1. Énumération des grottes visitées, 19111-1913 (6-ème série). Biospeologica XXXIX. *Archives de Zoologie expérimentale et générale*, Paris, LVII, 1918, p. 203-470 (collaboration with R. Jeannel).
 
 1. Notes sur les Isopodes. − 1.  *Asellus aquaticus* auct. est une erreur taxonomique. − 2. *Asellus aquaticus* et *A. meridionalis* n.sp. *Archives de Zoologie expérimentale et générale*, Paris, LVIII, 1919, Notes et Revue, no. 2, p. 31-43, 12 fig.
 
@@ -161,7 +164,10 @@ Bucureşti, 1964, with additions).
 
 1. Avant-propos. *Lucrările Institutului de Speologie din Cluj. Travaux de l’Institut de Spéologie de Cluj*, Cluj, I, 1926, p. V-VI.
 
-1. L’Institut de Spéologie de Cluj et considérations générales sur l’importance, le rôle et l’organisation des instituts de recherches scientifiques. Premier rapport de la direction, période 1920 à 1924. *Lucrările Institutului de Speologie din Cluj. Travaux de l’Institut de Spéologie de Cluj*, Cluj, I, 1926, p. 1-50 + anexe, p. 1-10.
+    {% include figure url="/assets/images/pubs/3-Institutul-de-Speologie.jpg"
+       class="c4-figure-end float-end img-fluid"
+    %}
+1. L’Institut de Spéologie de Cluj et considérations générales sur l’importance, le rôle et l’organisation des instituts de recherches scientifiques. Premier rapport de la direction, période 920 à 1924. *Lucrările Institutului de Speologie din Cluj. Travaux de l’Institut de Spéologie de Cluj*, Cluj, I, 1926, p. 1-50 + anexe, p. 1-10.
 
 1. *Catalogul revistelor ştiinţifice şi medicale din Cluj. Catalogue des revues scientifiques et médicales de Cluj*. Alcătuit sub direcţia lui E. G. Racoviţă… de către A. Valentiny… Cluj, 1926, XXIV + 455 pp.
 
@@ -193,6 +199,9 @@ Bucureşti, 1964, with additions).
 
 1. Raport privind starea şi activitatea Institutului de Speologie. *Anuarul Universităţii din Cluj pe anii şcolari 1925/26 şi 1926/27*, Cluj, 1928, p. 195-197 şi 233-236.
 
+    {% include figure url="/assets/images/pubs/8-buletin.jpg"
+       class="c4-figure-start float-start img-fluid"
+    %}
 1. Cartothèque à classement vertical. Essai pour trouver une méthode rationnelle et pratique de conservation et de manipulation des grandes feuilles sana les détériorer. *Buletinul Societăţii de Ştiinţe din Cluj*, Cluj, IV, 1928, p. 3-19, 6 fig., 1 pl.
 
 1. Idem în: *Lucrările Institutului de Speologie din Cluj. Travaux de l’Institut de Spéologie de Cluj*. Cluj, IV, 1929, No. 54.
@@ -227,7 +236,10 @@ Bucureşti, 1964, with additions).
 
 1. Cuvântare rostită la inaugurarea mausoleului poetului V. Alecsandri de la Mirceşti. *Anale*, Academia Română, Bucureşti, XLIX, p. 4-6.
 
-1. Énumération des grottes visitées, 1918-1927 (7-ème série). Biospeologica LIV. *Archives de Zoologie expérimentale et générale*, Paris, 68 (2), 1929, p. 293-608 (în colaborare cu R. Jeannel).
+    {% include figure url="/assets/images/pubs/6-Enumeration-VII.jpg"
+       class="c4-figure-end float-end img-fluid"
+    %}
+1. Énumération des grottes visitées, 1918-1927 (7-ème série). Biospeologica LIV. *Archives de Zoologie expérimentale et générale*, Paris, 68 (2), 1929, p. 293-608 (collaboration with R. Jeannel).
 
 1. *Evoluţia şi problemele ei*. Biblioteca eugenică şi biopolitică a „Astrei”, Cluj, Nr. VI, 1929, 184 pp. + 30 pl.
 
@@ -275,6 +287,9 @@ Bucureşti, 1964, with additions).
 
 1. Raport asupra cursului de Biologie generală în anul şcolar 1932-1933, urmat de Comentarii pesimiste asupra pregătirii studenţilor anului I de medicină şi asupra rezultatului examenelor. *Anuarul Universităţii din Cluj pe anul şcolar 1932-1933*, Cluj, 1934, p. 114-120.
 
+    {% include figure url="/assets/images/pubs/5-Evolutia.jpg"
+       class="c4-figure-start float-start img-fluid"
+    %}
 1. Raport privind starea şi activitatea Institutului de Speologie. *Anuarul Universităţii Regele Ferdinand I Cluj pe anul şcolar 1932/1933*, Cluj, 1933, p. 269-275 şi 293-294.
 
 1. Monumentele naturii. Definiţii, clasificare, norme de alcătuirea legii. Cam ce trebue făcut şi ce trebue evitat. O expunere sumară. *Buletinul Comisiunii Monumentelor Naturii*, Cluj, II, 1934, p. 4-7.
