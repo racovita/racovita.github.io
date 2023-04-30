@@ -18,15 +18,24 @@
         {%- include menu.html -%}
       </div>
       <div class="col-sm-1 pt-lg-3 pt-md-0 m-0 gx-5 ms-auto postion-relative">
-      <select class="nav nav-item pt-0 form-select position-absolute end-0" onchange="location = this.value;">
-        <!-- Link on click (full page re-render), but keep the currently selected page as the active option on the menu. -->
-      	{%- assign languages = "en, ro, fr" | split: ", " -%}
-      	{%- for lang in languages -%}
-          {%- assign url = page.url | replace_first: "/" + page.lang, "/" + lang -%}
-        	{%- assign exists = site.html_pages | where_exp:"item", "item.url == url" -%}
-        	{%- unless exists.size > 0 -%}
-        	{%- assign url = "/" | append: lang | append: "/index.html" -%}
-        	{%- endunless %}
+        <!-- Pages: -->
+        {% for p in site.posts %}
+        <!-- {{ p.url }}-->
+        {% endfor %}
+
+        <select class="nav nav-item pt-0 form-select position-absolute end-0" onchange="location = this.value;">
+          <!-- Link on click (full page re-render), but keep the currently selected page as the active option on the menu. -->
+          {%- assign languages = "en, ro, fr" | split: ", " -%}
+          {%- for lang in languages -%}
+            {%- assign url = page.url | replace_first: "/" + page.lang, "/" + lang -%}
+            {%- assign is_page = site.html_pages | where_exp:"item", "item.url == url" -%}
+            {%- unless is_page.size > 0 -%}
+              {%- assign url = page.url | replace: page.lang + ".html", lang + ".html" -%}
+              {%- assign is_post = site.posts | where_exp:"item", "item.url == url" -%}
+              {%- unless is_post.size > 0 -%}
+                {%- assign url = "/" | append: lang | append: "/index.html" -%}
+              {%- endunless %}
+            {%- endunless %}
           <option  {% if page.lang == lang %} selected {% endif %} value="{{ url | replace_first: page.lang, lang }}">{{ site.data.xlate.lang_name[lang] }}</option>
 	      {%- endfor -%}
       </select>
