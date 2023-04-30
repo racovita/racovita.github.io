@@ -79,6 +79,25 @@
     }
 }
 
+.c4-list {
+  ul {
+    list-style-type: none;
+  }
+}
+
+.c4-shaded-list {
+  ul {
+    list-style-type: none;
+  }
+  // li {
+  //   margin-left: 2rem;
+  // }
+  li:nth-child(odd) {
+    background: $c4-light-gray;
+    color: $c4-dark-gray;
+  }
+}
+
 .c4-pubs {
   // li {
   //   margin-left: 2rem;
