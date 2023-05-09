@@ -1,15 +1,17 @@
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+{% if page.keywords -%}
+<meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}" />
+{%- endif %}
 {%- seo -%}
 {%- feed_meta -%}
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" type="text/css" href="{{ '/assets/vendor/fontawesome-free-6.2.1-web/css/fontawesome.min.css' | relative_url }}">
-<link rel="stylesheet" type="text/css" href="{{ '/assets/vendor/fontawesome-free-6.2.1-web/css/brands.min.css' | relative_url }}">
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" type="text/css" href="{{ '/assets/vendor/fontawesome-free-6.2.1-web/css/fontawesome.min.css' | relative_url }}" />
+<link rel="stylesheet" type="text/css" href="{{ '/assets/vendor/fontawesome-free-6.2.1-web/css/brands.min.css' | relative_url }}" />
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
 
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}
