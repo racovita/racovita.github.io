@@ -4,8 +4,14 @@
   <div class="row p-5 g-5">
   {%- for post in posts -%}
       <div class="card border-light col-lg-6 col-md-12 col-sm-12 px-5 gx-5">
-        {% if post.banner %}
-          <img src="{{ post.banner }}"
+        {% assign postDate = post.date | date: "%Y%m%d" %}
+        {% assign cardName = "/assets/images/cards/post-" | append: postDate | append: ".jpg" %}
+        {% assign cardImg = site.static_files | where_exp:"file", "file.path == cardName" %}
+        {% unless cardImg %}
+          {% assign cardName = post.banner %}
+        {% endunless %}
+        {% if cardImg.size > 0 %}
+          <img src="{{ cardName }}"
                class="ratio ratio-21x9 card-img-top img-fluid"
                alt="{{ post.title }}">
         {% endif %}
