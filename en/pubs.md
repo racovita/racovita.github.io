@@ -47,6 +47,9 @@ Bucureşti, 1964, with additions).
 
 1. Matériaux pour la faune des Annélides polychètes de Banyuls. *Archives de Zoologie expérimentale et générale*, Paris, 3-ème série, III, 1895, p. 339-492 (collaboration with G. Pruvot).
 
+    {% include figure url="/assets/images/pubs/2-Instructiuni-Biospeologica.jpg"
+       class="c4-figure-start float-start img-fluid"
+    %}
 1. Contributions à la morphologie de la cellule (Zur Morphologie der Zelle), par Gustav Schloter; − Le Homard de Helgoland, un objet de la pêcherie allemande (Der Helgolander Hummer, ein Gegenstand deutsche Fischerei), par Ernst Ehernbaum; − Sur la formation du mésoderme chez la *Paludina vivipara* (Zur Bildung des Mesoderms bei der *Paludina vivipara*), par R. v. Erlanger; − Contribution à l’histoire naturelle de quelques poissons de l’Elbe (Beiträge zur Naturgeschichte einiger Elbfischer), *Osmerus esperlanus* L., *Clupea finta* Cuv., Acipnser sturio, L., par E. Ebrenbaum; − Un nouvel éclaircissant pour objets inclus au collodion (A new clearer for collodionized objects), par Pierre A. Fisch (recenzii). *Archives de Zoologie expérimentale et générale*, Paris, 3-ème série, II, 1895, Notes et Revue, p. IV-IX.
 
 1. Le lobe céphalique et l’encéphale des Annélides polychètes (Anatomie, Morphologie, Histologie). *Archives de Zoologie expérimentale et générale*, Paris, 3-ème série, IV, 1896, p. 133-343.
@@ -77,6 +80,9 @@ Bucureşti, 1964, with additions).
 
 1. Note sur le Grand Serpent de Mer, *Megophias megophias* (Rafinesque). À propos d’une observation de M. Lagrésille, faite en 1898 dans les mers du Tonkin. *Bulletin de la Société Zoologique de France*, Paris, XXVIII, 1903, p. 11-29.
 
+    {% include figure url="/assets/images/pubs/3-Institutul-de-Speologie.jpg"
+       class="c4-figure-end float-end img-fluid"
+    %}
 1. Comptes rendus bibliographiques. II. Valery Mayet– Catalogue raisonné des Reptiles et Batraciens de la Tunisie (*Exploration scientifique de la Tunisie. Zoologie, Reptiles et Batraciens. Paris Imprimerie Nationale*, 1903, 32p.). III. International catalogue of scientific literature. L. General Biology [*London, Published for the International council by the Royal Scientific of London*, Vol. XVI, August 1903, XIII + 144 p.] (recenzii). *Archives de Zoologie expérimentale et générale*, 4-ème série, II, 1903, Notes et Revue, p. XV-XVI.
 
 1. Observations sur un banc d’anchois, *Engraulis encrassicolus* (L.), rencontré près de l’Ile Cabrera (Baléares). *Bulletin de la Société Zoologique de France*, Paris, XXIX, 1904, p. 211-218.
@@ -111,9 +117,6 @@ Bucureşti, 1964, with additions).
 
 1. Énumération des grottes visitées, 1909-1911 (4-ème série). Biospeologica XXIV. *Archives de Zoologie expérimentale et générale*, Paris, 5-ème série, IX, 1912, p. 501-667 (collaboration with R. Jeannel).
 
-    {% include figure url="/assets/images/pubs/2-Instructiuni-Biospeologica.jpg"
-       class="c4-figure-start float-start img-fluid"
-    %}
 1. *Biospeologica. Instructions pour la récolte et la conservation des biotes cavernicoles et pour la rédaction des données bionomiques nécessaires à leur étude*. Edit. des Archives de Zoologie expérimentale et générale, Paris, 1913, 24 pp.
 
 1. Énumération des grottes visitées, 19111-1913 (5-ème série). Biospeologica XXXIII. *Archives de Zoologie expérimentale et générale*, Paris, LIII, 1914, p. 325-558 (collaboration with R. Jeannel).
@@ -128,6 +131,9 @@ Bucureşti, 1964, with additions).
 
 1.  Idem în: *Lucrările Institutului de Speologie din Cluj. Travaux de l’Institut de Spéologie de Cluj*, Cluj, I, 1926, No. 8.
 
+    {% include figure url="/assets/images/pubs/8-buletin.jpg"
+       class="c4-figure-start float-start img-fluid"
+    %}
 1. Notes sur les Isopodes − 6. *Asellus communis* Say. − 7. Les pléopodes I et II des Asellides: morphologie et développement. *Archives de Zoologie expérimentale et générale*, Paris, LVIII, 1920, Notes et Revue, no. 4, p. 79-115, 84 fig.
 
 1. Notes sur les Isopodes. − 8. *Mancasellus tenax* (Smith). − 9. *Mancasellus macruris* German. *Archives de Zoologie expérimentale et générale*, Paris, LIV, 1920, Notes et Revue, no. 2, p. 28-66. 124 fig.
@@ -164,11 +170,11 @@ Bucureşti, 1964, with additions).
 
 1. Avant-propos. *Lucrările Institutului de Speologie din Cluj. Travaux de l’Institut de Spéologie de Cluj*, Cluj, I, 1926, p. V-VI.
 
-    {% include figure url="/assets/images/pubs/3-Institutul-de-Speologie.jpg"
-       class="c4-figure-end float-end img-fluid"
-    %}
 1. L’Institut de Spéologie de Cluj et considérations générales sur l’importance, le rôle et l’organisation des instituts de recherches scientifiques. Premier rapport de la direction, période 920 à 1924. *Lucrările Institutului de Speologie din Cluj. Travaux de l’Institut de Spéologie de Cluj*, Cluj, I, 1926, p. 1-50 + anexe, p. 1-10.
 
+    {% include figure url="/assets/images/pubs/9-Congresul-Naturalistilor.jpg"
+       class="c4-figure-end float-end img-fluid"
+    %}
 1. *Catalogul revistelor ştiinţifice şi medicale din Cluj. Catalogue des revues scientifiques et médicales de Cluj*. Alcătuit sub direcţia lui E. G. Racoviţă… de către A. Valentiny… Cluj, 1926, XXIV + 455 pp.
 
 1. Raport asupra lucrării „Botanica farmaceutică” de Col. Gh. Grinţescu, distinsă cu o parte din premiul Adamachi. Şedinţa de la 11 iunie 1926. *Anale*, Academia Română, Bucureşti, XLVI, 1926, p. 186-187.
@@ -199,9 +205,6 @@ Bucureşti, 1964, with additions).
 
 1. Raport privind starea şi activitatea Institutului de Speologie. *Anuarul Universităţii din Cluj pe anii şcolari 1925/26 şi 1926/27*, Cluj, 1928, p. 195-197 şi 233-236.
 
-    {% include figure url="/assets/images/pubs/8-buletin.jpg"
-       class="c4-figure-start float-start img-fluid"
-    %}
 1. Cartothèque à classement vertical. Essai pour trouver une méthode rationnelle et pratique de conservation et de manipulation des grandes feuilles sana les détériorer. *Buletinul Societăţii de Ştiinţe din Cluj*, Cluj, IV, 1928, p. 3-19, 6 fig., 1 pl.
 
 1. Idem în: *Lucrările Institutului de Speologie din Cluj. Travaux de l’Institut de Spéologie de Cluj*. Cluj, IV, 1929, No. 54.
