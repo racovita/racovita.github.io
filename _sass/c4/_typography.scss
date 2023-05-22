@@ -253,6 +253,14 @@ hr.invisible {
   float: right;
 }}
 
+a {
+  color: $c4-default-text;
+}
+
+a:hover {
+  color: $c4-light-hover;
+}
+
 /***** #CODE *****/
 pre {
 	border-radius:0;
