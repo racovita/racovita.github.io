@@ -19,11 +19,6 @@
         {%- include menu.html -%}
       </div>
       <div class="col-sm-1 pt-lg-3 pt-md-0 m-0 gx-5 ms-auto postion-relative">
-        <!-- Pages: -->
-        {% for p in site.posts %}
-        <!-- {{ p.url }}-->
-        {% endfor %}
-
         <select class="nav nav-item pt-0 form-select position-absolute end-0" onchange="location = this.value;">
           <!-- Link on click (full page re-render), but keep the currently selected page as the active option on the menu. -->
           {%- assign languages = "en, ro, fr" | split: ", " -%}
