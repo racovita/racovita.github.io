@@ -38,3 +38,4 @@ exclude:
   - _site
   - \.\#*.html
   - \#*.html
+  - photos.cocatalog

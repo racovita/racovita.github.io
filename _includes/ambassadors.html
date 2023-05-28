@@ -1,0 +1,15 @@
+<div class="container align-items-center">
+  <div class="row p-5 g-5">
+  {%- for person in site.data.ambassadors -%}
+      <div class="card border-light col-lg-6 col-md-12 col-sm-12 px-5 gx-5">
+          <img src="{{ person.photo }}"
+             class="rounded-circle card-img-top"
+               alt="{{ card.alt }}">
+        <div class="card-body">
+          <h2 class="card-title fw-bold text-uppercase">{{ person.name }}</h2>
+          <p class="card-text">{{ person.bio[page.lang] }}</p>
+        </div>
+      </div>
+  {%- endfor -%}
+  </div>
+</div>

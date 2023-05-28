@@ -1,9 +1,9 @@
 ---
-title: Ambassadors
 layout: page
-lang: en
+lang: fr
+title: Ambassadeurs
 ref: promoters
 banner: banner-mission.jpg
 ---
 
-Under construction.
+{% include ambassadors.html %}
