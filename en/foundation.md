@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Despre fundație
+title: About the Foundation
 lang: en
 banner: banner-foundation.jpg
 ---
