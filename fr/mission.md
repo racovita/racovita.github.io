@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: flow
 title: Mission
 lang: fr
 banner: banner-mission.jpg
@@ -7,14 +7,15 @@ ref: about
 ---
 
 ## MISSION
-{: .text-uppercase}
+{: .c4-section-title .border-start .border-2 .border-dark}
+
 
 La mission de la fondation est de créer un réseau de collaboration internationale, appelé Rețeaua Racoviță, pour la recherche dans le domaine de la conservation de la nature et de l'environnement. Le réseau réunira des chercheurs, des explorateurs, et des supporters pour travailler sur des projets créés sur les principes scientifiques et éthiques établis par Emil G. Racoviță.
 
 ## Fins
-{: .text-uppercase}
+{: .c4-section-title .border-start .border-2 .border-dark}
 
-Les principaux buts de la fondation sont:
+<!-- Les principaux buts de la fondation sont: -->
 
 1. Honorez le patrimoine scientifique du savant Emil G. Racoviță.
 1. Renforcer la visibilité internationale des travaux scientifiques de Racoviță.
@@ -22,7 +23,7 @@ Les principaux buts de la fondation sont:
 1. L'intégration des traités et conventions internationales liées aux environnements extrêmes où la Roumanie est partenaire, par exemple, le [Comité Scientifique pour la Recherche Antarctique (SCAR)](https://council.science/events/2023-scar-sc-hass/) dans des projets de recherche.
 
 ## OBJECTIFS
-{: .text-uppercase}
+{: .c4-section-title .border-start .border-2 .border-dark}
 
 ### Objectifs scientifiques
 

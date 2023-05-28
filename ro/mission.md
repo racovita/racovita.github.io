@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: flow
 title: Misiunea
 banner: banner-mission.jpg
 lang: ro
@@ -7,15 +7,18 @@ ref: about
 ---
 
 ## Misiune
-{: .text-uppercase}
+{: .c4-section-title .border-start .border-2 .border-dark}
 
 Misiunea Fundației este să formeze o rețea internațională de colaborare de excelență în cercetarea de frontieră și protejarea mediile naturale extreme - denumită Rețeaua Racoviță.
 Ea va uni cercetători, exploratori și susținători români și străini in cadrul unor proiecte bazate pe principiile etice și științifice ale savantului Emil G. Racoviță.
 
 ## Scopuri
-{: .text-uppercase}
+{: .c4-section-title .border-start .border-2 .border-dark}
 
+<!--
 Scopurile principale ale fundației sunt:
+{: .px-0 .gx-0}
+-->
 
 1. Onorarea moștenirii științifice a savantului Emil G. Racoviță.
 2. Întărirea vizibilității academice internaționale a savantului.
@@ -23,7 +26,7 @@ Scopurile principale ale fundației sunt:
 4. Integrarea tratatelor și convențiilor internaționale în care România este parte și care privesc și mediile extreme, cum ar fi de exemplu [Comitetul Ştiinţific pentru Cercetări Antarctice (SCAR)](https://council.science/events/2023-scar-sc-hass/), în proiecte de cercetare.
 
 ## Obiective
-{: .text-uppercase}
+{: .c4-section-title .border-start .border-2 .border-dark}
 
 ### Obiective științifice
 

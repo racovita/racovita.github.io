@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: flow
 title: Mission
 lang: en
 banner: banner-mission.jpg
@@ -7,14 +7,15 @@ ref: about
 ---
 
 # Mission
-{: .text-uppercase}
+{: .c4-section-title .border-start .border-2 .border-dark}
+
 
 The mission of the foundation is to create an international collaboration network, called Racoviță Network, for cutting-edge research in nature conservation and environment. The Network will bring together researchers, explorers, and supporters to work on projects created on the scientific and ethics principles established by Emil G. Racoviță.
 
 ## Goals
-{: .text-uppercase}
+{: .c4-section-title .border-start .border-2 .border-dark}
 
-The main goals of the foundation are:
+<!-- The main goals of the foundation are: -->
 
 1. Honor the scientific patrimony of the scientist Emil G. Racoviță.
 2. Improve the international visibility of Racoviță's scientific work.
@@ -22,7 +23,7 @@ The main goals of the foundation are:
 4. The integration of international treaties and conventions related to extreme environments where Romania is a partner, for example, the [Scientific Committee on Antarctic Research (SCAR)](https://council.science/events/2023-scar-sc-hass/) into research projects.
 
 ## Objectives
-{: .text-uppercase}
+{: .c4-section-title .border-start .border-2 .border-dark}
 
 ### Scientific Objectives
 
