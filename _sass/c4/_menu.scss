@@ -29,7 +29,7 @@
         	padding:38px 3px 5px 3px;
         	margin: 0 12px 17px 12px;
         	border-bottom: 2px solid rgba(45,78,83,0);
-        	color:#4b4e53;
+        	color:$c4-dark-gray;
           letter-spacing:2px;
           background-color: transparent;
 
@@ -97,7 +97,7 @@
       padding:38px 3px 5px 3px;
       margin: 0 12px 17px 12px;
       border-bottom: 2px solid rgba(45,78,83,0);
-      color:#4b4e53;
+      color:$c4-dark-gray;
       letter-spacing:2px;
       background-color: transparent;
 
@@ -185,7 +185,7 @@
   }
   .sub {
     a {
-      color: #d3d3d3;
+      color: $c4-med-light-gray;
       display: block;
       text-decoration: none;
       min-width: 160px;

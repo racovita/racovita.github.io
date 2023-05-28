@@ -12,10 +12,10 @@
     margin: 0;
 
     .photo-caption {
-        background:#303236;
-        color: #fff;
+        background:$dropdown-dark-bg;
+        color: $c4-white;
         > h4 {
-            color: #fff;
+            color: $c4-white;
             margin-top: 0px;
             overflow: hidden;
         }
@@ -68,11 +68,11 @@
     }
 
     .photo-caption {
-        background:#303236;
-        color: #fff;
+        background:$dropdown-dark-bg;
+        color: $c4-white;
         text-align: center;
         > h4 {
-            color: #fff;
+            color: $c4-white;
             margin-top: 0px;
             overflow: hidden;
         }
@@ -125,7 +125,7 @@
   justify-content: center;
   a {
        text-decoration: none;
-       color: #777;
+       color: $c4-default-text;
   }
   // .c4-photo {
       // height: 500px;
@@ -209,7 +209,7 @@
 }
 
 .c4-photo-caption {
-  color: #d5000d;
+  color: $c4-dark-red;
   text-align: left;
 }
 
