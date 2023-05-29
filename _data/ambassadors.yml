@@ -1,4 +1,9 @@
 - name: Patrick De Dekker
+  photo: /assets/images/ambassadors/dedekker.jpg
+  position:
+    en: Honorary Member
+    fr: Membre honoraire
+    ro: Membru de onoare
   bio:
     en: "Patrick De Deckker is a geologist with a doctorate in zoology.
          He was educated in Belgium, Switzerland and Australia.
@@ -45,4 +50,4 @@
          în mostre de gheață Antarctice. Patrick a publicat mai mult de 250 de articole
          științifice in jurnale internationale si a editat 8 carti si volume de jurnale.
          Patrick este fellow al Academiei de Științe a Australiei."
-  photo: /assets/images/ambassadors/dedekker.jpg
+
