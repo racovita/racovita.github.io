@@ -20,6 +20,15 @@
             overflow: hidden;
         }
     }
+    .black-photo-caption {
+        background: $c4-black;
+        color: $c4-white;
+        > h4 {
+            color: $c4-white;
+            margin-top: 0px;
+            overflow: hidden;
+        }
+    }
 }
 
 .c4-section  {

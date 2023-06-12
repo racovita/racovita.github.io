@@ -28,10 +28,13 @@ layout: default
       <p><em>"{{ section.contents[page.lang] }}"</em></p>
     </div>
     <div class="col-lg-1 col-md-0 col-md-0">&nbsp;</div>
-    <div class="c4-feature-img col-lg-6 col-md-12 px-0">
+    <figure class="c4-feature-img col-lg-6 col-md-12 px-0">
       <img src="/assets/images/Racovita-pe-Belgica-front-page.jpg"
            class="img-fluid">
-    </div>
+      <figcaption class="black-photo-caption text-uppercase p-3">
+           {{ section.caption[page.lang] }}
+      </figcaption>
+    </figure>
   </div>
 </div>
 
