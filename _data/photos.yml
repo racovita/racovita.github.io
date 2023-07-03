@@ -35,150 +35,150 @@
       ro: "Emil Racoviţă în braţe cu un pinguin prins pe banchiză."
       en: "Emil Racoviţă holding a penguin on the ice shelf."
       file: "2-3-Antarctica---50.jpg"
-    - an02:
-      ro: "Pregătirea apei de băut la bordul corăbiei."
-      en: "Making potable water aboard the ship."
-      file: "Antarctica - 02.jpg"
-    - an03:
-      ro: "Fisură deschisă în banchiză de curenţii oceanici (Foto F. Cook, 1899)."
-      en: "Ice shelf opening (Photo by F. Cook, 1899)."
-      file: "Antarctica - 03.jpg"
-    - an04:
-      ro: "Hummock (Foto F. Cook, 1899)."
-      en: "Hummock (Photo F. Cook, 1899)."
-      file: "Antarctica - 04.jpg"
     - an05:
       ro: "H. Arctowski şi R. Amundsen în careul ofiţerilor (Foto F. Cook, 1899)."
       en: "H. Arctowski and R. Amundsen in the officers mess (Photo by F. Cook, 1899)"
-      file: "Antarctica - 05.jpg"
+      file: "3-1-Antarctica---05.jpg"
     - an06:
       ro: "„Belgica” devenită prizonieră a gheţurilor antarctice (Foto F. Cook, 1899)."
       en: "Belgica caught in the Antarctic ice shelf (Photo by F. Cook, 1899)."
-      file: "Antarctica - 06.jpg"
+      file: "3-2-Antarctica---06.jpg"
     - an07:
       ro: "Capul van Beneden (Foto: F. Cook)."
       en: "Cape van Benden (Photo by F. Cook)."
-      file: "Antarctica - 07.jpg"
+      file: "3-3-Antarctica---07.jpg"
+    - an03:
+      ro: "Fisură deschisă în banchiză de curenţii oceanici (Foto F. Cook, 1899)."
+      en: "Ice shelf opening (Photo by F. Cook, 1899)."
+      file: "4-1-Antarctica---03.jpg"
+    - an02:
+      ro: "Pregătirea apei de băut la bordul corăbiei."
+      en: "Making potable water aboard the ship."
+      file: "4-2-Antarctica---02.jpg"
+    - an04:
+      ro: "Hummock (Foto F. Cook, 1899)."
+      en: "Hummock (Photo F. Cook, 1899)."
+      file: "4-3-Antarctica---04.jpg"
     - an08:
       ro: "Canal navigabil deschis în banchiză (Foto F. Cook, 1899)."
       en: "Sailable Ice sheet opening (Photo by F. Cook, 1899)."
-      file: "Antarctica - 08.jpg"
+      file: "5-1-Antarctica---08.jpg"
     - an09:
       ro: "„Belgica” în lumina lunii (Foto A. de Gerlache şi F. Cook)."
       en: "Belgica in the moon light (Photo by A. de Gerlache and F. Cook)."
-      file: "Antarctica - 09.jpg"
+      file: "5-2-Antarctica---09.jpg"
     - an11:
       ro: "Marginea banchize oglindită în apa oceanului."
       en: "Ice shelf boundary mirrored in the ocean."
-      file: "Antarctica - 11.jpg"
-    - an13:
-      ro: "Frederick Cook la sfârşitul expediţiei."
-      en: "Frederick Cook at the end of the expedition."
-      file: "Antarctica - 13.jpg"
+      file: "5-3-Antarctica---11.jpg"
     - an15:
       ro: "E. Racoviţă în laboratorul său de pe „Belgica” (Foto F. Cook)."
       en: "E. Racoviţă in his lab aboard Belgica (Photo by F. Cook)."
-      file: "Antarctica - 15.jpg"
+      file: "6-1-Antarctica---15.jpg"
     - an16:
       ro: "Săparea canalul artificial (Foto F. Cook)."
       en: "Ice cutting to open a channel for Belgica (Photo by F. Cook.)"
-      file: "Antarctica - 16.jpg"
-    - an17:
-      ro: "H. Arctowski în laboratorul său de pe „Belgica” (Foto F. Cook)."
-      en: "H. Arctowski in his lab aboard Belgica (Photo by F. Cook)."
-      file: "Antarctica - 17.jpg"
-    - an18:
-      ro: "Iceberg prins în banchiză (Foto F. Cook)."
-      en: "Iceberg stuck in the ice shelf (Photo by F. Cook)."
-      file: "Antarctica - 18.jpg"
+      file: "6-2-Antarctica---16.jpg"
+    - an13:
+      ro: "Frederick Cook la sfârşitul expediţiei."
+      en: "Frederick Cook at the end of the expedition."
+      file: "6-3-Antarctica---13.jpg"
     - an19:
       ro: "Strâmtoarea de Gerlache, cu pinguini şi o focă (Foto F. Cook)."
       en: "The de Gerlache Strait with penguins and a seal (Photo by F. Cook)."
-      file: "Antarctica - 19.jpg"
+      file: "7-1-Antarctica---19.jpg"
+    - an18:
+      ro: "Iceberg prins în banchiză (Foto F. Cook)."
+      en: "Iceberg stuck in the ice shelf (Photo by F. Cook)."
+      file: "7-2-Antarctica---18.jpg"
+    - an17:
+      ro: "H. Arctowski în laboratorul său de pe „Belgica” (Foto F. Cook)."
+      en: "H. Arctowski in his lab aboard Belgica (Photo by F. Cook)."
+      file: "7-3-Antarctica---17.jpg"
+    - an25:
+      ro: "„Ceaiul de la ora cinci”. Moment de odihnă în săparea canalului artificial (Foto F. Cook)."
+      en: "Tea time: taking a break from cutting the channel to free Belgica (Photo by F. Cook)."
+      file: "8-1-Antarctica---25.jpg"
+    - an21:
+      ro: "Pinguini antarctici (<em>Pygoscelis antarctica</em>) primind vizita unui explorator (Foto E. Racoviţă)."
+      en: "Antarctic penguins (<em>Pygoscelis antarctica</em>) welcoming an explorer (Photo by E. Racoviţă)."
+      file: "8-2-Antarctica---21.jpg"
+    - an22:
+      ro: "Debarcare pe coastele Antarcticii."
+      en: "Landing on the Antarctic ice shelf."
+      file: "8-3-Antarctica---22.jpg"
+    - an12:
+      ro: "Ţărm stâncos în Strâmtoare de Gerlache."
+      en: "Rocky terrain in the de Gerlache Strait."
+      file: "9-1-Antarctica---12.jpg"
+    - an33:
+      ro: "Strâmtoarea de Gerlache."
+      en: "de Gerlache Strait."
+      file: "9-2-Antarctica---33.jpg"
+    - an24:
+      ro: "Capul Renard din Strâmtoarea de Gerlache (Foto F. Cook)."
+      en: "de Gerlache Strait: Cape Renard (Photo by F. Cook)."
+      file: "9-3-Antarctica---24.jpg"
+    - an28:
+      ro: "Cu sania pe gheaţa banchizei."
+      en: "Sledding on the ice shelf."
+      file: "10-1-Antarctica---28.jpg"
+    - an27:
+      ro: "Colonie de pinguini papuani (<em>Pygoscelis papua</em>) (Foto E. Racoviţă)."
+      en: "Colony of papua penguins (<em>Pygoscelis papua</em>) (Photo by E. Racoviţă)."
+      file: "10-2-Antarctica---27.jpg"
+    - an29:
+      ro: "Sondaj în banchiză (Foto F. Cook)."
+      en: "Borehole in the ice shelf (Photo by F. Cook)."
+      file: "10-3-Antarctica---29.jpg"
+    - an31:
+      ro: "Iceberg în arcadă eşuat în Strâmtoarea de Gerlache (Foto F. Cook)."
+      en: "Iceberg drifting in the de Gerlache Strait (Photo by F. Cook)."
+      file: "11-1-Antarctica---31.jpg"
+    - an32:
+      ro: "Pregătirea unui bivuac pe gheaţă."
+      en: "Setting up camp on the ice."
+      file: "11-2-Antarctica---32.jpg"
+    - an34:
+      ro: "Iceberguri."
+      en: "Icebergs."
+      file: "11-3-Antarctica---34.jpg"
+    - an35:
+      ro: "Canal de apă liberă deschis în banchiză (Foto E. Racoviţă)."
+      en: "Open water channel in the ice shelf (Photo by E. Racoviţă)."
+      file: "13-1-Antarctica---35.jpg"
+    - an37:
+      ro: "Foca lui Weddel (Leptonychotes weddeli) (Foto F. Cook)."
+      en: "Weddel's seal (Leptonychotes weddeli) (Photo by F. Cook)."
+      file: "13-2-Antarctica---37.jpg"
+    - an36:
+      ro: "Grup de pinguini (<em>Pygoscelis adeliae</em>) în faza de năpârlire (Foto F. Cook)."
+      en: "Group of moulting penguins (<em>Pygoscelis adeliae</em>) (Foto F. Cook)."
+      file: "13-3-Antarctica---36.jpg"
+    - an38:
+      ro: "Îndepărtarea troienelor de zăpadă din jurul vasului."
+      en: "Snow removing from around the ship."
+      file: "12-1-Antarctica---38.jpg"
+    - an41:
+      ro: "Evacuarea blocurilor de gheaţă din canalului artificial (Foto F. Cook)."
+      en: "Ice block removal to free Belgica (Photo by F. Cook)."
+      file: "12-2-Antarctica---41.jpg"
+    - an39:
+      ro: "Puntea corăbiei înzăpezită de o furtună (Foto F. Cook)."
+      en: "Ship's deck in a snow storm (Photo by F. Cook)."
+      file: "12-3-Antarctica---39.jpg"
     - an20:
       ro: "Colonie de pinguini pe ţărm."
       en: "Penguin colony."
       file: "Antarctica - 20.jpg"
-    - an21:
-      ro: "Pinguini antarctici (<em>Pygoscelis antarctica</em>) primind vizita unui explorator (Foto E. Racoviţă)."
-      en: "Antarctic penguins (<em>Pygoscelis antarctica</em>) welcoming an explorer (Photo by E. Racoviţă)."
-      file: "Antarctica - 21.jpg"
-    - an22:
-      ro: "Debarcare pe coastele Antarcticii."
-      en: "Landing on the Antarctic ice shelf."
-      file: "Antarctica - 22.jpg"
-    - an12:
-      ro: "Ţărm stâncos în Strâmtoare de Gerlache."
-      en: "Rocky terrain in the de Gerlache Strait."
-      file: "Antarctica - 12.jpg"
-    - an24:
-      ro: "Capul Renard din Strâmtoarea de Gerlache (Foto F. Cook)."
-      en: "de Gerlache Strait: Cape Renard (Photo by F. Cook)."
-      file: "Antarctica - 24.jpg"
-    - an25:
-      ro: "„Ceaiul de la ora cinci”. Moment de odihnă în săparea canalului artificial (Foto F. Cook)."
-      en: "Tea time: taking a break from cutting the channel to free Belgica (Photo by F. Cook)."
-      file: "Antarctica - 25.jpg"
-    - an27:
-      ro: "Colonie de pinguini papuani (<em>Pygoscelis papua</em>) (Foto E. Racoviţă)."
-      en: "Colony of papua penguins (<em>Pygoscelis papua</em>) (Photo by E. Racoviţă)."
-      file: "Antarctica - 27.jpg"
-    - an28:
-      ro: "Cu sania pe gheaţa banchizei."
-      en: "Sledding on the ice shelf."
-      file: "Antarctica - 28.jpg"
-    - an29:
-      ro: "Sondaj în banchiză (Foto F. Cook)."
-      en: "Borehole in the ice shelf (Photo by F. Cook)."
-      file: "Antarctica - 29.jpg"
     - an30:
       ro: "Colonie de pinguini papuani (<em>Pygoscelis papua</em>) pe o platformă de piatră (Foto Racoviţă)."
       en: "Colony of papua penguins (<em>Pygoscelis papua</em>) on a rocky outcrop (Photo by E. Racoviţă)."
       file: "Antarctica - 30.jpg"
-    - an31:
-      ro: "Iceberg în arcadă eşuat în Strâmtoarea de Gerlache (Foto F. Cook)."
-      en: "Iceberg drifting in the de Gerlache Strait (Photo by F. Cook)."
-      file: "Antarctica - 31.jpg"
-    - an32:
-      ro: "Pregătirea unui bivuac pe gheaţă."
-      en: "Setting up camp on the ice."
-      file: "Antarctica - 32.jpg"
-    - an33:
-      ro: "Strâmtoarea de Gerlache."
-      en: "de Gerlache Strait."
-      file: "Antarctica - 33.jpg"
-    - an34:
-      ro: "Iceberguri."
-      en: "Icebergs."
-      file: "Antarctica - 34.jpg"
-    - an35:
-      ro: "Canal de apă liberă deschis în banchiză (Foto E. Racoviţă)."
-      en: "Open water channel in the ice shelf (Photo by E. Racoviţă)."
-      file: "Antarctica - 35.jpg"
-    - an36:
-      ro: "Grup de pinguini (<em>Pygoscelis adeliae</em>) în faza de năpârlire (Foto F. Cook)."
-      en: "Group of moulting penguins (<em>Pygoscelis adeliae</em>) (Foto F. Cook)."
-      file: "Antarctica - 36.jpg"
-    - an37:
-      ro: "Foca lui Weddel (Leptonychotes weddeli) (Foto F. Cook)."
-      en: "Weddel's seal (Leptonychotes weddeli) (Photo by F. Cook)."
-      file: "Antarctica - 37.jpg"
-    - an38:
-      ro: "Îndepărtarea troienelor de zăpadă din jurul vasului."
-      en: "Snow removing from around the ship."
-      file: "Antarctica - 38.jpg"
-    - an39:
-      ro: "Puntea corăbiei înzăpezită de o furtună (Foto F. Cook)."
-      en: "Ship's deck in a snow storm (Photo by F. Cook)."
-      file: "Antarctica - 39.jpg"
     - an40:
       ro: "„Belgica” fotografiată la lumina lunii (Foto F. Cook)."
       en: "Belgica in moonlight (Photo by F. Cook)."
       file: "Antarctica - 40.jpg"
-    - an41:
-      ro: "Evacuarea blocurilor de gheaţă din canalului artificial (Foto F. Cook)."
-      en: "Ice block removal to free Belgica (Photo by F. Cook)."
-      file: "Antarctica - 41.jpg"
     - an42:
       ro: "Foca lui Ross (<em>Omatophora rossi</em>) (Foto F. Cook)."
       en: "Ross's seal (<em>Omatophora rossi</em>) (Photo by F. Cook)."
