@@ -59,9 +59,11 @@
         <h1 class="card-title title p-lg-1 p-sm-0 g-sm-0">{{ site.data.xlate.foundation_title[page.lang] | escape }}</h1>
         <h3 class="subtitle pt-lg-2 p-sm-0 g-sm-0 pt-sm-1">{{ site.data.xlate.foundation_subtitle[page.lang] | escape }}</h3>
       </div>
+      {% unless page.no_subtitle %}
       <div class="position-absolute bottom-0 start-0 p-sm-1 p-md-3 px-lg-5 py-1">
         <h3 class="page-title">{{ page.title }}</h3>
       </div>
+      {% endunless %}
     </div>
   </div>
 </header>
