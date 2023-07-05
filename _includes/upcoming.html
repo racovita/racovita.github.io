@@ -17,7 +17,7 @@
   {% assign postDate = post.date | date: "%Y-%m-%d" %}
   {% if postDate >= currentDate %}
   <div class="c4-feature row flex-lg-row justify-content-center p-4">
-		{% if post.heading %}
+		{% if post.card_banner %}
     <div class="col-lg-5 col-md-12 p-0 g-0 m-0 ms-lg-5">
       {% if post.youtube %}
 		    <iframe src="{{ post.youtube }}"
@@ -25,7 +25,7 @@
                 class="yt-container ratio ratio-16x9 img-fluid"
                 allowfullscreen></iframe>
       {% else %}
-        <img src="{{ post.heading }}" class="img-fluid">
+        <img src="{{ post.card_banner }}" class="img-fluid">
       {% endif %}
     </div>
     {% endif %}

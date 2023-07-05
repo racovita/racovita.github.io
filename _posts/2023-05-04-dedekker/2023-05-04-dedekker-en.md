@@ -3,8 +3,10 @@ title: "The 1897-99 Belgica Expedition<p><em>Patrick DeDekker</em>, Australian N
 layout: 'post'
 lang: en
 ref: dedekker-2023
-description: Lecture at Clubul Casei Universitarilor, 1 Emmanuel de Martonne Str., Cluj-Napoca, Romania, on <strong>May 4th, 2023 at 17:00 (EEST)</strong>.
+description: "Lecture at Clubul Casei Universitarilor, 1 Emmanuel de Martonne Str., Cluj-Napoca, Romania,
+on <strong>May 4th, 2023 at 17:00 (EEST)</strong>."
 banner: /assets/images/May23/web_banner.jpg
+card_banner: /assets/images/cards/post-20230504.jpg
 ---
 
 ## The 1897-99 Belgica Expedition that first overwintered in Antarctic waters

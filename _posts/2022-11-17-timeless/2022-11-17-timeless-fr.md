@@ -5,6 +5,7 @@ lang: fr
 ref: ubb75years
 banner: /assets/images/Nov22/web_banner.png
 youtube: https://youtu.be/OydU9DFSqmg
+card_banner: /assets/images/cards/post-20221117.jpg
 ---
 
 ## {{ page.title }}

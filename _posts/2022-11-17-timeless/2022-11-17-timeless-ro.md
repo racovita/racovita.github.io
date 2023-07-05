@@ -1,11 +1,12 @@
 ---
 title: Actualitatea patrimoniului științific și de explorare a lui Emil G. Racoviță
-description: Conferință online cu participare internațională organizată la Universitatea Babeș-Bolyai din Cluj-Napoca, Romania.
+description: "Conferință online cu participare internațională organizată la Universitatea Babeș-Bolyai din Cluj-Napoca, Romania."
 layout: 'post'
 lang: ro
 ref: ubb75years
 banner: /assets/images/Nov22/web_banner.png
 youtube: https://youtu.be/OydU9DFSqmg
+card_banner: /assets/images/cards/post-20221117.jpg
 ---
 
 

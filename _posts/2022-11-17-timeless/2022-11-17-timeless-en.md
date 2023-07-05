@@ -1,12 +1,14 @@
 ---
 title: The timeless science and exploration legacy of Emil G. Racoviță
-description: Virtual event at Universitatea Babeș-Bolyai, Cluj-Napoca, Romania, on <strong>November 17, 2022 at 15:00 (EEST)</strong> broadcast on <a href="https://www.youtube.com/channel/UCQlrz7oSFbyjj3f6C_5Vngg">YouTube</a>.
-
+description: "Virtual event at Universitatea Babeș-Bolyai, Cluj-Napoca, Romania,
+    on <strong>November 17, 2022 at 15:00 (EEST)</strong> broadcast
+    on <a href='https://www.youtube.com/channel/UCQlrz7oSFbyjj3f6C_5Vngg'>YouTube</a>."
 layout: 'post'
 lang: en
 ref: ubb75years
 banner: /assets/images/Nov22/web_banner.png
 youtube: https://youtu.be/OydU9DFSqmg
+card_banner: /assets/images/cards/post-20221117.jpg
 ---
 
 ## {{ page.title }}
