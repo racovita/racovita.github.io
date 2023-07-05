@@ -14,11 +14,8 @@ translations:
 
 images:
 
-- flow images
-- add all photos
-  - when adding bootstrap (page.use_bootstrap=true) my language selection header disappears.
-  - bootstrap has albums ... but can't fit the menu on the right. why?
-  - does it also have something that can replace the carousel for showing photos?
+[x] flow images
+[x] add all photos
   - should really use the side bar classes for menus.
 
 
