@@ -28,6 +28,16 @@ aegis_short:
   fr: "fonctionne sous le égide de:"
   ro: "functioneaza sub egida:"
 
+ubb:
+  en: Babeș-Bolyai University
+  fr: Université Babeș-Bolyai
+  ro: Universitatea Babeș-Bolyai
+
+academia_romana:
+  en: Romanian Academy
+  fr: Académie Roumaine
+  ro: Academia Română
+
 upcoming:
   en: Events
   de: Veranstaltungen
