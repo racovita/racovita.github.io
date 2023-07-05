@@ -1,8 +1,9 @@
 ---
+lang: en
 layout: page
 title: Emil G. Racoviţă
-lang: en
 banner: banner-biografie.jpg
+ref: egr_landing
 ---
 
 {% include egr_landing.html %}

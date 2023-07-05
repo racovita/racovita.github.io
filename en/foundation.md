@@ -1,8 +1,9 @@
 ---
+lang: en
 layout: page
 title: About the Foundation
-lang: en
 banner: banner-foundation.jpg
+ref: foundation_landing
 ---
 
 {% include foundation.html %}

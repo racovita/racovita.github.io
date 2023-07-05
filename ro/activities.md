@@ -1,8 +1,9 @@
 ---
+lang: ro
 layout: page
 title: Activități
-lang: ro
 banner: banner-activitati.jpg
+ref: activities
 ---
 
 {% include activities.html %}

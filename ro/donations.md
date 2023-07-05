@@ -1,6 +1,6 @@
 ---
-title: Donații
 lang: ro
+title: Donații
 ref: donations
 banner: banner-donations.jpg
 ---
