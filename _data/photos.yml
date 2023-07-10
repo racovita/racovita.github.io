@@ -167,18 +167,22 @@
       ro: "Puntea corăbiei înzăpezită de o furtună (Foto F. Cook)."
       en: "Ship's deck in a snow storm (Photo by F. Cook)."
       file: "12-3-Antarctica---39.jpg"
+    - an40:
+      ro: "„Belgica” fotografiată la lumina lunii (Foto F. Cook)."
+      en: "Belgica in moonlight (Photo by F. Cook)."
+      file: "14-1-Antarctica---40.jpg"
     - an20:
       ro: "Colonie de pinguini pe ţărm."
       en: "Penguin colony."
-      file: "Antarctica - 20.jpg"
+      file: "14-2-Antarctica---20.jpg"
+    - an44:
+      ro: "Caricatură desenată de E. Racoviţă (reproducere)."
+      en: "Cartoon by E. Racoviţă (reproduction)."
+      file: "14-3-Antarctica---44.jpg"
     - an30:
       ro: "Colonie de pinguini papuani (<em>Pygoscelis papua</em>) pe o platformă de piatră (Foto Racoviţă)."
       en: "Colony of papua penguins (<em>Pygoscelis papua</em>) on a rocky outcrop (Photo by E. Racoviţă)."
       file: "Antarctica - 30.jpg"
-    - an40:
-      ro: "„Belgica” fotografiată la lumina lunii (Foto F. Cook)."
-      en: "Belgica in moonlight (Photo by F. Cook)."
-      file: "Antarctica - 40.jpg"
     - an42:
       ro: "Foca lui Ross (<em>Omatophora rossi</em>) (Foto F. Cook)."
       en: "Ross's seal (<em>Omatophora rossi</em>) (Photo by F. Cook)."
@@ -187,10 +191,6 @@
       ro: "Foca Lobodon (<em>Lobodon carcinophaga</em>) (Foto F. Cook)."
       en: "Lobodon's seal (<em>Lobodon carcinophaga</em>) (Photo by F. Cook)."
       file: "Antarctica - 43.jpg"
-    - an44:
-      ro: "Caricatură desenată de E. Racoviţă (reproducere)."
-      en: "Cartoon by E. Racoviţă (reproduction)."
-      file: "Antarctica - 44.jpg"
     - an45:
       ro: "Echipament confecţionat pe „Belgica”."
       en: "Equipment made on Belgica."
