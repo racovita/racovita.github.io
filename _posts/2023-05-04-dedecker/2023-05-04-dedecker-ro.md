@@ -1,10 +1,10 @@
 ---
-title: "The 1897-99 Belgica Expedition<p><em>Patrick DeDekker</em>, Australian National University</p>"
+title: "The 1897-99 Belgica Expedition<p><em>Patrick DeDeckker</em>, Australian National University</p>"
 description: "Prelegere organizată la Clubul Casei Universitarilor, str. Emmanuel de Martonne nr 1, Cluj-Napoca, Romania,
  în data de <strong>4 mai, 2023 la ora 17:00</strong>, in persoană și online."
 layout: 'post'
 lang: ro
-ref: dedekker-2023
+ref: dedeckker-2023
 banner: /assets/images/May23/web_banner.jpg
 card_banner: /assets/images/cards/post-20230504.jpg
 ---
