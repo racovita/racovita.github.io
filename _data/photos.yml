@@ -254,65 +254,65 @@
   path: "/assets/images/photo_archive/Collaborators"
   photos:
     - c8:
-      file: "G. de Mortillet 1895.jpg"
+      file: "1-1-Colaboratori-G.-de-Mortillet-1895.jpg"
       en: "G. de Mortillet, 1895"
       ro: "G. de Mortillet, 1895"
       fr: "G. de Mortillet, 1895"
     - c1:
-      file: "A. de Gerlache - 1.jpg"
+      file: "1-2-Colaboratori-A.-de-Gerlache---1.jpg"
       en: "Adrien de Gerlache"
       ro: "Adrien de Gerlache"
       fr: "Adrien de Gerlache"
     - c2:
-      file: "A. de Gerlache - 2a.jpg"
+      file: "1-3-Colaboratori-A.-de-Gerlache---2a.jpg"
       en: "Adrien de Gerlache"
       ro: "Adrien de Gerlache"
       fr: "Adrien de Gerlache"
+    - c3:
+      file: "2-1-Colaboratori-E.-A.-Martel-1917.jpg"
+      en: "E. A. Martel, 1917"
+      ro: "E. A. Martel, 1917"
+      fr: "E. A. Martel, 1917"
     - c5:
-      file: "F. A. Cook - 1.jpg"
+      file: "2-2-Colaboratori-F.-A.-Cook---1.jpg"
       en: "Frederic A. Cook"
       ro: "Frederic A. Cook"
       fr: "Frederic A. Cook"
     - c6:
-      file: "F. A. Cook-b.jpg"
+      file: "2-3-Colaboratori-F.-A.-Cook-b.jpg"
       en: "Frederic A. Cook"
       ro: "Frederic A. Cook"
       fr: "Frederic A. Cook"
     - c4:
-      file: "E. A. Martel.jpg"
+      file: "3-1-Colaboratori-E.-A.-Martel.jpg"
       en: "E. A. Martel, 1903"
       ro: "E. A. Martel, 1903"
       fr: "E. A. Martel, 1903"
-    - c3:
-      file: "E. A. Martel 1917.jpg"
-      en: "E. A. Martel, 1917"
-      ro: "E. A. Martel, 1917"
-      fr: "E. A. Martel, 1917"
     - c12:
-      file: "P. A. Chappuis-a.jpg"
+      file: "3-2-Colaboratori-P.A.Chappuis.jpg"
       en: "Pierre A. Chappuis"
       ro: "Pierre A. Chappuis"
       fr: "Pierre A. Chappuis"
     - c9:
-      file: "Iwan Buresch 1925.jpg"
+      file: "3-3-Colaboratori-Iwan-Buresch-1925.jpg"
       en: "Iwan Buresch, 1925"
       ro: "Iwan Buresch, 1925"
       fr: "Iwan Buresch, 1925"
-    - c10:
-      file: "L. Michotte.jpg"
-      en: "Louis Michotte"
-      ro: "Louis Michotte"
-      fr: "Louis Michotte"
-    - c11:
-      file: "M. Caullery.jpg"
-      en: "M. Caullery"
-      ro: "M. Caullery"
-      fr: "M. Caullery"
     - c7:
-      file: "G. Diamandy.jpg"
+      file: "4-1-Colaboratori-G.-Diamandy.jpg"
       en: "G. Diamandy"
       ro: "G. Diamandy"
       fr: "G. Diamandy"
+    - c11:
+      file: "4-2-Colaboratori-M.-Caullery.jpg"
+      en: "M. Caullery"
+      ro: "M. Caullery"
+      fr: "M. Caullery"
+    - c10:
+      file: "4-3-Colaboratori-L.-Michotte.jpg"
+      en: "Louis Michotte"
+      ro: "Louis Michotte"
+      fr: "Louis Michotte"
 
 - name: family
   title:
