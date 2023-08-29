@@ -13,7 +13,7 @@ ref: bio
 ## Enfance
 {: .c4-section-title .border-start .border-2 .border-dark}
 
-{% include figure url="/assets/images/photo_archive/Family/Emil Racovita 1881.jpg"
+{% include figure url="/assets/images/photo_archive/Family/2-1-Familie-Emil-Racovita-1881.jpg"
    caption="Emil Racoviţă en 1881"
    class="c4-figure float-end img-fluid"
 %}
