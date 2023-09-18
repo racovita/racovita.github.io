@@ -1,0 +1,33 @@
+{% for topic in site.data.bosco2023 %}
+  {% if topic.topic == "activities" %}
+    {% for activity in topic.activities %}
+      {% if activity.title == "desene"%}
+        {% assign act = activity %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+
+
+
+<div class="page-section c4-feature px-4 py-lg-3">
+  <h1 class="c4-feature-title">{{ act.heading[page.lang] }}</h1>
+      <h2>{{ act.caption[page.lang] }}</h2>
+</div>
+
+<div class="page-section align-items-center">
+  <div class="row p-5 g-5">
+    {% for i in (1..5) %}
+    {% assign rdrawing = "Racovita-Bosco-drawings-" | append: i | append: ".jpg" %}
+    {% assign cdrawing = "Racovita-Bosco-copii-desenand-" | append: i | append: ".jpg" %}
+      <div class="col px-1 gx-1">
+        <img src="/assets/images/activities/bosco2023/{{ rdrawing }}"
+             class="ratio ratio-21x9 img-fluid"><p/>
+        <p>&nbsp;</p>
+        <img src="/assets/images/activities/bosco2023/{{ cdrawing }}"
+             class="ratio ratio-21x9 img-fluid">
+      </div>
+    {% endfor %}
+  </div>
+</div>

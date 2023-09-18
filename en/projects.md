@@ -2,9 +2,7 @@
 title: Projects
 lang: en
 ref: projects
-banner: banner-activitiati.jpg
+banner: banner-activitati.jpg
 ---
 
-# Projects.
-
-Under construction.
+{% include projects.md %}

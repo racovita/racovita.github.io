@@ -4,6 +4,4 @@ ref: projects
 banner: banner-activitiati.jpg
 ---
 
-# Projects
-
-En construction.
+{% include projects.md %}

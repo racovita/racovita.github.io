@@ -5,6 +5,4 @@ ref: projects
 banner: banner-activitati.jpg
 ---
 
-# Proiecte si programe.
-
-In constructie.
+{% include projects.md %}
