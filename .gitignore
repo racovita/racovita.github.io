@@ -7,3 +7,4 @@ Gemfile.lock
 .DS_Store
 photos.cocatalog
 *.xmp
+image_503*.jpg
