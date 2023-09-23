@@ -1,5 +1,5 @@
 
-{% assign currentDate = "2023-07-02" %}
+{% assign currentDate = "2023-09-02" %}
 {% assign posts = site.posts | where:"lang", page.lang %}
 
 {% assign hasUpcoming = false %}
@@ -13,6 +13,12 @@
 {% if hasUpcoming %}
 
 <div class="page-section shaded-bg px-lg-4 py-3">
+  <div class="c4-feature row justify-content-end align-items-end">
+    <div class="col">&nbsp;</div>
+    <div class="col">
+      <h1 class="c4-feature-title pt-5">{{ site.data.xlate.upcoming[page.lang] }}</h1>
+    </div>
+  </div>
 {% for post in posts %}
   {% assign postDate = post.date | date: "%Y-%m-%d" %}
   {% if postDate >= currentDate %}
@@ -30,10 +36,11 @@
     </div>
     {% endif %}
     <div class="col-lg-5 col-md-12 mx-lg-5 px-lg-5 gx-lg-5">
-      <h1 class="c4-feature-title pt-5">{{ site.data.xlate.upcoming[page.lang] }}</h1>
       <a href="{{ post.url | absolute_url }}">
         {% if post.date_range %}
-        <h2 class="lh-1 mb-2">{{ post.date_range }}</h2>
+          <h2 class="lh-1 mb-2">{{ post.date_range }}</h2>
+        {% else %}
+          <h2 class="lh-1 mb-2">{{ post.date | date: site.languages[page.lang].date_format }}</h2>
         {% endif %}
         <h2 class="lh-1 mb-3">{{ post.title }}</h2>
       <p>
