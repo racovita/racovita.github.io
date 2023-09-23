@@ -39,7 +39,7 @@ Până pe data de **25 mai​ a anului în curs** pentru anul precedent.
 **L-am descărcat, ce trebuie să completez?**<br />
 E nevoie să completezi de mână, cu majuscule, secțiunea I care conține datele tale de identificare și să semnezi la *Semnătura contribuabilului*. Daca folosești formularul precompletat, vei vedea că anul și datele Fundației pentru Știință și Explorare Medii Extreme - Emil G. Racoviță sunt introduse.
 
-<div class="indented">
+<div class="c4-indented">
 Dacă ai deja un formular tipărit și vrei să le completezi de mână, datele Fundației sunt:<br/>
 Denumire entitate nonprofit: <strong>Fundația Pentru Știință și Explorare Medii Extreme - Emil G. Racoviță</strong><br/>
 Cod de identificare fiscală: <strong>45438842</strong><br/>
