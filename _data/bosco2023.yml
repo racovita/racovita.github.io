@@ -1,8 +1,8 @@
 - topic: heading
   heading:
-    en: "Summer activities at Giovanni Bosco Foundation"
-    ro: "Activități de vară la Fundația Giovanni Bosco"
-    fr: "Activités d'été à la Fondation Giovanni Bosco"
+    en: "Educational summer activities at Giovanni Bosco Foundation"
+    ro: "Activități educaționale de vară la Fundația Giovanni Bosco"
+    fr: "Activités educationelles d'été à la Fondation Giovanni Bosco"
   location: Constanța
   date:
     en: "June 19 - July 14, 2023"
@@ -11,9 +11,13 @@
 
 - topic: theme
   theme:
-    en: "Environment Protection and Exploration -- Following in Emil Racoviță's footsteps"
-    ro: "Protecția și Explorarea Mediului -- Pe urmele lui Emil Racoviță"
-    fr: "Protection de l'environnement et exploration -- Sur les traces d'Emil Racoviță"
+    en: "Environment Protection and Exploration"
+    ro: "Protecția și Explorarea Mediului"
+    fr: "Protection de l'environnement et exploration"
+  area:
+    en: "Following in Emil Racoviță's footsteps"
+    ro: "Pe urmele lui Emil Racoviță"
+    fr: "Sur les traces d'Emil Racoviță"
   people:
     en: "Teacher - Carmen Mertoiu<br/>Coordinator - Oana Marcu"
     ro: "Educatoare - Carmen Mertoiu<br/>Coordinatoare - Oana Marcu"
@@ -29,33 +33,36 @@
     ro: "Testamentul stiintific al lui Emil Racovita"
     fr: "XXX"
   caption:
-    en: "I, who was nothing but a student and a teacher my whole life, would like to leave this wealth as a legacy to the boys and girls of our country.</p>
+    en: "<p><em>I, who was nothing but a student and a teacher my whole life, <strong>would like to leave this wealth as a legacy to the boys and girls of our country.</strong></em></p>
 
-       <p>It's not much richness, but it served me well in my life and that's why I offer it with confidence, in the following inventory:</p>
+       <p><em>It's not much richness, but it served me well in my life and that's why I offer it with confidence, in the following inventory:</em></p>
 
-         <p>Love for the country and the Romanian language.<br/>
+         <p><em>Love for the country and the Romanian language.<br/>
          Love of Science.<br/>
          Complete trust in scientific methods.<br/>
-         Civic courage to tell the truth always and in any place.</p>
-         <p>Finally, undisturbed optimism springs from my belief that, after all, today's humanity will not be so stupid as to dig its own grave."
-    ro: "Această avere aș vrea eu, care n-am fost altceva in viața mea decît student și profesor, ... s-o las moștenire baiețiilor și fetelor patriei noastre.</p>
+         Civic courage to tell the truth always and in any place.</em></p>
+         <p>[...]</p>
+         <p><em>Finally, undisturbed optimism springs from my belief that, after all, today's humanity will not be so stupid as to dig its own grave.</em></p>"
+    ro: "<p><em><strong>Această avere aș vrea eu</strong>, care n-am fost altceva in viața mea decît student și profesor, ... <strong>s-o las moștenire baiețiilor și fetelor patriei noastre</strong></em>.</p>
 
-      <p>Nu-i te miri ce bogație, dar mie în viața mi-a priit bine și de aceea le-o ofer cu încredere, in inventarul urmator:</p>
+      <p><em>Nu-i te miri ce bogație, dar mie în viața mi-a priit bine și de aceea le-o ofer cu încredere, în inventarul urmator:</em></p>
 
-        <p>Iubire de patrie și de grai românesc.<br/>
+        <p><em>Iubire de patrie și de grai românesc.<br/>
         Dragoste de Știință.<br/>
         Încredere desăvîrșită în metodele științifice.<br/>
-        Curagiu civic de a spune adevărul totdeauna și în orice loc.</p>
-        <p>În sfîrșit, optimism netulburat izvorît din credința că la urma urmei tot n-o fi omenirea de azi așa de proasta, ca să-și sape singură groapa."
-    fr: "Moi qui n'ai été qu'élève et enseignant toute ma vie, j'aimerais laisser cette richesse en héritage aux garçons et aux filles de notre pays.</p>
+        Curagiu civic de a spune adevărul totdeauna și în orice loc.</em></p>
+        <p>[...]</p>
+        <p><em>În sfîrșit, optimism netulburat izvorât din credința că la urma urmei tot n-o fi omenirea de azi așa de proasta, ca să-și sape singură groapa.</em></p>"
+    fr: "<p><em>Moi qui n'ai été qu'élève et enseignant toute ma vie, <strong>j'aimerais laisser cette richesse en héritage aux garçons et aux filles de notre pays</strong>.</em></p>
 
-        <p>Ce n'est pas une grande richesse, mais cela m'a bien servi dans ma vie et c'est pourquoi je vous le propose en toute confiance, dans l'inventaire suivant:</p>
+        <p><em>Ce n'est pas une grande richesse, mais cela m'a bien servi dans ma vie et c'est pourquoi je vous le propose en toute confiance, dans l'inventaire suivant:</em></p>
 
-         <p>L'amour pour le pays et la langue roumaine.<br/>
+         <p><em>L'amour pour le pays et la langue roumaine.<br/>
          Amour de la science.<br/>
          Confiance totale dans les méthodes scientifiques.<br/>
-         Courage civique pour dire la vérité toujours et en tout lieu.</p>
-         <p>Enfin, un optimisme intact naît de la conviction qu’après tout, l’humanité d’aujourd’hui ne sera pas assez stupide pour creuser sa propre tombe."
+         Courage civique pour dire la vérité toujours et en tout lieu.</em></p>
+         <p>[...]</p>
+         <p><em>Enfin, un optimisme intact naît de la conviction qu’après tout, l’humanité d’aujourd’hui ne sera pas assez stupide pour creuser sa propre tombe.</em></p>"
 
 
 - topic: objectives
@@ -68,120 +75,6 @@
     ro: Obiectiv
     fr: Objectives
   thanks:
-    en: "what key?"
-    ro: "Fundația Emil Racoviță multumește Fundației Giovanni Bosco, și in special dnei Carmen Merțoiu, educator specializat,  pentru implementarea temei Protecția si Explorarea Mediului și realizarea activității de vară \"Pe urmele lui Emil Racoviță\"  la Constanța, 19 iunie - 14 iulie, 2023"
-    fr: "clef??"
-
-- topic: activities
-  caption:
-    en: Curriculum
-    ro: Implementare
-    fr: Course
-  activities:
-    - title: microscope
-      heading:
-        en: "At the microscope cu Emil Racoviță"
-        ro: La microscop cu Emil Racoviță
-        fr: Programmes
-      image: /assets/images/cards/programe.jpg
-      link: /activities/bosco2023/page1.html
-      caption:
-        en: "Need another quote"
-        ro: "Ne trebuie un alt citat"
-        fr: "Une autre citation"
-
-    - title: desene
-      heading:
-        en: "Drawing based on Emil Racoviță sketches"
-        ro: "Desene după schițele lui Emil Racoviță"
-        fr: "Dessin basé sur les croquis d'Emil Racoviță"
-      image: /assets/images/cards/programe.jpg
-      link: /activities/bosco2023/page2.html
-      caption:
-        en: "Paul: \"When I grow up, I'll go to the South Pole\"."
-        ro: "Paul: \"Eu când cresc, mă duc la Polul Sud\"."
-        fr: "Paul: \"Quand je serai grand, j'irai au Pôle Sud\""
-
-    - title: ocean
-      heading:
-        en: "Mapping the sea floor"
-        ro: "Maparea terenului marin"
-        fr: charts
-      image: /assets/images/cards/programe.jpg
-      link: /activities/bosco2023/page3.html
-      caption:
-        en: "Foundation grants"
-        ro: "Burse acordate de Fundația."
-        fr: "Bourses attribuées par la Fondation."
-
-    - title: acvariu
-      heading:
-        en: "Building a fish tank"
-        ro: "Construirea unui acvariu"
-        fr: charts
-      image: /assets/images/cards/programe.jpg
-      link: /activities/bosco2023/page4.html
-      caption:
-        en: "Foundation grants"
-        ro: "Burse acordate de Fundația."
-        fr: "Bourses attribuées par la Fondation."
-
-    - title: noduri
-      heading:
-        en: "Learning about marine knots"
-        ro: "Realizarea de noduri marinăresti"
-        fr: charts
-      image: /assets/images/cards/programe.jpg
-      link: /activities/bosco2023/page5.html
-      caption:
-        en: "Foundation grants"
-        ro: "Burse acordate de Fundația."
-        fr: "Bourses attribuées par la Fondation."
-
-    - title: terariu
-      heading:
-        en: "Terarium and insect biodiversity"
-        ro: "Terariu și biodiversitatea insectelor"
-        fr: charts
-      image: /assets/images/cards/programe.jpg
-      link: /activities/bosco2023/page6.html
-      caption:
-        en: "Foundation grants"
-        ro: "Burse acordate de Fundația."
-        fr: "Bourses attribuées par la Fondation."
-
-    - title: copac
-      heading:
-        en: "Life tree and mind ecology"
-        ro: "Copacul vieții și ecologia minții"
-        fr: charts
-      image: /assets/images/cards/programe.jpg
-      link: /activities/bosco2023/page7.html
-      caption:
-        en: "Foundation grants"
-        ro: "Burse acordate de Fundația."
-        fr: "Bourses attribuées par la Fondation."
-
-    - title: ierbar
-      heading:
-        en: "Learning about the terrestrial environment -- Herbarium"
-        ro: "Cunoașterea mediului terestru -- Ierbar"
-        fr: charts
-      image: /assets/images/cards/programe.jpg
-      link: /activities/bosco2023/page8.html
-      caption:
-        en: "Foundation grants"
-        ro: "Burse acordate de Fundația."
-        fr: "Bourses attribuées par la Fondation."
-
-    - title: acvariu
-      heading:
-        en: "Book reading: 'Străbunicul meu, Emil Racoviță'"
-        ro: "Lectura carții 'Străbunicul meu, Emil Racoviță'"
-        fr: charts
-      image: /assets/images/cards/programe.jpg
-      link: /activities/bosco2023/page9.html
-      caption:
-        en: "Foundation grants"
-        ro: "Burse acordate de Fundația."
-        fr: "Bourses attribuées par la Fondation."
+    en: "our thanks"
+    ro: "Fundația Emil Racoviță multumește Fundației Giovanni Bosco, și in special doamnei Carmen Mertoiu, educator specializat, pentru implementarea temei Protecția si Explorarea Mediului și realizarea activității de vară \"Pe urmele lui Emil Racoviță\"  la Constanța, 19 iunie - 14 iulie, 2023"
+    fr: "nos remerciements"
