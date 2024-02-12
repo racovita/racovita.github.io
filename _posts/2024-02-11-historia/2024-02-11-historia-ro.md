@@ -14,5 +14,5 @@ Revista [Historia Special, ediția Decembrie
 2023](https://historia.ro/revista/historia-special-nr.-45-decembrie-2023-2325107.html){:target="_blank"},
 coordonată de Florentina Țone și Ciprian Stoleru, publică o serie de
 articole despre viața și cariera lui Emil Racoviță. Articolele, scrise de
-Paul Zaharia, acoperă expediția antarctică Belgica și călătorial lui
+Paul Zaharia, acoperă expediția antarctică Belgica și călătoria lui
 Racoviță prin Patagonia.
