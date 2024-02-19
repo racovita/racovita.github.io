@@ -64,3 +64,13 @@ biography:
   en: Biography
   ro: Biografie
   fr: Biographie
+
+photos:
+  en: photos
+  ro: poze
+  fr: photos
+
+text:
+  en: text
+  ro: text
+  fr: texte

@@ -14,6 +14,10 @@
   {% if topic.topic == "activities" %}
     {% assign activities = topic %}
   {% endif %}
+  {% if topic.topic == "text" %}
+    {% assign paragraphs = topic.paragraphs %}
+  {% endif %}
+
 {% endfor %}
 
 <div class="page-section px-4 pt-lg-5 pt-md-3">
@@ -35,16 +39,8 @@
 
 <div class="page-section px-4">
   <div class="c4-feature row align-items-center pt-lg-4 pt-md-3">
-
-    <p>Ce inseamnă să fii un om de știință care explorează limitele
-      necunoscutului, lasă o amprentă pozitivă asupra lumii și face cinste
-      României oriunde-ar fi în lume?</p>
-
-    <p>Un astfel de om a fost Emil Racoviță, explorator antarctic,
-      oceanolog, speolog, academician și umanitar, care și-a dedicat viața
-      cunoașterii și explorării mediului în contextul larg al evoluției, și
-      a dorit să lase ca moștenire următoarele, în propriile lui
-      cuvinte:</p>
+    <p>{{ paragraphs.p1[page.lang] }}</p>
+    <p>{{ paragraphs.p2[page.lang] }}</p>
   </div>
 
   <div class="c4-feature row align-items-center">
@@ -56,23 +52,9 @@
   </div>
 
   <div class="c4-feature row align-items-center p-lg-4 p-md-3">
-    <p>Călcând pe urmele lui, este important să creăm pentru tinerii de azi
-      condiții asemănătoare celor de care a beneficiat Racoviță, care i-au
-      hrănit dragostea pentru natură, încrederea într-un viitor pozitiv, și
-      sentimentul de valoare a contribuției personale către beneficiul umanității.</p>
-
-    <p>În acest scop, Fundația Emil Racoviță pentru Știință și Explorare a
-    Mediilor Extreme, în parteneriat cu Fundația Giovanni Bosco, dedicată
-    educației și promovării comunităților de tineri, a inițiat o serie de
-    activități educaționale pentru clasele 1-8, care să expună elevii la
-    cunoașterea, explorarea, diversitatea, și protecția mediului, prin
-    jocuri și activități adecvate vârstei.</p>
-
-    <p>Carmen Mertoiu, educator specializat la Fundația Bosco, a creat
-    activități stimulante și diverse pentru copii, în spiritul racovițesc
-    de a observa cu atenție, a interoga cu curiozitate și a crea o imagine
-    nouă de respect, dorință de a înțelege și proteja legătura
-    interdependentă între noi, specia umană și tot ce ne înconjoară.</p>
+    <p>{{ paragraphs.p3[page.lang] }}</p>
+    <p>{{ paragraphs.p4[page.lang] }}</p>
+    <p>{{ paragraphs.p5[page.lang] }}</p>
   </div>
 
   <div class="c4-feature row align-items-center p-lg-4 p-md-3">
@@ -82,10 +64,7 @@
 
 
   <div class="c4-feature row align-items-center p-lg-4 p-md-3">
-
-    <p>Emil Racoviță ar fi foarte mulțumit să știe că, mai mult de 120 de
-    ani mai târziu, este alături de micii cercetași curioși din Constanța,
-    în fața microscopului.</p>
+    <p>{{ paragraphs.p6[page.lang] }}</p>
   </div>
 
   <div class="c4-feature row align-items-center p-lg-4 p-md-3">
@@ -97,33 +76,16 @@
       </figure>
     </div>
     <div class="col-lg-5 col-md-6 col-sm-12">
-      <p>Dar ca să nu te pierzi în detalii microscopice, e bine să știi
-      unde mergi, și să ai, sau să știi să faci o hartă, așa cum au făcut
-      împreună și echipajul Belgicăi, pe drumul lor în necunoscuta
-      Antarctică.   În echipe, copiii au construit împreună o hartă a
-      țărmului Mării Negre, cu brațele Deltei Dunării, canale, și adâncimea
-      fundului marin reprezentată în gradiente de albastru.</p>
+      <p>{{ paragraphs.p7[page.lang] }}</p>
     </div>
   </div>
 
   <div class="c4-feature row align-items-center p-lg-4 p-md-3">
 
     <div class="col-lg-6 col-sm-12">
-      <p>Continuând ca mici zoologi, au desenat balene și pinguini după copii ale
-        desenelor originale facute de Emil Racoviță.</p>
+      <p>{{ paragraphs.p8[page.lang] }}</p>
 
-      <!--
-      <figure class="c4-figure img-fluid float-start mx-5">
-        <img src="/assets/events/bosco2023/photo04.png" alt=""
-             class="c4-figure img-fluid float-start" width="200px" /></figure>
-      -->
-
-      <p> Și în același timp au învățat cum simțul umorului și caricaturile
-      făcute de Racoviță i-au susținut pe colegii lui de vas să își mențină
-      moralul în timpul cruntei nopți antarctice în care Belgica și
-      echipajul ei și-au petrecut o iarnă întreagă - pentru prima oară în
-      istoria explorării ghețurilor, aducând din continentul la vremea
-      aceea încă necunoscut date neprețuite pentru întreaga lume.</p>
+      <p>{{ paragraphs.p9[page.lang] }}</p>
     </div>
 
     <div class="col-lg-6 col-sm-12">
@@ -135,39 +97,22 @@
 
   </div>
 
-  <!--
-  <div class="c4-feature row align-items-center p-lg-4 p-md-3">
-    <figure class="c4-figure img-fluid mx-5">
-      <img src="/assets/events/bosco2023/photo05.png" alt=""
-           class="c4-figure img-fluid" width=" 100% " />
-    </figure>
-  </div>
-  -->
-
   <div class="c4-feature row align-items-center p-lg-4 p-md-3">
     <div class="col-lg-6 col-sm-12">
       <figure class="c4-figure img-fluid float-start mx-5">
-        <img src="/assets/events/bosco2023/4.carte si noduri.png" alt=""
+        <img src="/assets/events/bosco2023/4.carte si noduri.png" alt="knots"
              class="c4-figure img-fluid float-start"/>
       </figure>
     </div>
     <div class="col-lg-6 col-sm-12">
-      <p>Inspirat de povestea Belgicăi
-        <sup id="fnref:1" role="doc-noteref">
-          <a href="#fn:1" class="footnote" rel="footnote">1</a></sup>,
-        un elev a declarat: <strong><em>"Eu când cresc mare mă duc la Polul Sud"</em></strong>.
-      </p>
+      <p>{{ paragraphs.p10[page.lang] }}</p>
 
-      <p>Pentru a se pregati de explorare, copiii au invățat sa facă noduri marinărești,
-      folositoare și în activități de zi cu zi, și și-au pregătit "bagajul
-      de explorator", așa cum i-a învățat autoarea cărții "Străbunicul meu,
-      Emil Racoviță", Andreia Petcu.</p>
+      <p>{{ paragraphs.p11[page.lang] }}</p>
+
     </div>
   </div>
   <div class="c4-feature row align-items-center p-lg-4 p-md-3">
-      <p>Dacă din această sămânță plantată cu mare grijă de dna Carmen
-      Mertoiu va crește un nou explorator, rămâne de văzut, dar ea a fost
-      semănată, și va trebui îngrijită în continuare în mintea și anturajul copiilor.</p>
+    <p>{{ paragraphs.p12[page.lang] }}</p>
   </div>
 
   <div class="c4-feature row align-items-center p-lg-4 p-md-3">
@@ -175,128 +120,78 @@
       <img src="/assets/events/bosco2023/5a.terarii.png" alt=""
            class="c4-figure img-fluid" /></figure>
 
-    <p>Bineînțeles, mediul poate fi replicat la scară mică, și astfel
-    copiii au învățat să construiască și să oxigeneze un acvariu, și și-au
-    construit propriile lor terarii originale, fiecare demonstrând spiritul
-    creativ al fiecărui copil.</p>
+    <p>{{ paragraphs.p13[page.lang] }}</p>
 
     <figure class="c4-figure img-fluid mx-5">
-      <img src="/assets/events/bosco2023/5b.terarii.png" alt=""
-           class="c4-figure img-fluid float-start" /></figure>
+      <img src="/assets/events/bosco2023/5b.terarii.png" alt="terarium"
+           class="c4-figure img-fluid" /></figure>
   </div>
 
   <div class="c4-feature row align-items-center p-lg-4 p-md-3">
 
     <div class="col-lg-6 col-md-6 cl-sm-12">
-      <figure class="c4-figure img-fluid float-start mx-5">
-        <img src="/assets/events/bosco2023/6.ierbar.png" alt=""
-             class="c4-figure img-fluid float-start" />
+      <figure class="c4-figure img-fluid mx-5">
+        <img src="/assets/events/bosco2023/6.ierbar.png" alt="ierbar"
+             class="c4-figure img-fluid" />
       </figure>
     </div>
 
     <div class="col-lg-6 col-md-6 col-sm-12">
-      <p>Iar clasicul ierbar cu plante din curtea școlii i-a învățat pe
-      elevi denumirile populare și științifice ale plantelor comune de zi
-      cu zi, de care cu prea multă ușurință uităm că au proprietăți
-      remarcabile și roluri importante în ecologia mediului și în propria
-      noastră sănătate.</p>
+      <p>{{ paragraphs.p14[page.lang] }}</p>
     </div>
   </div>
 
   <div class="c4-feature row align-items-center p-lg-4 p-md-3">
-    <p>În spiritul lui Racoviță și al lui Eminescu, un copil a mărturisit:
-      <strong><em>"Mie-mi place tot ce mișcă"</em></strong>.</p>
-
-    <p>Fundația Racoviță dezvoltă proiecte care să prețuiască, protejeze și
-      îngrijească <strong><em>"tot ce mișcă-n țara asta"</em>, și să
-        răsplăteasca cu drag și respect <em>"râul și ramul"</em></strong> care
-      ne-au fost prieteni și ne-au apărat și hrănit cu generozitate vreme de
-      secole.  Este rândul nostru să le protejăm, pentru alte secole de trai
-      îmbelșugat al generațiilor care vin dupa noi.</p>
-
-    <p>Dar ce este ecologia și protecția mediului, și de unde începem?  Încurajați
-      de d-na profesoară să construiască un copac după propriile lor idei, un
-      copil a întrebat:</p>
+      <p>{{ paragraphs.p15[page.lang] }}</p>
+      <p>{{ paragraphs.p16[page.lang] }}</p>
+      <p>{{ paragraphs.p17[page.lang] }}</p>
 
   </div>
 
   <div class="c4-feature row align-items-center p-lg-4 p-md-3">
     <div class="col-lg-6 col-md-6 col-sm-12">
       <figure class="c4-figure img-fluid float-end mx-5">
-        <img src="/assets/events/bosco2023/7.copaci.png" alt=""
+        <img src="/assets/events/bosco2023/7.copaci.png" alt="trees"
              class="c4-figure img-fluid float-start" />
       </figure>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12">
-      <p>- “<em>D-na profesoară, dar nu plantăm copaci?</em>”</p>
-
-      <p>- “<em>Ba da</em>”, a răspuns cu înțelepciune și răbdare doamna profesoară Mertoiu, “<em>o
-          să și plantăm copaci, dar mai întâi haideți să-i plantăm în mintea
-          noastră, cum să arate</em>.  <strong><em>Mintea e ca și copacul, fiecare ramură este un
-            gând, și cu cât sunt mai bune și mai îngrijite gândurile noastre, cu atât
-            sunt mai roditoare.</em></strong>”</p>
+      <p>{{ paragraphs.p18[page.lang] }}</p>
+      <p>{{ paragraphs.p19[page.lang] }}</p>
     </div>
   </div>
 
 
   <div class="c4-feature row align-items-center p-lg-4 p-md-3">
-
-    <p>Elevii și-au reprezentat astfel în copacul minții visurile lor de
-      joacă, animalele, drumul către casa dragă, și cerul senin al verii.
-      Și au reflectat la faptul ca ecologia începe cu ecologia minții.</p>
-
-      <p>Sperăm ca poate aceasta să fie cea mai importantă amintire din
-      tabăra de vară, și că mintea elevilor să continue să fie cultivată cu
-      gânduri bune, prietenie, dragoste de cunoaștere, și dragoste de
-      natură.</p>
-
+      <p>{{ paragraphs.p20[page.lang] }}</p>
+      <p>{{ paragraphs.p21[page.lang] }}</p>
   </div>
 
   <div class="c4-feature row align-items-center p-lg-4 p-md-3">
-
-    <p>Pentru că, tot așa cum a spus Emil Racoviță în cuvântarea pe care a ținut-o
-      cu ocazia primirii în Academia Română:</p>
+    <p>{{ paragraphs.p22[page.lang] }}</p>
   </div>
 
   <div class="c4-feature row align-items-center">
     <div class="col-1">&nbsp;</div>
     <div class="col-10">
       <blockquote>
-        <p><em><strong>A ști sau a nu ști, aceasta e intrebarea!</strong><br />
-            Căci a nu ști înseamna: superstiții, egoism orb, concurență sălbatecă, neînțelegre, dușmănie, răsboi, foamete, prăpăd.<br />
-            A ști înseamnă pentru omenire: organizare temeinică, activitate rațională, cooperatism, solidaritate, evoluție pacinică.<br />
-            A ști înseamnă pentru om: a-ți trăi timpul de «a fi» cu mulțumire
-            și a aștepta clipa de «a nu fi» cu seninătate</em>.
-          <sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup></p>
+        <p>{{ paragraphs.p23[page.lang] }}</p>
       </blockquote>
     </div>
     <div class="col-1">&nbsp;</div>
   </div>
 
   <div class="c4-feature row align-items-center p-lg-4 p-md-3">
-
-    <p>Și cum activitățile elevilor au sădit acea sămânță de “a ști” în fiecare din
-      participanți, ne pregătim pentru noi “învățăcei”, așa cum îi numea Ion
-      Creangă, unul din dascălii lui Racoviță, să vină la noi povești de mediu, în
-      viitor.</p>
-
-    <p class="underlined-links">Între timp, semințele cunoașterii au nevoie
-      de aportul tuturor celor din jur: dacă sunteți părinți sau profesori
-      care doriți să participați cu noi în dezvoltarea în continuare a
-      acestor activități, sau doriți să susțineți și alți copii să poată
-      participa, vă invităm să vă
-      adresați <a href="mailto:info@racovita-foundation.org">Fundației
-      Racoviță</a>, sau <a href="https://cursuridonbosco.ro/">Fundației
-      Bosco</a>.  Iar sponsorizarea taberelor de vara “Racoviță” se poate
-      face la <a href="/{{ page.lang }}/donations.html">pagina de
-      donații</a>.</p>
+    <p>{{ paragraphs.p24[page.lang] }}</p>
+    <p class="underlined-links">{{ paragraphs.p25[page.lang] }}</p>
   </div>
 
-  <div class="c4-feature row justify-content-end align-items-end p-lg-4 p-md-3">
+  <div class="c4-feature row align-items-end p-lg-4 p-md-3">
     <div class="p-2">&nbsp;</div>
     <div class="ml-auto">
-      <p class="text-right"><em>poze: Carmen Mertoiu, Fundația Don Bosco</em><br/>
-        <em>text: Oana Marcu, Fundația Racoviță</em><br /></p>
+      <p class="text-end"><em><span class="text-capitalize">{{ site.data.xlate.photos[page.lang] }}</span>:
+          Carmen Mertoiu, Fundația Giovanni Bosco</em><br/>
+        <em><span class="text-capitalize">{{ site.data.xlate.text[page.lang] }}</span>: Oana Marcu, Fundația Racoviță</em><br /></p>
     </div>
   </div>
 
@@ -307,17 +202,10 @@
     <div class="footnotes" role="doc-endnotes">
       <ol>
         <li id="fn:1" role="doc-endnote">
-          <p>Cărțile” Spre Sud” (jurnalul de călătorie al lui Emil Racoviță)
-          și “Străbunicul meu Emil Racoviță” (autori Andreia Petcu, Eugen
-          Berlo) sunt disponibile
-          la <a href="https://editurafrontiera.ro">Editura
-          Frontiera</a>. Cartea “Prizonieri în noaptea polară” (autor Julian
-          Sancton) este disponibilă la <a href="https://www.clb.ro">Editura
-          Corint</a>.<a href="#fnref:1" class="reversefootnote"
-          role="doc-backlink">&#8617;</a></p>
+          <p class="underlined-links">{{ paragraphs.p26[page.lang] }}</p>
         </li>
         <li id="fn:2" role="doc-endnote">
-          <p>Emil Racoviță. Academia Română, Discursuri de Recepțiune, No. LXI, București 1926, p. 40-41.<a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+          <p>{{ paragraphs.p27[page.lang] }}</p>
         </li>
       </ol>
     </div>

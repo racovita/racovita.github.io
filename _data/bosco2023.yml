@@ -2,7 +2,7 @@
   heading:
     en: "Educational summer activities at Giovanni Bosco Foundation"
     ro: "Activități educaționale de vară la Fundația Giovanni Bosco"
-    fr: "Activités educationelles d'été à la Fondation Giovanni Bosco"
+    fr: "Activités éducatives d'été à la Fondation Giovanni Bosco"
   location: Constanța
   date:
     en: "June 19 - July 14, 2023"
@@ -29,9 +29,9 @@
 
 - topic: testament
   heading:
-    en: "Emil Racovita's scientific will"
-    ro: "Testamentul stiintific al lui Emil Racovita"
-    fr: "XXX"
+    en: "Emil Racoviță's scientific will"
+    ro: "Testamentul științific al lui Emil Racoviță"
+    fr: "Le testament scientifique d'Emil Racoviță"
   caption:
     en: "<p><em>I, who was nothing but a student and a teacher my whole life, <strong>would like to leave this wealth as a legacy to the boys and girls of our country.</strong></em></p>
 
@@ -67,14 +67,508 @@
 
 - topic: objectives
   objectives:
-    en: "Exposing students (grades 1-8) to environmental understanding, exploration, research, and conservation, through age-appropriate activities and games."
-    ro: "Expunerea elevilor (clasele 1-8) la cunoașterea, explorarea, cercetarea, și protecția mediului, prin activități și jocuri adecvate vârstei."
-    fr: "XXX"
+
+    en: "Exposing students (grades 1-8) to environmental understanding,
+    exploration, research, and conservation, through age-appropriate
+    activities and games."
+
+    ro: "Expunerea elevilor (clasele 1-8) la cunoașterea, explorarea,
+    cercetarea, și protecția mediului, prin activități și jocuri adecvate
+    vârstei."
+
+    fr: "Exposer les élèves (de la 1re à la 8e année) à la compréhension de l'environnement,
+     l'exploration, la recherche et la conservation, grâce à des activités adaptées à l'âge
+     activités et jeux."
+
   caption:
     en: Objectives
     ro: Obiectiv
     fr: Objectives
   thanks:
-    en: "our thanks"
-    ro: "Fundația Emil Racoviță multumește Fundației Giovanni Bosco, și in special doamnei Carmen Mertoiu, educator specializat, pentru implementarea temei Protecția si Explorarea Mediului și realizarea activității de vară \"Pe urmele lui Emil Racoviță\"  la Constanța, 19 iunie - 14 iulie, 2023"
-    fr: "nos remerciements"
+
+    en: "The Emil Racoviță Foundation thanks the Giovanni Bosco Foundation,
+         and especially Mrs. Carmen Mertoiu, specialized educator, for the
+         implementation of the Environmental Protection and Exploration
+         theme and the realization of the summer activity \"In the footsteps
+         of Emil Racoviță\" in Constanța, June 19 - July 14, 2023"
+
+    ro: "Fundația Emil Racoviță multumește Fundației Giovanni Bosco, și in
+         special doamnei Carmen Mertoiu, educator specializat, pentru
+         implementarea temei Protecția si Explorarea Mediului și realizarea
+         activității de vară \"Pe urmele lui Emil Racoviță\" la Constanța,
+         19 iunie - 14 iulie, 2023"
+
+    fr: "La Fondation Emil Racoviță remercie la Fondation Giovanni Bosco, et
+         en particulier Mme Carmen Mertoiu, éducatrice spécialisée, pour la
+         mise en œuvre du thème Protection et exploration de l'environnement
+         et la réalisation de l'activité estivale « Sur les traces d'Emil
+         Racoviță » à Constanța, 19 juin - 14 juillet 2023"
+
+- topic: text
+  paragraphs:
+    p1:
+      en: "What does it mean to be a scientist who explores the limits of the unknown, leaves a positive mark on the world, and honors Romania wherever they are in the world?"
+      ro: "Ce inseamnă să fii un om de știință care explorează limitele necunoscutului, lasă o amprentă pozitivă asupra lumii și face cinste României oriunde-ar fi în lume?"
+      fr: "Que signifie être un scientifique qui explore les limites de l'inconnu, laisse une marque positive sur le monde et honore la Roumanie partout où elle se trouve dans le monde ?"
+    p2:
+      en: "One such man was Emil Racoviță, Antarctic explorer,
+           oceanologist, speleologist, academic and humanitarian. He dedicated his life to
+           knowledge gathering and the exploration of the environment in the broad context
+           of evolution, and he left the following as a legacy -- in his own words:"
+      ro: "Un astfel de om a fost Emil Racoviță, explorator antarctic,
+      oceanolog, speolog, academician și umanitar, care și-a dedicat viața
+      cunoașterii și explorării mediului în contextul larg al evoluției, și
+      a dorit să lase ca moștenire următoarele, în propriile lui cuvinte:"
+      fr: "L'un de ces hommes était Emil Racoviță, explorateur de l'Antarctique,
+           océanologue, spéléologue, universitaire et humanitaire. Il a consacré sa vie à
+           la collecte de connaissances et l’exploration de l’environnement dans le contexte large
+           de l'évolution, et il a laissé en héritage ce qui suit - selon ses propres mots :"
+    p3:
+      en: "Following in his footsteps, it is important to create for today's youth,
+           conditions similar to those enjoyed by Racoviță, those that
+           nurtured his love of nature, confidence in a positive future, and
+           the sense of value of personal contribution to the benefit of humanity."
+      ro: "Călcând pe urmele lui, este important să creăm pentru tinerii de azi
+           condiții asemănătoare celor de care a beneficiat Racoviță, care i-au
+           hrănit dragostea pentru natură, încrederea într-un viitor pozitiv, și
+           sentimentul de valoare a contribuției personale către beneficiul umanității."
+      fr: "En suivant ses traces, il est important de créer pour la jeunesse d'aujourd'hui,
+           conditions similaires à celles dont jouit Racoviță, celles qui
+           a nourri son amour de la nature, sa confiance en un avenir positif et
+           le sens de la valeur de la contribution personnelle au bénéfice de l’humanité."
+    p4:
+      en: "For this purpose, the Emil Racoviță Foundation for Science and
+           Exploration in Extreme Environments partnered with the Giovanni
+           Bosco Foundation which is dedicated to the education and
+           promotion of youth communities to initiate a series of
+           educational activities. This year, they focused on students
+           grades 1-8 to expose them to knowledge, exploration, diversity,
+           and environmental protection, through age appropriate games and
+           activities."
+      ro: "În acest scop, Fundația Emil Racoviță pentru Știință și Explorare
+           a Mediilor Extreme, în parteneriat cu Fundația Giovanni Bosco,
+           dedicată educației și promovării comunităților de tineri, a
+           inițiat o serie de activități educaționale pentru clasele 1-8,
+           care să expună elevii la cunoașterea, explorarea, diversitatea,
+           și protecția mediului, prin jocuri și activități adecvate
+           vârstei."
+
+      fr: "A cet effet, la Fondation Emil Racoviță pour la science et
+           Exploration en Environnements Extrêmes en partenariat avec le Giovanni
+           Fondation Bosco qui se consacre à l'éducation et promotion des communautés de
+           jeunes pour initier une série de activités éducatives.
+           Cette année, ils se sont concentrés sur les étudiants de la 1re à la 8e année
+           pour les exposer à la connaissance, à l'exploration, à la diversité,
+           et la protection de l'environnement, à travers des jeux et des jeux adaptés à l'âge
+           activités."
+    p5:
+      en: "Carmen Mertoiu, a specializat educator at the Bosco Foundation,
+           created in Racoviță's spirit, a set of stimulating and diverse
+           activities for children.  These activities spurred the children
+           to observe carefully, to inquire with curiosity, and to create a
+           new image of respect, willingness to understand, and protect the
+           interconnectedness between us, the human species and all what
+           surrounds us."
+      ro: "Carmen Mertoiu, educator specializat la Fundația Bosco, a creat
+           activități stimulante și diverse pentru copii, în spiritul
+           racovițesc de a observa cu atenție, a interoga cu curiozitate și
+           a crea o imagine nouă de respect, dorință de a înțelege și
+           proteja legătura interdependentă între noi, specia umană și tot
+           ce ne înconjoară."
+      fr: "Carmen Mertoiu, éducatrice spécialisée à la Fondation Bosco, a
+           créé des activités stimulantes et diversifiées pour les enfants,
+           dans l'esprit de Racoviță, un ensemble d'activités stimulantes et
+           diversifiées pour les enfants.  Ces activités ont incité les
+           enfants observer attentivement, s'enquérir avec curiosité et
+           créer un nouvelle image de respect, de volonté de comprendre et
+           de protéger interconnexion entre nous, l'espèce humaine et tout
+           ce qui nous entoure."
+    p6:
+      en: "Emil Racoviță would be very proud to know that more than 120
+           years later, he is a model for the curious little scouts from Constanța,
+           in front of the microscope."
+      ro: "Emil Racoviță ar fi foarte mulțumit să știe că, mai mult de 120
+           de ani mai târziu, este alături de micii cercetași curioși din
+           Constanța, în fața microscopului."
+      fr: "Emil Racoviță serait très heureux de savoir que plus de 120 des
+           années plus tard, il est avec les curieux petits éclaireurs de
+           Constanța, devant le microscope."
+    p7:
+
+      en: "And so you don't get lost in microscopic details, it's good to
+           know where you are going. It is helpful having a map, or knowing
+           how to make one, as the crew of Belgica built one on their way
+           into the unknown Antarctic continent. In teams, the children
+           built the map of the Black Sea shore, with the arms of the Danube
+           Delta, canals, and the depth of the seabed represented in
+           gradients of blue."
+
+      ro: "Dar ca să nu te pierzi în detalii microscopice, e bine să știi
+           unde mergi, și să ai, sau să știi să faci o hartă, așa cum au
+           făcut împreună și echipajul Belgicăi, pe drumul lor în
+           necunoscuta Antarctică.  În echipe, copiii au construit împreună
+           o hartă a țărmului Mării Negre, cu brațele Deltei Dunării,
+           canale, și adâncimea fundului marin reprezentată în gradiente de
+           albastru."
+
+      fr: "Et pour ne pas se perdre dans les détails microscopiques, c'est
+           bien de sachez où vous allez. Il est utile d'avoir une carte ou
+           de savoir comment en fabriquer un, alors que l'équipage du
+           Belgica en a construit un en route dans le continent inconnu de
+           l'Antarctique. En équipes, les enfants construit la carte des
+           rives de la mer Noire, avec les bras du Danube Delta, canaux et
+           profondeur des fonds marins représentés dans dégradés de bleu."
+
+    p8:
+
+      en: "Continuing as little zoologists, they drew whales and penguins
+           after copies of the original drawings made by Emil Racoviță."
+
+      ro: "Continuând ca mici zoologi, au desenat balene și pinguini după copii ale
+           desenelor originale facute de Emil Racoviță."
+
+      fr: "Continuant comme petits zoologistes, ils dessinèrent des baleines et des pingouins
+           d'après des copies des dessins originaux réalisés par Emil Racoviță."
+
+    p9:
+
+      en: "At the same time they learned how the sense of humor and the
+           caricatures made by Racovița supported his shipmates to maintain
+           morale during the cruel Antarctic night where Belgica and her
+           crew spent an entire winter. Their expedition, the first to
+           winter in the history of ice exploration, brought, for the whole
+           world, invaluable data from the continent that at the time was still
+           unknown."
+
+      ro: "Și în același timp au învățat cum simțul umorului și caricaturile
+           făcute de Racoviță i-au susținut pe colegii lui de vas să își
+           mențină moralul în timpul cruntei nopți antarctice în care
+           Belgica și echipajul ei și-au petrecut o iarnă întreagă - pentru
+           prima oară în istoria explorării ghețurilor, aducând din
+           continentul la vremea aceea încă necunoscut date neprețuite
+           pentru întreaga lume."
+
+      fr: "En même temps, ils ont appris comment le sens de l'humour et le
+           les caricatures réalisées par Racovița ont aidé ses camarades à
+           maintenir moral lors de la cruelle nuit antarctique où Belgica et
+           ses l'équipage a passé un hiver entier. Leur expédition, la
+           première à l'hiver dans l'histoire de l'exploration des glaces,
+           apporté, pour l'ensemble monde, des données inestimables du
+           continent qui, à l'époque, était encore inconnu."
+
+    p10:
+      en: "Inspired by the story of Belgica<sup id='fnref:1' role='doc-noteref'>
+          <a href='#fn:1' class='footnote' rel='footnote'>1</a></sup> a student stated:
+          <strong><em>&quot;When I grow up, I'm going to the South Pole&quot;</em></strong>."
+
+      ro: "Inspirat de povestea Belgicăi<sup id='fnref:1' role='doc-noteref'>
+          <a href='#fn:1' class='footnote' rel='footnote'>1</a></sup>,
+          un elev a declarat:
+          <strong><em>&quot;Eu când cresc mare mă duc la Polul Sud&quot;</em></strong>."
+
+      fr: "Inspiré de l'histoire de Belgica<sup id='fnref:1' role='doc-noteref'>
+           <a href='#fn:1' class='footnote' rel='footnote'>1</a></sup> un étudiant a déclaré :
+           <strong><em>&quot;Quand je serai grand, j'irai au pôle Sud&quot;</em></strong>."
+
+    p12:
+
+      en: "Should from this seed planted with great care by Mrs. Carmen
+           Mertoiu raise a new explorer, it remains to be seen. The seed has
+           been sown and will have to be further tended in the mind and
+           children's environment."
+
+      ro: "Dacă din această sămânță plantată cu mare grijă de dna Carmen
+           Mertoiu va crește un nou explorator, rămâne de văzut, dar ea a
+           fost semănată, și va trebui îngrijită în continuare în mintea și
+           anturajul copiilor."
+
+      fr: "Devrait de cette graine plantée avec grand soin par Mme Carmen
+           Mertoiu élève un nouvel explorateur, reste à voir. La graine a
+           été semé et devra être davantage entretenu dans l'esprit et
+           l'environnement des enfants."
+
+    p11:
+      en: "To prepare for exploration, the children learned to make sailor's knots,
+       useful in everyday activities as well, and prepared their \"explorer luggage\",
+       as taught in the book \"My great-grandfather, Emil Racoviță\", by Andreia Petcu."
+
+      ro: "Pentru a se pregati de explorare, copiii au invățat sa facă noduri marinărești,
+      folositoare și în activități de zi cu zi, și și-au pregătit \"bagajul
+      de explorator\", așa cum i-a învățat autoarea cărții \"Străbunicul meu,
+      Emil Racoviță\", Andreia Petcu."
+
+      fr: "Pour préparer l'exploration, les enfants ont appris à réaliser des nœuds marins,
+       utile dans les activités quotidiennes également et a préparé ses \"bagages
+       d'explorateur\", comme l'enseigne l'auteur du livre \"Mon arrière-grand-père,
+       Emil Racoviță\", Andreia Petcu."
+
+    p13:
+
+      en: "Of course, the environment can be replicated on a small scale,
+           and so the children learned to build and oxygenate an aquarium,
+           and built their own original terrariums, each demonstrating
+           the creative spirit present in every child."
+
+      ro: "Bineînțeles, mediul poate fi replicat la scară mică, și astfel
+           copiii au învățat să construiască și să oxigeneze un acvariu, și
+           și-au construit propriile lor terarii originale, fiecare
+           demonstrând spiritul creativ al fiecărui copil."
+
+      fr: "Bien entendu, l’environnement peut être reproduit à petite
+           échelle, et ainsi les enfants ont appris à construire et à
+           oxygéner un aquarium, et construit leurs propres terrariums
+           originaux, chacun démontrant l'esprit créatif présent chez chaque
+           enfant."
+
+    p14:
+
+      en: "The classic herbarium with plants from the school yard taught the
+           students the popular and scientific names of common day plants
+           per day. We tend to easily forget that these plants have
+           remarkable properties and play an important role in the ecology of the
+           environment and own our health."
+
+      ro: "Iar clasicul ierbar cu plante din curtea școlii i-a învățat pe
+           elevi denumirile populare și științifice ale plantelor comune de
+           zi cu zi, de care cu prea multă ușurință uităm că au proprietăți
+           remarcabile și roluri importante în ecologia mediului și în
+           propria noastră sănătate."
+
+      fr: "L'herbier classique avec des plantes de la cour d'école a
+           enseigné aux aux élèves les noms populaires et scientifiques de
+           plantes diurnes communes par jour. Nous avons tendance à oublier
+           facilement que ces plantes ont propriétés remarquables et jouent
+           un rôle important dans l’écologie de la l’environnement et sommes
+           propriétaires de notre santé."
+
+    p15:
+
+      en: "In the spirit of Racoviță and Eminescu, a child confessed:
+          <strong><em>&quot;I like everything that moves&quot;</em></strong>."
+
+      ro: "În spiritul lui Racoviță și al lui Eminescu, un copil a mărturisit:
+      <strong><em>\"Mie-mi place tot ce mișcă\"</em></strong>."
+
+      fr: "Dans l’esprit de Racoviță et Eminescu, un enfant a avoué :
+          <strong><em>&quot;J'aime tout ce qui bouge&quot;</em></strong>."
+
+    p16:
+
+      en: "The Racovița Foundation develops projects that value, protect and
+       take care of <strong><em>\"tot ce mișcă-n țara asta\"</em>
+       (everything that moves in the realm), and to repay with love and
+       respect <em>\"râul și ramul\"</em></strong> (the river and the
+       branch) which they have been our friends and have protected and
+       generously fed us for centuries. It is our turn to
+       protect them, for the generations that come after us."
+
+      ro: "Fundația Racoviță dezvoltă proiecte care să prețuiască, protejeze și
+      îngrijească <strong><em>\"tot ce mișcă-n țara asta\"</em>, și să
+        răsplăteasca cu drag și respect <em>\"râul și ramul\"</em></strong> care
+      ne-au fost prieteni și ne-au apărat și hrănit cu generozitate vreme de
+      secole.  Este rândul nostru să le protejăm, pentru alte secole de trai
+      îmbelșugat al generațiilor care vin dupa noi."
+
+      fr: "La Fondation Racovița développe des projets qui valorisent, protègent et
+        prends soin de <strong><em>\"tot ce mișcă-n țara asta\"</em>
+        (tout ce qui bouge dans le royaume), et de rembourser avec amour et
+        respect <em>\"râul și ramul\"</em></strong> (la rivière et le
+        branche) qu'ils ont été nos amis et ont protégé et
+        nous a généreusement nourris pendant des siècles. C'est à notre tour de
+        protégez-les, pour les générations qui viendront après nous."
+
+    p17:
+
+      en: "What is ecology and environmental protection, and where do we start? Encouraged
+       by the teacher to build a tree according to their own ideas, a
+       child asked:"
+
+      ro: "Dar ce este ecologia și protecția mediului, și de unde începem?  Încurajați
+      de d-na profesoară să construiască un copac după propriile lor idei, un
+      copil a întrebat:"
+
+      fr: "Mais qu’est-ce que l’écologie et la protection de
+       l’environnement, et par où commencer ? Encouragé par l'enseignant de
+       construire un arbre selon ses propres idées, un l'enfant a demandé :"
+
+    p18:
+      en: "- &quot;<em>Teacher, why aren't we planting trees?</em>&quot;"
+      ro: "- &quot;<em>D-na profesoară, dar nu plantăm copaci?</em>&quot;"
+      fr: "- &quot;<em>Maître, pourquoi ne plantons-nous pas d’arbres ?</em>&quot;"
+
+    p19:
+      en: "- &quot;<em>Of course</em>&quot;, answered with wisdom and patience
+       Professor Mertoiu, &quot;<em>we're going to plant trees, but
+       first let's plant them in our minds, and see how they look</em>.
+       <strong><em>The mind is like a tree, each branch is a thought, and
+       the better and neater our thoughts are, the more fruitful they are.
+       </em></strong>&quot;."
+
+      ro: "- &quot;<em>Ba da</em>&quot;, a răspuns cu înțelepciune și răbdare
+      doamna profesoară Mertoiu, &quot;<em>o să și plantăm copaci, dar mai
+      întâi haideți să-i plantăm în mintea noastră, cum să arate</em>.
+      <strong><em>Mintea e ca și copacul, fiecare ramură este un gând, și cu
+      cât sunt mai bune și mai îngrijite gândurile noastre, cu atât sunt mai
+      roditoare.</em></strong>&quot;."
+
+      fr: "- \"<em>Bien sûr</em>\", répondit avec sagesse et patience
+        Professeur Mertoiu, \"<em>nous allons planter des arbres, mais
+        plantons-les d'abord dans notre esprit et voyons à quoi ils ressemblent</em>.
+        <strong><em>L'esprit est comme un arbre, chaque branche est une pensée, et
+        plus nos pensées sont bonnes et soignées, plus elles sont fructueuses.
+        </em></strong>.\""
+
+    p20:
+      en: "Thus, the students represented in their mind tree their dreams of
+            play, the animals, the road home, and the clear sky of
+            summer. They also reflected on the fact that ecology starts with the ecology of the
+            mind."
+
+      ro: "Elevii și-au reprezentat astfel în copacul minții visurile lor de
+           joacă, animalele, drumul către casa dragă, și cerul senin al
+           verii. Și au reflectat la faptul ca ecologia începe cu ecologia
+           minții."
+
+      fr: "Ainsi, les étudiants ont représenté dans leur arbre mental leurs
+           rêves de le jeu, les animaux, la chemin du retour à la maison et le
+           ciel clair de été. Ils ont également réfléchi au fait que
+           l'écologie commence par l'écologie du esprit."
+
+    p21:
+
+      en: "We hope that this may be the most important memory of the summer
+           camp, and that the students' minds will continue to be cultivated
+           with thoughts of friendship, love of knowledge, and love of
+           nature."
+
+      ro: "Sperăm ca poate aceasta să fie cea mai importantă amintire din
+           tabăra de vară, și că mintea elevilor să continue să fie
+           cultivată cu gânduri bune, prietenie, dragoste de cunoaștere, și
+           dragoste de natură."
+
+      fr: "Nous espérons que ce sera peut-être le souvenir le plus important
+           de l'été camp, et que l'esprit des étudiants continuera à être
+           cultivé avec des pensées d'amitié, d'amour de la connaissance et
+           d'amour de nature."
+
+    p22:
+
+      en: "Because, just as Emil Racoviță said in the speech he gave when
+           inducted to the Romanian Academy:"
+
+      ro: "Pentru că, tot așa cum a spus Emil Racoviță în cuvântarea pe care a ținut-o
+      cu ocazia primirii în Academia Română:"
+
+      fr: "Parce que, comme l'a dit Emil Racoviță dans le discours qu'il a prononcé
+           il a été intronisé à l'Académie roumaine :"
+
+    p23:
+
+      en: "<em><strong>To know or not to know, that is the question!</strong><br />
+             Because not knowing means: superstitions, blind selfishness, wild competition, misunderstandings, enmity, war, famine, ruin.<br />
+             Knowing means for humanity: thorough organization, rational activity, cooperation, solidarity, peaceful evolution.<br />
+             To know means for man: to live your time of «being» with contentment
+             and to wait for the moment of «not being» with serenity</em>.
+             <sup id='fnref:2' role='doc-noteref'><a href='#fn:2' class='footnote' rel='footnote'>2</a></sup>"
+
+      ro: "<em><strong>A ști sau a nu ști, aceasta e intrebarea!</strong><br />
+            Căci a nu ști înseamna: superstiții, egoism orb, concurență sălbatecă, neînțelegre, dușmănie, răsboi, foamete, prăpăd.<br />
+            A ști înseamnă pentru omenire: organizare temeinică, activitate rațională, cooperatism, solidaritate, evoluție pacinică.<br />
+            A ști înseamnă pentru om: a-ți trăi timpul de «a fi» cu mulțumire
+            și a aștepta clipa de «a nu fi» cu seninătate</em>.
+          <sup id='fnref:2' role='doc-noteref'><a href='#fn:2' class='footnote' rel='footnote'>2</a></sup>"
+
+      fr: "<em><strong>Savoir ou ne pas savoir, telle est la question !</strong><br/>
+             Parce que ne pas savoir signifie :
+             superstitions, égoïsme aveugle, compétition sauvage,
+             malentendus, inimitié, guerre, famine, ruine.<br />
+             Connaître signifie pour l'humanité : organisation approfondie,
+             activité rationnelle, coopération, solidarité, évolution
+             pacifique.<br />
+             Connaître signifie pour l'homme : vivre son temps d'« être »
+             avec contentement et d'attendre le moment du «ne pas être» avec
+             sérénité</em>.
+             <sup id='fnref:2' role='doc-noteref'><a href='#fn:2' class='footnote' rel='footnote'>2</a></sup>"
+
+    p24:
+
+      en: "As the students' activities planted that seed of &quot;knowing&quot; in
+          each of the participants, so we prepare for new &quot;învățăcei&quot; (learners),
+          as Ion Creangă, one of Racoviță's teachers, liked to call them, to come
+          to new environmental stories in the future."
+
+      ro: "Și cum activitățile elevilor au sădit acea sămânță de &quot;a ști&quot; în
+           fiecare din participanți, ne pregătim pentru noi &quot;învățăcei&quot;, așa
+           cum îi numea Ion Creangă, unul din dascălii lui Racoviță, să vină
+           la noi povești de mediu, în viitor."
+
+      fr: "Alors que les activités des étudiants ont semé cette graine de
+           « connaissance » dans chacun des participants, nous nous
+           préparons donc pour les nouveau « învățăcei » (apprenants), comme
+           aimait les appeler Ion Creangă, l'un des professeurs de Racoviță,
+           pour venir à de nouvelles histoires environnementales dans
+           l’avenir."
+
+    p25:
+
+      en: "Meanwhile, the seeds of knowledge need the help of everyone
+           around: if you are parents or teachers who want to participate
+           with us in the further development of these activities, or you
+           want to support other children to be able to participate, we
+           invite you to contact the <a href='mailto:info@racovita-foundation.org'>Foundation
+           Racoviță</a>, or the <a href='https://cursuridonbosco.ro/'>
+           Foundation Bosco</a>. The sponsorship of the \"Racoviță\"
+           summer camps can be done through our <a href='/en/donations.html'>donations page</a>."
+
+      ro: "Între timp, semințele cunoașterii au nevoie de aportul tuturor
+           celor din jur: dacă sunteți părinți sau profesori care doriți să
+           participați cu noi în dezvoltarea în continuare a acestor
+           activități, sau doriți să susțineți și alți copii să poată
+           participa, vă invităm să vă adresați <a
+           href='mailto:info@racovita-foundation.org'>Fundației
+           Racoviță</a>, sau <a href='https://cursuridonbosco.ro/'>Fundației
+           Bosco</a>.  Iar sponsorizarea taberelor de vara
+           &quot;Racoviță&quot; se poate face la <a href='/ro/donations.html'>pagina de donații</a>."
+
+      fr: "Pendant ce temps, les germes de la connaissance ont besoin de
+           l’aide de tous autour : si vous êtes parents ou enseignants qui
+           souhaitent participer avec nous dans le développement ultérieur
+           de ces activités, ou vous voulons aider d'autres enfants à
+           pouvoir participer, nous vous invite à contacter le <a
+           href='mailto:info@racovita-foundation.org'>Fondation
+           Racoviță</a>, ou le <a href='https://cursuridonbosco.ro/'>
+           Fondation Bosco</a>. Le parrainage du \"Racoviță\" les camps d'été
+           peuvent être organisés via notre <a href='/fr/donations.html'>page de dons</a>."
+
+    p26:
+
+      en: "The books «Spre Sud» (the travel diary of Emil Racoviță) and
+           «My great-grandfather Emil Racoviță» (authors Andreia Petcu,
+           Eugen Berlo) are available at <a
+           href='https://editurafrontiera.ro/produs/strabunicul-meu-emil-racovita/' target='_blank'>Frontiera Publishing
+           House</a>.  The book «Madhouse at the End of the Earth: The
+           Belgica’s Journey into the Dark Antarctic Night» (author Julian
+           Sancton) is available at <a target='_blank' href='https://www.amazon.com/Madhouse-End-Earth-Belgicas-Antarctic/dp/1984824341/ref=sr_1_1?dib=eyJ2IjoiMSJ9.IpIepU39FqJ90CrYRD9_ncLsfQMy0Ob0s69s8b_5PItBibfynH4NupBpVCBO1tmHvQ9W3khg7hSwlon2Lf2Zfxbh9IlzChw_1r5mxTdTFo6kqmKB-W_t152Ks0HmuNYBelckvwqIIfP1_y0aXUhKw6hxl2_CjxlSaknAmS2tQRmeeFQyO0vkxO1MP8jPPvqwjelkQ3mkpuKgvDX69Zr2cLz8MAZpCIVG2xQgzgmGMTc.4Fitr5Sbw6CTXvpWcDC5Go74AWD8X4ZHyhHxSW65LMc&dib_tag=se&keywords=Madhouse+at+the+End+of+the+Earth&qid=1708333781&sr=8-1'>Amazon</a>.
+           <a href='#fnref:1' class='reversefootnote' role='doc-backlink'>&#8617;</a>"
+
+      ro: "Cărțile «Spre Sud» (jurnalul de călătorie al lui Emil Racoviță)
+          și «Străbunicul meu Emil Racoviță» (autori Andreia Petcu, Eugen
+          Berlo) sunt disponibile la <a
+          href='https://editurafrontiera.ro/produs/strabunicul-meu-emil-racovita/' target='_blank'>Editura Frontiera</a>. Cartea
+          «Prizonieri în noaptea polară» (autor Julian Sancton) este
+          disponibilă la <a href='https://www.clb.ro' target='_blank'>Editura Corint</a>.
+          <a href='#fnref:1' class='reversefootnote' role='doc-backlink'>&#8617;</a>"
+
+      fr: "Les livres « Spre Sud » (le carnet de voyage d'Emil Racoviță) et
+            « Mon arrière-grand-père Emil Racoviță » (auteurs Andreia Petcu,
+            Eugen Berlo) sont disponibles sur <a
+            href='https://editurafrontiera.ro/produs/strabunicul-meu-emil-racovita/' target='_blank'>Édition Frontiera
+            Maison</a>. Le livre « La maison de fous au bout du monde : le
+            Le voyage de Belgica dans la sombre nuit de l'Antarctique » (auteur Julian
+            Sancton) est disponible à <a target='_blank' href='https://www.amazon.com/Madhouse-End-Earth-Belgicas-Antarctic/dp/1984824341/ref=sr_1_1?dib=eyJ2IjoiMSJ9.IpIepU39FqJ90CrYRD9_ncLsfQMy0Ob0s69s8b_5PItBibfynH4NupBpVCBO1tmHvQ9W3khg7hSwlon2Lf2Zfxbh9IlzChw_1r5mxTdTFo6kqmKB-W_t152Ks0HmuNYBelckvwqIIfP1_y0aXUhKw6hxl2_CjxlSaknAmS2tQRmeeFQyO0vkxO1MP8jPPvqwjelkQ3mkpuKgvDX69Zr2cLz8MAZpCIVG2xQgzgmGMTc.4Fitr5Sbw6CTXvpWcDC5Go74AWD8X4ZHyhHxSW65LMc&dib_tag=se&keywords=Madhouse+at+the+End+of+the+Earth&qid=1708333781&sr=8-1'>Amazon</a>.
+           <a href='#fnref:1' class='reversefootnote' role='doc-backlink'>&#8617;</a>"
+
+    p27:
+      en: "Emil Racoviță. Romanian Academy, Speeches of Reception, No. LXI, Bucharest 1926, p. 40-41.<a href='#fnref:2' class='reversefootnote' role='doc-backlink'>&#8617;</a>"
+      ro: "Emil Racoviță. Academia Română, Discursuri de Recepțiune, No. LXI, București 1926, p. 40-41.<a href='#fnref:2' class='reversefootnote' role='doc-backlink'>&#8617;</a>"
+      fr: "Émile Racoviță. Académie roumaine, Discours de réception, n° LXI, Bucarest 1926, p. 40-41.<a href='#fnref:2' class='reversefootnote' role='doc-backlink'>&#8617;</a>"
