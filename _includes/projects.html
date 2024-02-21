@@ -1,0 +1,25 @@
+<div class="container align-items-center">
+  <div class="row p-5 g-5">
+  {%- for card in site.data.projects -%}
+      <div class="card border-light col-lg-6 col-md-12 col-sm-12 px-5 gx-5">
+        <a href="/{{ page.lang }}/{{ card.link }}">
+          <img src="{{ card.image }}"
+             class="ratio ratio-21x9 card-img-top img-fluid"
+               alt="{{ card.alt }}">
+          </a>
+        <div class="card-body">
+          {% assign page_ref = card.link | replace: "%page.lang%", page.lang | relative_url %}
+          {% if card.post != true %}
+          {%   assign page_ref = "/" | append: page.lang | append: "/" | append: page_ref %}
+          {% endif %}
+          <h2 class="card-title fw-bold text-uppercase">{{ card.title[page.lang] }}</h2>
+          <p class="card-text">{{ card.description[page.lang] }}</p>
+          <p class="card-text">{{ card.location }}, {{ card.date[page.lang] }}</p>
+          <a href="{{ page_ref }}" class="btn btn-light text-uppercase">
+            {{ site.data.xlate.readmore[page.lang] }}
+          </a>
+        </div>
+      </div>
+  {%- endfor -%}
+  </div>
+</div>

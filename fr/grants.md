@@ -1,7 +1,7 @@
 ---
 lang: fr
 ref: grants
-banner: banner-activitiati.jpg
+banner: banner-activitati.jpg
 ---
 
 # Applications

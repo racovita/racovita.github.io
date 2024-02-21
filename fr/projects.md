@@ -1,7 +1,7 @@
 ---
 lang: fr
 ref: projects
-banner: banner-activitiati.jpg
+banner: banner-activitati.jpg
 ---
 
-{% include projects.md %}
+{% include projects.html %}

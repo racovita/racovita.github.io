@@ -1,10 +1,9 @@
+{% for project in site.data.projects %}
+  {% if project.project == "bosco 2023" %}
+    {% assign heading = project %}
+  {% endif %}
+{% endfor %}
 {% for topic in site.data.bosco2023 %}
-  {% if topic.topic == "heading" %}
-    {% assign heading = topic %}
-  {% endif %}
-  {% if topic.topic == "theme" %}
-    {% assign theme = topic %}
-  {% endif %}
   {% if topic.topic == "objectives" %}
     {% assign obj = topic %}
   {% endif %}
@@ -24,12 +23,12 @@
   <div class="c4-feature row align-items-center">
 
     <h1 class="text-uppercase font-weight-bold"
-        id="pe-urmele-lui-emil-racoviță"><strong>{{ theme.area[page.lang] }}</strong></h1>
+        id="pe-urmele-lui-emil-racoviță"><strong>{{ heading.area[page.lang] }}</strong></h1>
 
-    <h2 class="text-uppercase"><strong>{{theme.caption[page.lang]}}</strong>:
-      <span class="text-uppercase">{{ theme.theme[page.lang] }}</span></h2>
+    <h2 class="text-uppercase"><strong>{{site.data.xlate.theme[page.lang]}}</strong>:
+      <span class="text-uppercase">{{ heading.theme[page.lang] }}</span></h2>
 
-    <h3 id="activități-de-vară-la-fundația-giovanni-bosco">{{ heading.heading[page.lang] }}</h3>
+    <h3 id="activități-de-vară-la-fundația-giovanni-bosco">{{ heading.title[page.lang] }}</h3>
 
     <p><em>{{ obj.thanks[page.lang] }}.</em></p>
 

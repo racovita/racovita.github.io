@@ -5,4 +5,4 @@ ref: projects
 banner: banner-activitati.jpg
 ---
 
-{% include projects.md %}
+{% include projects.html %}

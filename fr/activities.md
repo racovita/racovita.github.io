@@ -2,7 +2,7 @@
 lang: fr
 layout: page
 title: Activités
-banner: banner-activitiati.jpg
+banner: banner-activitati.jpg
 ref: activities
 ---
 

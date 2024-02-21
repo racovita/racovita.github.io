@@ -2,7 +2,7 @@
 title: Grants
 lang: en
 ref: grants
-banner: banner-activitiati.jpg
+banner: banner-activitati.jpg
 ---
 
 # Applications
