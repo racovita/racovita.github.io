@@ -5,7 +5,7 @@ lang: en
 ref: dedeckker-2023
 description: "Lecture at Clubul Casei Universitarilor, 1 Emmanuel de Martonne Str., Cluj-Napoca, Romania,
 on <strong>May 4th, 2023 at 17:00 (EEST)</strong>."
-banner: /assets/images/May23/web_banner.jpg
+banner: /assets/images/banners/banner-dedeckker2023.jpg
 card_banner: /assets/images/cards/post-20230504.jpg
 ---
 

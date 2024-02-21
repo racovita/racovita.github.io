@@ -2,7 +2,7 @@
 lang: en
 layout: page
 title: Summer activities at Giovanni Bosco Foundation
-banner: banner-activitati.jpg
+banner: banner-bosco.jpg
 ref: bosco2023
 ---
 

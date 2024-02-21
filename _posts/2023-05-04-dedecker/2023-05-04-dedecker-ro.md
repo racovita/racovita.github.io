@@ -5,7 +5,7 @@ description: "Prelegere organizată la Clubul Casei Universitarilor, str. Emmanu
 layout: 'post'
 lang: ro
 ref: dedeckker-2023
-banner: /assets/images/May23/web_banner.jpg
+banner: /assets/images/banners/banner-dedeckker2023.jpg
 card_banner: /assets/images/cards/post-20230504.jpg
 ---
 

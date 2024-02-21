@@ -2,7 +2,7 @@
 lang: ro
 layout: page
 title: Activități de vară la Fundația Giovanni Bosco
-banner: banner-activitati.jpg
+banner: banner-bosco.jpg
 ref: bosco2023
 ---
 

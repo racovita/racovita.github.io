@@ -3,7 +3,7 @@ title: L'héritage éternel de la science et de l'exploration du Emil Racovitza
 layout: 'post'
 lang: fr
 ref: ubb75years
-banner: /assets/images/Nov22/web_banner.png
+banner: /assets/images/banners/banner-timeless.jpg
 youtube: https://youtu.be/OydU9DFSqmg
 card_banner: /assets/images/cards/post-20221117.jpg
 ---

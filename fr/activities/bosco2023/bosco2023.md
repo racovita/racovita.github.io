@@ -2,7 +2,7 @@
 lang: fr
 layout: page
 title: Activités d'été à la Fondation Giovanni Bosco
-banner: banner-activitati.jpg
+banner: banner-bosco.jpg
 ref: bosco2023
 ---
 
