@@ -16,6 +16,7 @@
       ro: Despre Fundatie
       fr: À propos de la Fondation
       link: foundation.html
+
     - title: Mission
       en: Mission
       ro: Misiune
@@ -41,6 +42,12 @@
       fr: Patrons
       de: Unterstützer
       link: sponsors.html
+
+    - title: Membership
+      en: Become a member
+      fr: Devenir membre
+      ro: Deveniți membru
+      link: membership.html
 
 - title: Emil G. Racoviță
   subnav:
