@@ -4,25 +4,22 @@ fr: Conseil d'administration
 ro: Consiliul director
 positions:
   - president:
-    name: Octavian Popescu
-    de: Präsident
+    name: Călin Cașcaval
     en: President
     fr: Président
     ro: Președinte
 
   - vice-president:
     name: Viorel Lascu
-    de: Geschäftsführender Präsident
-    en: Executive President
-    fr: Président Exécutif
-    ro: Președinte Executiv
+    en: Vice-President
+    fr: Vice-Président
+    ro: Vice-Președinte
 
   - members:
     names:
-      - Călin Cașcaval
       - Dan Hazaparu
+      - Octavian Popescu
       - Simion Simon
-    de: Mitglieder
     en: Members
     fr: Membres
     ro: Membri
