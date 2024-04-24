@@ -1,5 +1,11 @@
 {% assign posts=site.posts | where:"lang", page.lang %}
 
+<!-- debug
+{% for p in posts %}
+  {{ p.title}}<br/>
+{% endfor %}
+-->
+
 <div class="container align-items-center">
   <div class="row p-5 g-5">
   {%- for post in posts -%}
