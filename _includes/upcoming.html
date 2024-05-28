@@ -1,5 +1,5 @@
 
-{% assign currentDate = "2023-09-13" %}
+{% assign currentDate = "2024-01-01" %}
 {% assign posts = site.posts | where:"lang", page.lang %}
 
 {% assign hasUpcoming = false %}
@@ -44,7 +44,10 @@
         {% endif %}
         <h2 class="lh-1 mb-3">{{ post.title }}</h2>
       <p>
-        {{ post.description | capitalize }}
+        {% assign descr_head = post.description | split: " " | first %}
+        {% assign descr_tail = post.description | remove_first: descr_head %}
+        {% assign descr_head = descr_head | capitalize %}
+        {{ descr_head }} {{ descr_tail }}
       </p>
       </a>
     </div>

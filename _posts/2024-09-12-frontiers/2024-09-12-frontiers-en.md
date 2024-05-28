@@ -11,7 +11,7 @@ Join a diverse group of experts as they unravel the complexities of these formid
 Through captivating discussions and pioneering research presentations, we aim to uncover the secrets of
 adaptation and resilience in extreme conditions. Be part of this extraordinary journey to decipher the mysteries
 of extreme environments and the remarkable adaptability of life in the face of nature’s harshest challenges."
-card_banner: /assets/images/cards/post-20240912.png
+card_banner: /assets/images/cards/post-20240912.jpg
 ---
 
 

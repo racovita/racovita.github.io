@@ -11,7 +11,7 @@ Rejoignez un groupe diversifié d'experts alors qu'ils découvrent les subtilit�
 Grâce à des discussions engageantes et à des présentations de recherches pionnières, nous visons à découvrir les secrets de
 adaptation et résistance aux conditions extrêmes. Faites partie de ce voyage extraordinaire pour déchiffrer les mystères
 des environnements extrêmes et la remarquable adaptabilité de la vie face aux défis les plus difficiles de la nature."
-card_banner: /assets/images/cards/post-20240912.png
+card_banner: /assets/images/cards/post-20240912.jpg
 ---
 
 <a href="https://institutulracovita.ro/extremenv/">

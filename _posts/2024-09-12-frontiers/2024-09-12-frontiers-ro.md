@@ -11,7 +11,7 @@ Alăturați-vă unui grup divers de experți ce dezvăluie complexitățile aces
 Prin discuții captivante și prezentări de cercetare de pionierat, ne propunem să descoperim secretele de
 adaptare și rezistență în condiții extreme. Fii parte din această călătorie extraordinară pentru a descifra misterele
 de medii extreme și de adaptabilitatea remarcabilă a vieții în fața celor mai dure provocări ale naturii."
-card_banner: /assets/images/cards/post-20240912.png
+card_banner: /assets/images/cards/post-20240912.jpg
 ---
 
 
