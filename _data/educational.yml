@@ -1,30 +1,49 @@
-- project: burse
+- project: bosco 2023
   title:
-    en: "Grants to support innovation, exploration, and research"
-    ro: "Burse pentru inovație, explorare și cercetare"
-    fr: "..."
+    en: "Educational summer activities at Giovanni Bosco Foundation"
+    ro: "Activități educaționale de vară la Fundația Giovanni Bosco"
+    fr: "Activités éducatives d'été à la Fondation Giovanni Bosco"
   description:
-    en: ""
-    ro: "Co-mentorat de studenți universitari între profesori și cercetători români și străini  prin inițierea de colaborări, și atragerea de resurse cu cost minim pentru fundație."
-    fr: ""
 
+    en: "Summer camp to expose students (grades 1-8) to environmental
+    understanding, exploration, research, and conservation, through
+    age-appropriate activities and games."
+
+    ro: "Tabără de vară cu scopul expunerii elevilor (clasele 1-8) la
+    cunoașterea, explorarea, cercetarea, și protecția mediului, prin
+    activități și jocuri adecvate vârstei."
+
+    fr: "Camp d'été pour exposer les élèves (de la 1re à la 8e année) à la
+     compréhension de l'environnement, l'exploration, la recherche et la
+     conservation, grâce à des activités adaptées à l'âge activités et
+     jeux."
+
+  location: Constanța
   date:
-    en: "Ongoing"
-    ro: ""
-    fr: ""
+    en: "June 19 - July 14, 2023"
+    ro: "19 iunie - 14 iulie, 2023"
+    fr: "19 juin - 14 juillet, 2023"
+  theme:
+    en: "Environment Protection and Exploration"
+    ro: "Protecția și Explorarea Mediului"
+    fr: "Protection de l'environnement et exploration"
+  area:
+    en: "Following in Emil Racoviță's footsteps"
+    ro: "Pe urmele lui Emil Racoviță"
+    fr: "Sur les traces d'Emil Racoviță"
   people:
-    en: "Bogdan Onac, Ioana Meleg, Octavian Popescu"
-    ro: "Bogdan Onac, Ioana Meleg, Octavian Popescu"
-    fr: "Bogdan Onac, Ioana Meleg, Octavian Popescu"
-  image: /assets/images/cards/burse.jpg
-  alt: "Grants"
-  link: grants.html
+    en: "Teacher - Carmen Mertoiu<br/>Coordinator - Oana Marcu"
+    ro: "Educatoare - Carmen Mertoiu<br/>Coordinatoare - Oana Marcu"
+    fr: "Éducatrice - Carmen Mertoiu<br/>Coordinatrice - Oana Marcu"
+  image: /assets/events/bosco2023/photo09.png
+  alt: "Summer camp at Bosco Foundation"
+  link: activities/bosco2023/bosco2023.html
 
-- project: caves
+- project: orasul acasa 2023
   title:
-    en: "Speleotropolis"
-    ro: "Speleotropolis"
-    fr: "Speleotropolis"
+    en: "Orașul Acasă 2023 - Nature and Aventure"
+    ro: "Orașul Acasă 2023 - Natura și Aventura"
+    fr: "Orașul Acasă 2023 - Nature et Aventure"
   description:
     en: "Adventure in nature: event dedicated to Emil G. Racoviță.
         The event is part of the <em>Orașul Acasă 2023</em> project and will
@@ -56,8 +75,9 @@
   image: /assets/images/cards/post-20230707.jpg
   alt: "Orașul Acasă 2023"
   link: "/2023/07/07/orasul-%page.lang%.html"
+  post: true
 
-- project: education
+- project: timeless exploration 2022
   title:
     en: "The timeless science and exploration legacy of Emil G. Racoviță"
     ro: "Actualitatea patrimoniului științific și de explorare a lui Emil G. Racoviță"
@@ -89,43 +109,5 @@
     fr: "Universitatea Babeș-Bolyai"
   image: /assets/images/cards/post-20221117.jpg
   alt: "Timeless exploration"
-  link: "educational.html"
-
-- project: publishing
-  title:
-    en: "Publications"
-    ro: "Publicații"
-    fr:
-  description:
-    en: "Create and publish a portfolio of books, online materials, and podcasts to disemination scientific knowledge to people of all ages (to be developed)"
-    ro: "Creerea si publicarea unui portofoliu de cărți, materiale online și podcasturi pentru a diseminarea cunoștințelor științifice către oameni de toate vârstele (program în curs de dezvoltat)"
-    fr: "Créer et publier un portfolio de livres, de matériel en ligne et de podcasts pour diffuser les connaissances scientifiques aux personnes de tous âges (programme en cours de développement)"
-  people: Viorel Lascu, Ioana Meleg, Oana Marcu
-  image:
-  alt:
-  link: projects.html
-
-- project: env
-  title:
-    en: "Environment protection and conservation"
-    ro: "Conservarea și Protecția Mediului"
-    fr:
-  description:
-    en: "to be developed"
-  people: Viorel Lascu, Ioana Meleg, Oana Marcu
-  image:
-  alt:
-  link:
-
-- project: museum
-  title:
-    en: "Emil Racovita museum in Cluj Napoca"
-    ro: "Muzeul Emil Racovita – Cluj Napoca "
-    fr:
-  description:
-    en: "to be developed"
-  people: Octavian Popescu, Simion Simon, Oana Marcu, Viorel Lascu
-  image:
-  alt:
-  link:
-
+  link: "/2022/11/17/timeless-%page.lang%.html"
+  post: true

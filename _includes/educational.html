@@ -1,6 +1,6 @@
 <div class="container align-items-center">
   <div class="row p-5 g-5">
-  {%- for card in site.data.projects -%}
+  {%- for card in site.data.educational -%}
       <div class="card border-light col-lg-6 col-md-12 col-sm-12 px-5 gx-5">
         <a href="/{{ page.lang }}/{{ card.link }}">
           <img src="{{ card.image }}"
@@ -14,6 +14,7 @@
           {% endif %}
           <h2 class="card-title fw-bold text-uppercase">{{ card.title[page.lang] }}</h2>
           <p class="card-text">{{ card.description[page.lang] }}</p>
+          <p class="card-text">{{ card.location }}, {{ card.date[page.lang] }}</p>
           <a href="{{ page_ref }}" class="btn btn-light text-uppercase">
             {{ site.data.xlate.readmore[page.lang] }}
           </a>
